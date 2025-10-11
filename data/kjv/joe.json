@@ -1,0 +1,304 @@
+{
+  "id": "joe",
+  "name": "Joel",
+  "order": 29,
+  "section": "Old Testament",
+  "folios": [],
+  "chapters": [
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 19,
+          "sinaiticus": {},
+          "text": "And he smote the men of Bethshemesh, because they had looked into the ark of the LORD, even he smote of the people fifty thousand and threescore and ten men: and the people lamented, because the LORD had smitten many of the people with a great slaughter.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/joe/6/19"
+            }
+          ]
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {},
+          "text": "And the men of Bethshemesh said, Who is able to stand before this holy LORD God? and to whom shall he go up from us? 6:21 And they sent messengers to the inhabitants of Kirjathjearim, saying, The Philistines have brought again the ark of the LORD; come ye down, and fetch it up to you.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/joe/6/20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {},
+          "text": "And the men of Kirjathjearim came, and fetched up the ark of the LORD, and brought it into the house of Abinadab in the hill, and sanctified Eleazar his son to keep the ark of the LORD.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/joe/7/1"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {},
+          "text": "And it came to pass, while the ark abode in Kirjathjearim, that the time was long; for it was twenty years: and all the house of Israel lamented after the LORD.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/joe/7/2"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {},
+          "text": "And Samuel spake unto all the house of Israel, saying, If ye do return unto the LORD with all your hearts, then put away the strange gods and Ashtaroth from among you, and prepare your hearts unto the LORD, and serve him only: and he will deliver you out of the hand of the Philistines.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/joe/7/3"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {},
+          "text": "Then the children of Israel did put away Baalim and Ashtaroth, and served the LORD only.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/joe/7/4"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {},
+          "text": "And Samuel said, Gather all Israel to Mizpeh, and I will pray for you unto the LORD.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/joe/7/5"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {},
+          "text": "And they gathered together to Mizpeh, and drew water, and poured it out before the LORD, and fasted on that day, and said there, We have sinned against the LORD. And Samuel judged the children of Israel in Mizpeh.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/joe/7/6"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {},
+          "text": "And when the Philistines heard that the children of Israel were gathered together to Mizpeh, the lords of the Philistines went up against Israel. And when the children of Israel heard it, they were afraid of the Philistines.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/joe/7/7"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {},
+          "text": "And the children of Israel said to Samuel, Cease not to cry unto the LORD our God for us, that he will save us out of the hand of the Philistines.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/joe/7/8"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {},
+          "text": "And Samuel took a sucking lamb, and offered it for a burnt offering wholly unto the LORD: and Samuel cried unto the LORD for Israel; and the LORD heard him.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/joe/7/9"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {},
+          "text": "And as Samuel was offering up the burnt offering, the Philistines drew near to battle against Israel: but the LORD thundered with a great thunder on that day upon the Philistines, and discomfited them; and they were smitten before Israel.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/joe/7/10"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {},
+          "text": "And the men of Israel went out of Mizpeh, and pursued the Philistines, and smote them, until they came under Bethcar.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/joe/7/11"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {},
+          "text": "Then Samuel took a stone, and set it between Mizpeh and Shen, and called the name of it Ebenezer, saying, Hitherto hath the LORD helped us.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/joe/7/12"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {},
+          "text": "So the Philistines were subdued, and they came no more into the coast of Israel: and the hand of the LORD was against the Philistines all the days of Samuel.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/joe/7/13"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {},
+          "text": "And the cities which the Philistines had taken from Israel were restored to Israel, from Ekron even unto Gath; and the coasts thereof did Israel deliver out of the hands of the Philistines. And there was peace between Israel and the Amorites.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/joe/7/14"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {},
+          "text": "And Samuel judged Israel all the days of his life.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/joe/7/15"
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {},
+          "text": "And he went from year to year in circuit to Bethel, and Gilgal, and Mizpeh, and judged Israel in all those places.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/joe/7/16"
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {},
+          "text": "And his return was to Ramah; for there was his house; and there he judged Israel; and there he built an altar unto the LORD.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/joe/7/17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {},
+          "text": "And it came to pass, when Samuel was old, that he made his sons",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/joe/8/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

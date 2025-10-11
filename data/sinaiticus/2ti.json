@@ -1,0 +1,879 @@
+{
+  "id": "2ti",
+  "name": "Paul to Timothy 2",
+  "order": 17,
+  "section": "New Testament",
+  "folios": [],
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "Timothy 1"
+          },
+          "text": "Timothy 1",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "Paul, an apostle of Christ Jesus through the will of God, according to the promise of life that is in Christ Jesus,"
+          },
+          "text": "Paul, an apostle of Christ Jesus through the will of God, according to the promise of life that is in Christ Jesus,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "to Timothy, my beloved son. Grace, mercy, peace from God the Father and Christ Jesus our Lord."
+          },
+          "text": "to Timothy, my beloved son. Grace, mercy, peace from God the Father and Christ Jesus our Lord.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "I thank God, whom I serve from my forefathers in a pure conscience, that I have unceasing remembrance of thee in my prayers night and day,"
+          },
+          "text": "I thank God, whom I serve from my forefathers in a pure conscience, that I have unceasing remembrance of thee in my prayers night and day,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "greatly desiring to see thee, being mindful of thy tears that I may be filled with joy,"
+          },
+          "text": "greatly desiring to see thee, being mindful of thy tears that I may be filled with joy,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "having taken in memory the unfeigned faith that is in thee, which dwelt first in thy grandmother Lois, and in thy mother Eunice, and I am persuaded that in thee also."
+          },
+          "text": "having taken in memory the unfeigned faith that is in thee, which dwelt first in thy grandmother Lois, and in thy mother Eunice, and I am persuaded that in thee also.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "For which cause I put thee in remembrance to kindle up the gift of God, which is in thee through the laying on of my hands."
+          },
+          "text": "For which cause I put thee in remembrance to kindle up the gift of God, which is in thee through the laying on of my hands.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "For God has not given us the spirit of fear, but of power and of love and of soberness of mind."
+          },
+          "text": "For God has not given us the spirit of fear, but of power and of love and of soberness of mind.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "Be not therefore ashamed of the testimony of our Lord, neither of me his prisoner; but suffer evil with the in the gospel, according to the power of God,"
+          },
+          "text": "Be not therefore ashamed of the testimony of our Lord, neither of me his prisoner; but suffer evil with the in the gospel, according to the power of God,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "who saved us and called us with a holy calling, not according to our works, but according to his own purpose and grace that was given us in Christ Jesus before the times of the ages,"
+          },
+          "text": "who saved us and called us with a holy calling, not according to our works, but according to his own purpose and grace that was given us in Christ Jesus before the times of the ages,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "but is manifested now through the appearing of our Saviour Christ Jesus, who indeed abolished death, and brought life and incorruptibility to light through the gospel,"
+          },
+          "text": "but is manifested now through the appearing of our Saviour Christ Jesus, who indeed abolished death, and brought life and incorruptibility to light through the gospel,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "to which I was appointed a preacher, and an apostle, and a teacher of the Gentiles;"
+          },
+          "text": "to which I was appointed a preacher, and an apostle, and a teacher of the Gentiles;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "for which cause I also suffer these things, but I am not ashamed; for I know in whom I have believed, and I am persuaded that he is able to keep that which I have committed to him to that day."
+          },
+          "text": "for which cause I also suffer these things, but I am not ashamed; for I know in whom I have believed, and I am persuaded that he is able to keep that which I have committed to him to that day.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "Hold fast the form of healthful words, which thou hast heard from me, in faith and love which is in Christ Jesus:"
+          },
+          "text": "Hold fast the form of healthful words, which thou hast heard from me, in faith and love which is in Christ Jesus:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "the excellent trust committed to thee, keep through the Holy Spirit that dwells in us."
+          },
+          "text": "the excellent trust committed to thee, keep through the Holy Spirit that dwells in us.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {
+            "text": "Thou knowest this, that all those in Asia, of whom are Phygelus and Hermogenes, have turned away from me."
+          },
+          "text": "Thou knowest this, that all those in Asia, of whom are Phygelus and Hermogenes, have turned away from me.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {
+            "text": "The Lord grant mercy to the house of Onesiphorus, because he often refreshed me, and was not ashamed of my chain."
+          },
+          "text": "The Lord grant mercy to the house of Onesiphorus, because he often refreshed me, and was not ashamed of my chain.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {
+            "text": "but, when he was in Rome, he sought me out very diligently and"
+          },
+          "text": "but, when he was in Rome, he sought me out very diligently and",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {
+            "text": "The Lord grant to him to find mercy from the Lord in that day. And in how many things he ministered to me in Ephesus, thou knowest very well."
+          },
+          "text": "The Lord grant to him to find mercy from the Lord in that day. And in how many things he ministered to me in Ephesus, thou knowest very well.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "Timothy 2"
+          },
+          "text": "Timothy 2",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "Thou therefore, my son, be strong in the grace that is in Christ Jesus,"
+          },
+          "text": "Thou therefore, my son, be strong in the grace that is in Christ Jesus,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "and the things which thou hast heard from me through many witnesses, these commit to faithful men, who shall be able to teach others also."
+          },
+          "text": "and the things which thou hast heard from me through many witnesses, these commit to faithful men, who shall be able to teach others also.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "Suffer affliction with me as a good soldier of Christ Jesus."
+          },
+          "text": "Suffer affliction with me as a good soldier of Christ Jesus.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "No one that wars entangles himself with the matters of life, that he may please him that has chosen him to be a soldier."
+          },
+          "text": "No one that wars entangles himself with the matters of life, that he may please him that has chosen him to be a soldier.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "And if any one also contend in the games, he is not crowned unless he contend lawfully."
+          },
+          "text": "And if any one also contend in the games, he is not crowned unless he contend lawfully.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "The laboring farmer must first partake of the fruits."
+          },
+          "text": "The laboring farmer must first partake of the fruits.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "Consider what I say; for the Lord will give thee understanding in all things."
+          },
+          "text": "Consider what I say; for the Lord will give thee understanding in all things.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "Keep in memory Jesus Christ raised from the dead, of the posterity of David, according to my gospel,"
+          },
+          "text": "Keep in memory Jesus Christ raised from the dead, of the posterity of David, according to my gospel,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "in which I suffer evil, even to bonds as an evil-doer, but the word of God is not bound."
+          },
+          "text": "in which I suffer evil, even to bonds as an evil-doer, but the word of God is not bound.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "For this reason I endure all things for the sake of the elect, that they also may obtain the salvation which is in Christ Jesus with glory eternal."
+          },
+          "text": "For this reason I endure all things for the sake of the elect, that they also may obtain the salvation which is in Christ Jesus with glory eternal.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "Faithful is the saying: For if we have died with him, we shall also live with him;"
+          },
+          "text": "Faithful is the saying: For if we have died with him, we shall also live with him;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "if we are patient, we shall also reign with him; if we shall deny him, he will also deny us;"
+          },
+          "text": "if we are patient, we shall also reign with him; if we shall deny him, he will also deny us;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "if we believe not, he abides faithful; for he can not deny himself."
+          },
+          "text": "if we believe not, he abides faithful; for he can not deny himself.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "Put them in remembrance of these things, charging them before the Lord not to fight about words, to no profit, for the subverting of the hearers."
+          },
+          "text": "Put them in remembrance of these things, charging them before the Lord not to fight about words, to no profit, for the subverting of the hearers.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {
+            "text": "Study to present thyself to God approved, a workman not to be made ashamed, cutting straight the word of truth."
+          },
+          "text": "Study to present thyself to God approved, a workman not to be made ashamed, cutting straight the word of truth.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {
+            "text": "But the profane vain-babblings avoid, for they will increase to a greater degree of ungodliness,"
+          },
+          "text": "But the profane vain-babblings avoid, for they will increase to a greater degree of ungodliness,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {
+            "text": "and their word will eat as a gangrene. Of whom are Hymenseus and Philetus,"
+          },
+          "text": "and their word will eat as a gangrene. Of whom are Hymenseus and Philetus,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {
+            "text": "who concerning the truth have erred, saying that the resurrection is already past, and overthrow the faith of some.380"
+          },
+          "text": "who concerning the truth have erred, saying that the resurrection is already past, and overthrow the faith of some.380",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 19,
+          "sinaiticus": {
+            "text": "Nevertheless the firm foundation of God stands fast, having this seal: The Lord knows them that are his, and: Let every one that names the name of the Lord depart from iniquity."
+          },
+          "text": "Nevertheless the firm foundation of God stands fast, having this seal: The Lord knows them that are his, and: Let every one that names the name of the Lord depart from iniquity.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {
+            "text": "But in a great house there are not only vessels of gold and of silver, but also of wood and of earth, and some for honor, and some for dishonor:"
+          },
+          "text": "But in a great house there are not only vessels of gold and of silver, but also of wood and of earth, and some for honor, and some for dishonor:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 21,
+          "sinaiticus": {
+            "text": "if then any one will cleanse himself from these, he shall be a vessel for honor, sanctified, fit for the Master’s use, prepared for every good work."
+          },
+          "text": "if then any one will cleanse himself from these, he shall be a vessel for honor, sanctified, fit for the Master’s use, prepared for every good work.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 22,
+          "sinaiticus": {
+            "text": "But flee youthful desires, and pursue righteousness, faith, love, peace, with those that call on the Lord out of a pure heart."
+          },
+          "text": "But flee youthful desires, and pursue righteousness, faith, love, peace, with those that call on the Lord out of a pure heart.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 23,
+          "sinaiticus": {
+            "text": "But the foolish and unlearned questions reject, knowing that they gender fightings;"
+          },
+          "text": "But the foolish and unlearned questions reject, knowing that they gender fightings;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 24,
+          "sinaiticus": {
+            "text": "and the servant of the Lord must not fight, but be gentle towards all apt to teach, patient under evils,"
+          },
+          "text": "and the servant of the Lord must not fight, but be gentle towards all apt to teach, patient under evils,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 25,
+          "sinaiticus": {
+            "text": "in meekness instructing those that oppose themselves, if perhaps God may give them repentance to the acknowledgment of the truth,"
+          },
+          "text": "in meekness instructing those that oppose themselves, if perhaps God may give them repentance to the acknowledgment of the truth,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 26,
+          "sinaiticus": {
+            "text": "and they may awake to soberness out of the snare of the devil, being taken captive by him at his will."
+          },
+          "text": "and they may awake to soberness out of the snare of the devil, being taken captive by him at his will.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "Timothy 3"
+          },
+          "text": "Timothy 3",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "But know this, that in the last days perilous times shall come."
+          },
+          "text": "But know this, that in the last days perilous times shall come.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "For men shall be lovers of themselves, lovers of money, boasters, haughty, blasphemers, disobedient to parents, unthankful, unholy,"
+          },
+          "text": "For men shall be lovers of themselves, lovers of money, boasters, haughty, blasphemers, disobedient to parents, unthankful, unholy,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "without natural affection, truce-breakers, false accusers, without self-control, fierce, that love not the good,"
+          },
+          "text": "without natural affection, truce-breakers, false accusers, without self-control, fierce, that love not the good,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "traitors, rash, conceited, lovers of pleasure more than lovers of God,"
+          },
+          "text": "traitors, rash, conceited, lovers of pleasure more than lovers of God,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "having a form of godliness, but denying its power; from these also turn away."
+          },
+          "text": "having a form of godliness, but denying its power; from these also turn away.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "For of such are they that enter into houses, and lead captive silly women burdened with sins, led away by various desires,"
+          },
+          "text": "For of such are they that enter into houses, and lead captive silly women burdened with sins, led away by various desires,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "always learning and never able to come to the acknowledgment of the truth."
+          },
+          "text": "always learning and never able to come to the acknowledgment of the truth.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "But as Jannes and Jambres resisted Moses, so also these resist the truth, men corrupt in mind, disapproved concerning the faith."
+          },
+          "text": "But as Jannes and Jambres resisted Moses, so also these resist the truth, men corrupt in mind, disapproved concerning the faith.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "But they shall not proceed further; for their madness shall be manifest to all, as theirs also became."
+          },
+          "text": "But they shall not proceed further; for their madness shall be manifest to all, as theirs also became.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "But thou hast followed my teaching, manner of life, purpose, faith, longsuffering, love, patience,"
+          },
+          "text": "But thou hast followed my teaching, manner of life, purpose, faith, longsuffering, love, patience,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "persecutions, sufferings, such as came on me in Antioch, in Iconium, in Lystra; which persecutions I endured, and out of them all"
+          },
+          "text": "persecutions, sufferings, such as came on me in Antioch, in Iconium, in Lystra; which persecutions I endured, and out of them all",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "And all indeed that desire to live godly in Christ Jesus shall suffer persecution."
+          },
+          "text": "And all indeed that desire to live godly in Christ Jesus shall suffer persecution.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "But wicked men and seducers shall advance to the worse, deceiving and being deceived."
+          },
+          "text": "But wicked men and seducers shall advance to the worse, deceiving and being deceived.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "But abide thou in the things which thou hast learned and been assured of knowing from whom thou hast learned them,"
+          },
+          "text": "But abide thou in the things which thou hast learned and been assured of knowing from whom thou hast learned them,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {
+            "text": "and that from a child thou hast known the holy Scriptures, which are able to make thee wise to salvation, through faith that is in Christ Jesus."
+          },
+          "text": "and that from a child thou hast known the holy Scriptures, which are able to make thee wise to salvation, through faith that is in Christ Jesus.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {
+            "text": "All scripture is by inspiration of God, and is profitable for teaching, for reproof, for correction, for instruction in righteousness,"
+          },
+          "text": "All scripture is by inspiration of God, and is profitable for teaching, for reproof, for correction, for instruction in righteousness,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {
+            "text": "that the man of God may be perfect, thoroughly furnished for every good work."
+          },
+          "text": "that the man of God may be perfect, thoroughly furnished for every good work.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "Timothy 3 I charge thee before God, and Christ Jesus, who shall judge the living and dead; I also charge thee by his appearing and his kingdom,"
+          },
+          "text": "Timothy 3 I charge thee before God, and Christ Jesus, who shall judge the living and dead; I also charge thee by his appearing and his kingdom,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "preach the word, be urgent in season, out of season, reprove, rebuke, exhort, in all longsuffering and teaching."
+          },
+          "text": "preach the word, be urgent in season, out of season, reprove, rebuke, exhort, in all longsuffering and teaching.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "For a time will come when they will not endure healthful teaching, but according to their own desires they will heap up to themselves teachers, having itching ears,"
+          },
+          "text": "For a time will come when they will not endure healthful teaching, but according to their own desires they will heap up to themselves teachers, having itching ears,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "and will turn away their ears from the truth, and be turned to fables."
+          },
+          "text": "and will turn away their ears from the truth, and be turned to fables.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "But watch thou in all things, endure evil, do the work of an evangelist, fully accomplish thy ministry."
+          },
+          "text": "But watch thou in all things, endure evil, do the work of an evangelist, fully accomplish thy ministry.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "For I am now ready to be poured out, and the time of my departure is at hand."
+          },
+          "text": "For I am now ready to be poured out, and the time of my departure is at hand.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "I have fought the good fight, I have finished my course, I have kept the faith:"
+          },
+          "text": "I have fought the good fight, I have finished my course, I have kept the faith:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "henceforth there is laid up for me the crown of righteousness, which the Lord, the righteous judge, will give to me in that day, and not to me only, but also to all those that love his appearing."
+          },
+          "text": "henceforth there is laid up for me the crown of righteousness, which the Lord, the righteous judge, will give to me in that day, and not to me only, but also to all those that love his appearing.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "Be diligent to come to me shortly."
+          },
+          "text": "Be diligent to come to me shortly.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "For Demas has forsaken me, having loved the present age, and has gone to Thessalonica, Crescens to Galatia, Titus to Dalmatia:"
+          },
+          "text": "For Demas has forsaken me, having loved the present age, and has gone to Thessalonica, Crescens to Galatia, Titus to Dalmatia:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "only Luke is with me. Take Mark, and bring him with thee; for he is useful to me for service."
+          },
+          "text": "only Luke is with me. Take Mark, and bring him with thee; for he is useful to me for service.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "But Tychicus I have sent to Ephesus."
+          },
+          "text": "But Tychicus I have sent to Ephesus.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "The cloak, which I left in Troas with Carpus, bring when thou comest, and the books, especially the parchments."
+          },
+          "text": "The cloak, which I left in Troas with Carpus, bring when thou comest, and the books, especially the parchments.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "Alexander the coppersmith laid many evil charges against me: the Lord render to him according to his works.382"
+          },
+          "text": "Alexander the coppersmith laid many evil charges against me: the Lord render to him according to his works.382",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {
+            "text": "Do thou also be on thy guard against him; for he has greatly withstood our words."
+          },
+          "text": "Do thou also be on thy guard against him; for he has greatly withstood our words.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {
+            "text": "In my first defense no one was present with me, but all forsook me; may it not be charged against them;"
+          },
+          "text": "In my first defense no one was present with me, but all forsook me; may it not be charged against them;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {
+            "text": "but the Lord stood by me, and gave me strength, that through me what is preached might be fully known, and all the Gentiles might hear; and I was delivered out of the mouth of the lion."
+          },
+          "text": "but the Lord stood by me, and gave me strength, that through me what is preached might be fully known, and all the Gentiles might hear; and I was delivered out of the mouth of the lion.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {
+            "text": "The Lord will deliver me from every evil work, and will keep me safe to his heavenly kingdom: to whom be the glory from age to age. Amen."
+          },
+          "text": "The Lord will deliver me from every evil work, and will keep me safe to his heavenly kingdom: to whom be the glory from age to age. Amen.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 19,
+          "sinaiticus": {
+            "text": "Salute Prisca and Aquila, and the house of Onesiphorus."
+          },
+          "text": "Salute Prisca and Aquila, and the house of Onesiphorus.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {
+            "text": "Erastus remained in Corinth, but Trophimus I left in Miletus sick."
+          },
+          "text": "Erastus remained in Corinth, but Trophimus I left in Miletus sick.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 21,
+          "sinaiticus": {
+            "text": "Be diligent to come before winter. Eubulus salutes thee, Pudens also, and Linus, and Claudia, and the brethren all."
+          },
+          "text": "Be diligent to come before winter. Eubulus salutes thee, Pudens also, and Linus, and Claudia, and the brethren all.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    }
+  ]
+}

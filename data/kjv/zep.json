@@ -1,0 +1,878 @@
+{
+  "id": "zep",
+  "name": "Zephaniah",
+  "order": 36,
+  "section": "Old Testament",
+  "folios": [],
+  "chapters": [
+    {
+      "chapter": 34,
+      "verses": [
+        {
+          "verse": 13,
+          "sinaiticus": {},
+          "text": "Also they were over the bearers of burdens, and were overseers of all that wrought the work in any manner of service: and of the Levites there were scribes, and officers, and porters.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/34/13"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {},
+          "text": "And when they brought out the money that was brought into the house of the LORD, Hilkiah the priest found a book of the law of the LORD given by Moses.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/34/14"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {},
+          "text": "And Hilkiah answered and said to Shaphan the scribe, I have found the book of the law in the house of the LORD. And Hilkiah delivered the book to Shaphan.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/34/15"
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {},
+          "text": "And Shaphan carried the book to the king, and brought the king word back again, saying, All that was committed to thy servants, they do it.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/34/16"
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {},
+          "text": "And they have gathered together the money that was found in the house of the LORD, and have delivered it into the hand of the overseers, and to the hand of the workmen.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/34/17"
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {},
+          "text": "Then Shaphan the scribe told the king, saying, Hilkiah the priest hath given me a book. And Shaphan read it before the king.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/34/18"
+            }
+          ]
+        },
+        {
+          "verse": 19,
+          "sinaiticus": {},
+          "text": "And it came to pass, when the king had heard the words of the law, that he rent his clothes.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/34/19"
+            }
+          ]
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {},
+          "text": "And the king commanded Hilkiah, and Ahikam the son of Shaphan, and Abdon the son of Micah, and Shaphan the scribe, and Asaiah a servant of the king’s, saying, 34:21 Go, enquire of the LORD for me, and for them that are left in Israel and in Judah, concerning the words of the book that is found: for great is the wrath of the LORD that is poured out upon us, because our fathers have not kept the word of the LORD, to do after all that is written in this book.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/34/20"
+            }
+          ]
+        },
+        {
+          "verse": 22,
+          "sinaiticus": {},
+          "text": "And Hilkiah, and they that the king had appointed, went to Huldah the prophetess, the wife of Shallum the son of Tikvath, the son of Hasrah, keeper of the wardrobe; (now she dwelt in Jerusalem in the college:) and they spake to her to that effect.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/34/22"
+            }
+          ]
+        },
+        {
+          "verse": 23,
+          "sinaiticus": {},
+          "text": "And she answered them, Thus saith the LORD God of Israel, Tell ye the man that sent you to me, 34:24 Thus saith the LORD, Behold, I will bring evil upon this place, and upon the inhabitants thereof, even all the curses that are written in the book which they have read before the king of Judah: 34:25 Because they have forsaken me, and have burned incense unto other gods, that they might provoke me to anger with all the works of their hands; therefore my wrath shall be poured out upon this place, and shall not be quenched.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/34/23"
+            }
+          ]
+        },
+        {
+          "verse": 26,
+          "sinaiticus": {},
+          "text": "And as for the king of Judah, who sent you to enquire of the LORD, so shall ye say unto him, Thus saith the LORD God of Israel concerning the words which thou hast heard; 34:27 Because thine heart was tender, and thou didst humble thyself before God, when thou heardest his words against this place, and against the inhabitants thereof, and humbledst thyself before me, and didst rend thy clothes, and weep before me; I have even heard thee also, saith the LORD.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/34/26"
+            }
+          ]
+        },
+        {
+          "verse": 28,
+          "sinaiticus": {},
+          "text": "Behold, I will gather thee to thy fathers, and thou shalt be gathered to thy grave in peace, neither shall thine eyes see all the evil that I will bring upon this place, and upon the inhabitants of the same. So they brought the king word again.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/34/28"
+            }
+          ]
+        },
+        {
+          "verse": 29,
+          "sinaiticus": {},
+          "text": "Then the king sent and gathered together all the elders of Judah and Jerusalem.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/34/29"
+            }
+          ]
+        },
+        {
+          "verse": 30,
+          "sinaiticus": {},
+          "text": "And the king went up into the house of the LORD, and all the men of Judah, and the inhabitants of Jerusalem, and the priests, and the Levites, and all the people, great and small: and he read in their ears all the words of the book of the covenant that was found in the house of the LORD.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/34/30"
+            }
+          ]
+        },
+        {
+          "verse": 31,
+          "sinaiticus": {},
+          "text": "And the king stood in his place, and made a covenant before the LORD, to walk after the LORD, and to keep his commandments, and his testimonies, and his statutes, with all his heart, and with all his soul, to perform the words of the covenant which are written in this book.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/34/31"
+            }
+          ]
+        },
+        {
+          "verse": 32,
+          "sinaiticus": {},
+          "text": "And he caused all that were present in Jerusalem and Benjamin to stand to it. And the inhabitants of Jerusalem did according to the covenant of God, the God of their fathers.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/34/32"
+            }
+          ]
+        },
+        {
+          "verse": 33,
+          "sinaiticus": {},
+          "text": "And Josiah took away all the abominations out of all the countries that pertained to the children of Israel, and made all that were present in Israel to serve, even to serve the LORD their God. And all his days they departed not from following the LORD, the God of their fathers.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/34/33"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 35,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {},
+          "text": "Moreover Josiah kept a passover unto the LORD in Jerusalem: and they killed the passover on the fourteenth day of the first month.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/35/1"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {},
+          "text": "And he set the priests in their charges, and encouraged them to the service of the house of the LORD, 35:3 And said unto the Levites that taught all Israel, which were holy unto the LORD, Put the holy ark in the house which Solomon the son of David king of Israel did build; it shall not be a burden upon your shoulders: serve now the LORD your God, and his people Israel, 35:4 And prepare yourselves by the houses of your fathers, after your courses, according to the writing of David king of Israel, and according to the writing of Solomon his son.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/35/2"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {},
+          "text": "And stand in the holy place according to the divisions of the families of the fathers of your brethren the people, and after the division of the families of the Levites.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/35/5"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {},
+          "text": "So kill the passover, and sanctify yourselves, and prepare your brethren, that they may do according to the word of the LORD by the hand of Moses.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/35/6"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {},
+          "text": "And Josiah gave to the people, of the flock, lambs and kids, all for the passover offerings, for all that were present, to the number of thirty thousand, and three thousand bullocks: these were of the king’s substance.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/35/7"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {},
+          "text": "And his princes gave willingly unto the people, to the priests, and to the Levites: Hilkiah and Zechariah and Jehiel, rulers of the house of God, gave unto the priests for the passover offerings two thousand and six hundred small cattle and three hundred oxen.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/35/8"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {},
+          "text": "Conaniah also, and Shemaiah and Nethaneel, his brethren, and Hashabiah and Jeiel and Jozabad, chief of the Levites, gave unto the Levites for passover offerings five thousand small cattle, and five hundred oxen.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/35/9"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {},
+          "text": "So the service was prepared, and the priests stood in their place, and the Levites in their courses, according to the king’s commandment.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/35/10"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {},
+          "text": "And they killed the passover, and the priests sprinkled the blood from their hands, and the Levites flayed them.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/35/11"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {},
+          "text": "And they removed the burnt offerings, that they might give according to the divisions of the families of the people, to offer unto the LORD, as it is written in the book of Moses. And so did they with the oxen.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/35/12"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {},
+          "text": "And they roasted the passover with fire according to the ordinance: but the other holy offerings sod they in pots, and in caldrons, and in pans, and divided them speedily among all the people.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/35/13"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {},
+          "text": "And afterward they made ready for themselves, and for the priests: because the priests the sons of Aaron were busied in offering of burnt offerings and the fat until night; therefore the Levites prepared for themselves, and for the priests the sons of Aaron.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/35/14"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {},
+          "text": "And the singers the sons of Asaph were in their place, according to the commandment of David, and Asaph, and Heman, and Jeduthun the king’s seer; and the porters waited at every gate; they might not depart from their service; for their brethren the Levites prepared for them.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/35/15"
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {},
+          "text": "So all the service of the LORD was prepared the same day, to keep the passover, and to offer burnt offerings upon the altar of the LORD, according to the commandment of king Josiah.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/35/16"
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {},
+          "text": "And the children of Israel that were present kept the passover at that time, and the feast of unleavened bread seven days.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/35/17"
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {},
+          "text": "And there was no passover like to that kept in Israel from the days of Samuel the prophet; neither did all the kings of Israel keep such a passover as Josiah kept, and the priests, and the Levites, and all Judah and Israel that were present, and the inhabitants of Jerusalem.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/35/18"
+            }
+          ]
+        },
+        {
+          "verse": 19,
+          "sinaiticus": {},
+          "text": "In the eighteenth year of the reign of Josiah was this passover kept.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/35/19"
+            }
+          ]
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {},
+          "text": "After all this, when Josiah had prepared the temple, Necho king of Egypt came up to fight against Charchemish by Euphrates: and Josiah went out against him.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/35/20"
+            }
+          ]
+        },
+        {
+          "verse": 21,
+          "sinaiticus": {},
+          "text": "But he sent ambassadors to him, saying, What have I to do with thee, thou king of Judah? I come not against thee this day, but against the house wherewith I have war: for God commanded me to make haste: forbear thee from meddling with God, who is with me, that he destroy thee not.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/35/21"
+            }
+          ]
+        },
+        {
+          "verse": 22,
+          "sinaiticus": {},
+          "text": "Nevertheless Josiah would not turn his face from him, but disguised himself, that he might fight with him, and hearkened not unto the words of Necho from the mouth of God, and came to fight in the valley of Megiddo.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/35/22"
+            }
+          ]
+        },
+        {
+          "verse": 23,
+          "sinaiticus": {},
+          "text": "And the archers shot at king Josiah; and the king said to his servants, Have me away; for I am sore wounded.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/35/23"
+            }
+          ]
+        },
+        {
+          "verse": 24,
+          "sinaiticus": {},
+          "text": "His servants therefore took him out of that chariot, and put him in the second chariot that he had; and they brought him to Jerusalem, and he died, and was buried in one of the sepulchres of his fathers. And all Judah and Jerusalem mourned for Josiah.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/35/24"
+            }
+          ]
+        },
+        {
+          "verse": 25,
+          "sinaiticus": {},
+          "text": "And Jeremiah lamented for Josiah: and all the singing men and the singing women spake of Josiah in their lamentations to this day, and made them an ordinance in Israel: and, behold, they are written in the lamentations.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/35/25"
+            }
+          ]
+        },
+        {
+          "verse": 26,
+          "sinaiticus": {},
+          "text": "Now the rest of the acts of Josiah, and his goodness, according to that which was written in the law of the LORD, 35:27 And his deeds, first and last, behold, they are written in the book of the kings of Israel and Judah.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/35/26"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 36,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {},
+          "text": "Then the people of the land took Jehoahaz the son of Josiah, and made him king in his father’s stead in Jerusalem.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/36/1"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {},
+          "text": "Jehoahaz was twenty and three years old when he began to reign, and he reigned three months in Jerusalem.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/36/2"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {},
+          "text": "And the king of Egypt put him down at Jerusalem, and condemned the land in an hundred talents of silver and a talent of gold.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/36/3"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {},
+          "text": "And the king of Egypt made Eliakim his brother king over Judah and Jerusalem, and turned his name to Jehoiakim. And Necho took Jehoahaz his brother, and carried him to Egypt.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/36/4"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {},
+          "text": "Jehoiakim was twenty and five years old when he began to reign, and he reigned eleven years in Jerusalem: and he did that which was evil in the sight of the LORD his God.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/36/5"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {},
+          "text": "Against him came up Nebuchadnezzar king of Babylon, and bound him in fetters, to carry him to Babylon.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/36/6"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {},
+          "text": "Nebuchadnezzar also carried of the vessels of the house of the LORD to Babylon, and put them in his temple at Babylon.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/36/7"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {},
+          "text": "Now the rest of the acts of Jehoiakim, and his abominations which he did, and that which was found in him, behold, they are written in the book of the kings of Israel and Judah: and Jehoiachin his son reigned in his stead.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/36/8"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {},
+          "text": "Jehoiachin was eight years old when he began to reign, and he reigned three months and ten days in Jerusalem: and he did that which was evil in the sight of the LORD.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/36/9"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {},
+          "text": "And when the year was expired, king Nebuchadnezzar sent, and brought him to Babylon, with the goodly vessels of the house of the LORD, and made Zedekiah his brother king over Judah and Jerusalem.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/36/10"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {},
+          "text": "Zedekiah was one and twenty years old when he began to reign, and reigned eleven years in Jerusalem.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/36/11"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {},
+          "text": "And he did that which was evil in the sight of the LORD his God, and humbled not himself before Jeremiah the prophet speaking from the mouth of the LORD.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/36/12"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {},
+          "text": "And he also rebelled against king Nebuchadnezzar, who had made him swear by God: but he stiffened his neck, and hardened his heart from turning unto the LORD God of Israel.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/36/13"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {},
+          "text": "Moreover all the chief of the priests, and the people, transgressed very much after all the abominations of the heathen; and polluted the house of the LORD which he had hallowed in Jerusalem.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/36/14"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {},
+          "text": "And the LORD God of their fathers sent to them by his messengers, rising up betimes, and sending; because he had compassion on his people, and on his dwelling place: 36:16 But they mocked the messengers of God, and despised his words, and misused his prophets, until the wrath of the LORD arose against his people, till there was no remedy.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/36/15"
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {},
+          "text": "Therefore he brought upon them the king of the Chaldees, who slew their young men with the sword in the house of their sanctuary, and had no compassion upon young man or maiden, old man, or him that stooped for age: he gave them all into his hand.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/36/17"
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {},
+          "text": "And all the vessels of the house of God, great and small, and the treasures of the house of the LORD, and the treasures of the king, and of his princes; all these he brought to Babylon.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/36/18"
+            }
+          ]
+        },
+        {
+          "verse": 19,
+          "sinaiticus": {},
+          "text": "And they burnt the house of God, and brake down the wall of Jerusalem, and burnt all the palaces thereof with fire, and destroyed all the goodly vessels thereof.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/36/19"
+            }
+          ]
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {},
+          "text": "And them that had escaped from the sword carried he away to Babylon; where they were servants to him and his sons until the reign of the kingdom of Persia: 36:21 To fulfil the word of the LORD by the mouth of Jeremiah, until the land had enjoyed her sabbaths: for as long as she lay desolate she kept sabbath, to fulfil threescore and ten years.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/36/20"
+            }
+          ]
+        },
+        {
+          "verse": 22,
+          "sinaiticus": {},
+          "text": "Now in the first year of Cyrus king of Persia, that the word of the LORD spoken by the mouth of Jeremiah might be accomplished, the LORD stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying, 36:23 Thus saith Cyrus king of Persia, All the kingdoms of the earth hath the LORD God of heaven given me; and he hath charged me to build him an house in Jerusalem, which is in Judah. Who is there among you of all his people? The LORD his God be with him, and let him go up.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/zep/36/22"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

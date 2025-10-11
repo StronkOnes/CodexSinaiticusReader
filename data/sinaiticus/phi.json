@@ -1,0 +1,1059 @@
+{
+  "id": "phi",
+  "name": "Paul to the Philippians",
+  "order": 12,
+  "section": "New Testament",
+  "folios": [],
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "Paul and Timothy, servants of Christ Jesus, to all the saints in Christ Jesus, that are in Philippi, with the bishops and deacons."
+          },
+          "text": "Paul and Timothy, servants of Christ Jesus, to all the saints in Christ Jesus, that are in Philippi, with the bishops and deacons.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "Grace to you and peace from God our Father and the Lord Jesus Christ."
+          },
+          "text": "Grace to you and peace from God our Father and the Lord Jesus Christ.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "I thank my God on every remembrance of you,"
+          },
+          "text": "I thank my God on every remembrance of you,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "always in every prayer of mine for you all making request with joy,"
+          },
+          "text": "always in every prayer of mine for you all making request with joy,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "for your contribution for the gospel from the first day till now,"
+          },
+          "text": "for your contribution for the gospel from the first day till now,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "having confidence in this very thing, that he that began a good work in you will accomplish it till the day of Christ Jesus,"
+          },
+          "text": "having confidence in this very thing, that he that began a good work in you will accomplish it till the day of Christ Jesus,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "as it is right for me to think this of you all, because I have you in my heart, that all of you are both in my bonds and in my defense and confirmation of the gospel, partakers of my grace."
+          },
+          "text": "as it is right for me to think this of you all, because I have you in my heart, that all of you are both in my bonds and in my defense and confirmation of the gospel, partakers of my grace.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "For God is my witness, how I long after you all in the bowels of Christ Jesus."
+          },
+          "text": "For God is my witness, how I long after you all in the bowels of Christ Jesus.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "And I pray for this, that your love may abound yet more and more in all knowledge and understanding,"
+          },
+          "text": "And I pray for this, that your love may abound yet more and more in all knowledge and understanding,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "that you prove the things that are excellent, that you may be pure and without offense to the day of Christ,"
+          },
+          "text": "that you prove the things that are excellent, that you may be pure and without offense to the day of Christ,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "having been filled with the fruit of righteousness, which is through Jesus Christ, to the glory and praise of God."
+          },
+          "text": "having been filled with the fruit of righteousness, which is through Jesus Christ, to the glory and praise of God.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "But I wish you to know, brethren, that what has happened to me has turned out rather to the furtherance of the gospel,"
+          },
+          "text": "But I wish you to know, brethren, that what has happened to me has turned out rather to the furtherance of the gospel,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "so that my bonds have become manifest in Christ in the whole of the pretorium, and in all other places,"
+          },
+          "text": "so that my bonds have become manifest in Christ in the whole of the pretorium, and in all other places,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "and the greater number of the brethren in the Lord, having confidence in my bonds, are more abundantly bold to speak the word without fear."
+          },
+          "text": "and the greater number of the brethren in the Lord, having confidence in my bonds, are more abundantly bold to speak the word without fear.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {
+            "text": "Some both because of envy and strife, some also because of good will, preach Christ:"
+          },
+          "text": "Some both because of envy and strife, some also because of good will, preach Christ:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {
+            "text": "the one part from love, knowing that I am appointed to the defense of the gospel,"
+          },
+          "text": "the one part from love, knowing that I am appointed to the defense of the gospel,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {
+            "text": "the other from contention announce Christ not sincerely, thinking to awake affliction to my bonds."
+          },
+          "text": "the other from contention announce Christ not sincerely, thinking to awake affliction to my bonds.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {
+            "text": "What then? Yet in every way, whether in pretense or in truth, Christ is announced, and in this I rejoice. Yes, and I will rejoice;"
+          },
+          "text": "What then? Yet in every way, whether in pretense or in truth, Christ is announced, and in this I rejoice. Yes, and I will rejoice;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 19,
+          "sinaiticus": {
+            "text": "for I know that this will turn out to me for salvation through your prayer and the supply of the Spirit of Jesus Christ,"
+          },
+          "text": "for I know that this will turn out to me for salvation through your prayer and the supply of the Spirit of Jesus Christ,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {
+            "text": "according to my earnest expectations and hope that in nothing Christ shall be magnified in my body, whether through life or through death."
+          },
+          "text": "according to my earnest expectations and hope that in nothing Christ shall be magnified in my body, whether through life or through death.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 21,
+          "sinaiticus": {
+            "text": "For to me to live is Christ, and to die is gain."
+          },
+          "text": "For to me to live is Christ, and to die is gain.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 22,
+          "sinaiticus": {
+            "text": "But if to live in the flesh, this is the fruit of my work, and what I shall choose I know not."
+          },
+          "text": "But if to live in the flesh, this is the fruit of my work, and what I shall choose I know not.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 23,
+          "sinaiticus": {
+            "text": "But I am in a strait between two, having the desire to depart and be with Christ; for this is far better:"
+          },
+          "text": "But I am in a strait between two, having the desire to depart and be with Christ; for this is far better:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 24,
+          "sinaiticus": {
+            "text": "yet to abide in the flesh is more needful for you."
+          },
+          "text": "yet to abide in the flesh is more needful for you.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 25,
+          "sinaiticus": {
+            "text": "And having this confidence, I know that I shall abide and continue with you all for your advancement, and the joy of your faith,"
+          },
+          "text": "And having this confidence, I know that I shall abide and continue with you all for your advancement, and the joy of your faith,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 26,
+          "sinaiticus": {
+            "text": "that your rejoicing may be abundant in Christ Jesus, in me, through my coming again to you."
+          },
+          "text": "that your rejoicing may be abundant in Christ Jesus, in me, through my coming again to you.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 27,
+          "sinaiticus": {
+            "text": "Only conduct yourselves in a manner worthy of the gospel of Christ, that whether I come and see you or be absent I shall hear of your affairs, that you stand fast in one spirit, with one soul striving together for the faith of the gospel,"
+          },
+          "text": "Only conduct yourselves in a manner worthy of the gospel of Christ, that whether I come and see you or be absent I shall hear of your affairs, that you stand fast in one spirit, with one soul striving together for the faith of the gospel,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 28,
+          "sinaiticus": {
+            "text": "and in nothing terrified by the adversaries, which is to them an evident token of perdition, but of your salvation, and this from God;"
+          },
+          "text": "and in nothing terrified by the adversaries, which is to them an evident token of perdition, but of your salvation, and this from God;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 29,
+          "sinaiticus": {
+            "text": "for to you has been graciously given in behalf of Christ, not only to believe on him, but also to suffer for him,"
+          },
+          "text": "for to you has been graciously given in behalf of Christ, not only to believe on him, but also to suffer for him,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 30,
+          "sinaiticus": {
+            "text": "having the same contest which you saw in me and now hear to be in me."
+          },
+          "text": "having the same contest which you saw in me and now hear to be in me.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "If therefore there is any exhortation in Christ, if any comfort of love, if any fellowship of the Spirit, if any bowels and mercies,"
+          },
+          "text": "If therefore there is any exhortation in Christ, if any comfort of love, if any fellowship of the Spirit, if any bowels and mercies,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "fulfil my joy that you think the same thing, having the same love, being of one soul, thinking the one thing,"
+          },
+          "text": "fulfil my joy that you think the same thing, having the same love, being of one soul, thinking the one thing,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "nothing according to contention, neither according to vainglory, but in lowliness of mind esteeming one another better than yourselves,"
+          },
+          "text": "nothing according to contention, neither according to vainglory, but in lowliness of mind esteeming one another better than yourselves,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "not considering each of you your own things, but each of you also the things of others."
+          },
+          "text": "not considering each of you your own things, but each of you also the things of others.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "For let this mind be in you which was also in Christ Jesus,"
+          },
+          "text": "For let this mind be in you which was also in Christ Jesus,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "who, being in the form of God, thought it not robbery to be equal with God,"
+          },
+          "text": "who, being in the form of God, thought it not robbery to be equal with God,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "but he emptied himself, taking the form of a servant, having been born in the likeness of men; and found in fashion as a man,"
+          },
+          "text": "but he emptied himself, taking the form of a servant, having been born in the likeness of men; and found in fashion as a man,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "he humbled himself, having become obedient even to death, and the death of the cross."
+          },
+          "text": "he humbled himself, having become obedient even to death, and the death of the cross.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "Wherefore God also highly exalted him and gave him a name that is above every name,352"
+          },
+          "text": "Wherefore God also highly exalted him and gave him a name that is above every name,352",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "that in the name of Jesus every knee should bow, of those in the heavens and those on the earth and those under the earth,"
+          },
+          "text": "that in the name of Jesus every knee should bow, of those in the heavens and those on the earth and those under the earth,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "and every tongue should confess that Jesus Christ is Lord, to the glory of God the Father."
+          },
+          "text": "and every tongue should confess that Jesus Christ is Lord, to the glory of God the Father.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "So then, my beloved, as you have always obeyed, not as in my presence only, but now much more in my absence, with fear and trembling work out your own salvation;"
+          },
+          "text": "So then, my beloved, as you have always obeyed, not as in my presence only, but now much more in my absence, with fear and trembling work out your own salvation;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "for it is God that works in you both to will and to work for* his good pleasure. *That is, because he is pleased so to do."
+          },
+          "text": "for it is God that works in you both to will and to work for* his good pleasure. *That is, because he is pleased so to do.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "Do all things without murmurings and disputings,"
+          },
+          "text": "Do all things without murmurings and disputings,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {
+            "text": "that you may become blameless and harmless, children of God, unrebukable in the midst of a crooked and perverse generation, among whom you shine as lights in the world,"
+          },
+          "text": "that you may become blameless and harmless, children of God, unrebukable in the midst of a crooked and perverse generation, among whom you shine as lights in the world,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {
+            "text": "holding forth the word of life, for my rejoicing till the day of Christ, that I ran not in vain, neither labored in vain."
+          },
+          "text": "holding forth the word of life, for my rejoicing till the day of Christ, that I ran not in vain, neither labored in vain.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {
+            "text": "But if I am even poured out upon the sacrifice and service of your faith, I rejoice, and rejoice with you all;"
+          },
+          "text": "But if I am even poured out upon the sacrifice and service of your faith, I rejoice, and rejoice with you all;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {
+            "text": "and for the same do you also rejoice, and rejoice with me."
+          },
+          "text": "and for the same do you also rejoice, and rejoice with me.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 19,
+          "sinaiticus": {
+            "text": "But I trust in the Lord to send Timothy to you soon, that I may be of good cheer by knowing of your affairs."
+          },
+          "text": "But I trust in the Lord to send Timothy to you soon, that I may be of good cheer by knowing of your affairs.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {
+            "text": "For I have no one of a like soul, who will sincerely care for your affairs;"
+          },
+          "text": "For I have no one of a like soul, who will sincerely care for your affairs;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 21,
+          "sinaiticus": {
+            "text": "for all seek their own, not the things of Christ Jesus."
+          },
+          "text": "for all seek their own, not the things of Christ Jesus.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 22,
+          "sinaiticus": {
+            "text": "But you know the proof of him, that as a child for a father he served with me for the gospel."
+          },
+          "text": "But you know the proof of him, that as a child for a father he served with me for the gospel.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 23,
+          "sinaiticus": {
+            "text": "Him therefore I hope to send as soon as I know certainly of my matters;"
+          },
+          "text": "Him therefore I hope to send as soon as I know certainly of my matters;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 24,
+          "sinaiticus": {
+            "text": "but I have confidence in the Lord that I myself also will come soon."
+          },
+          "text": "but I have confidence in the Lord that I myself also will come soon.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 25,
+          "sinaiticus": {
+            "text": "But I thought it needful to send to you Epaphroditus, my brother and fellow-worker and fellow-soldier, but your apostle and minister to my need,"
+          },
+          "text": "But I thought it needful to send to you Epaphroditus, my brother and fellow-worker and fellow-soldier, but your apostle and minister to my need,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 26,
+          "sinaiticus": {
+            "text": "because he was longing after you all and greatly grieved, because you had heard that he was sick."
+          },
+          "text": "because he was longing after you all and greatly grieved, because you had heard that he was sick.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 27,
+          "sinaiticus": {
+            "text": "For he was sick near to death; but God had mercy on him, and not on him only, but on me also, that I might not have sorrow on sorrow."
+          },
+          "text": "For he was sick near to death; but God had mercy on him, and not on him only, but on me also, that I might not have sorrow on sorrow.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 28,
+          "sinaiticus": {
+            "text": "More diligently therefore did I send him, that on seeing him again you might rejoice and I be less sorrowful."
+          },
+          "text": "More diligently therefore did I send him, that on seeing him again you might rejoice and I be less sorrowful.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 29,
+          "sinaiticus": {
+            "text": "Receive him therefore in the Lord with all joy, and hold such in"
+          },
+          "text": "Receive him therefore in the Lord with all joy, and hold such in",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 30,
+          "sinaiticus": {
+            "text": "for because of the work he came near to death, not regarding his life, that he might fill up that which was wanting of your service to me."
+          },
+          "text": "for because of the work he came near to death, not regarding his life, that he might fill up that which was wanting of your service to me.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "Finally, my brethren, rejoice in the Lord. To write the same things to you, to me indeed is not burdensome, but for you it is safe."
+          },
+          "text": "Finally, my brethren, rejoice in the Lord. To write the same things to you, to me indeed is not burdensome, but for you it is safe.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "Beware of the dogs, beware of the evil-workers, beware of the concision."
+          },
+          "text": "Beware of the dogs, beware of the evil-workers, beware of the concision.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "For we are the circumcision, who worship God in spirit, and glory in Christ Jesus, and have no confidence in the flesh,"
+          },
+          "text": "For we are the circumcision, who worship God in spirit, and glory in Christ Jesus, and have no confidence in the flesh,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "though indeed I have confidence in the flesh. If any other one thinks that he has confidence in the flesh, I more:"
+          },
+          "text": "though indeed I have confidence in the flesh. If any other one thinks that he has confidence in the flesh, I more:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "circumcised the eighth day, of the race of Israel, of the tribe of Benjamin, a Hebrew of the Hebrews, according to law a Pharisee,"
+          },
+          "text": "circumcised the eighth day, of the race of Israel, of the tribe of Benjamin, a Hebrew of the Hebrews, according to law a Pharisee,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "according to zeal persecuting the church, according to the righteousness that is in law having been blameless."
+          },
+          "text": "according to zeal persecuting the church, according to the righteousness that is in law having been blameless.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "But the things that were gain to me, these I have counted loss for Christ."
+          },
+          "text": "But the things that were gain to me, these I have counted loss for Christ.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "Yes, indeed, then I even count all things to be loss for the excellence of the knowledge of Christ Jesus my Lord, for whom I suffered the loss of all things, and count them to be refuse, that I may gain Christ,"
+          },
+          "text": "Yes, indeed, then I even count all things to be loss for the excellence of the knowledge of Christ Jesus my Lord, for whom I suffered the loss of all things, and count them to be refuse, that I may gain Christ,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "and be found in him, not having my righteousness which is of law, but that through faith of Christ, the righteousness of God on faith,"
+          },
+          "text": "and be found in him, not having my righteousness which is of law, but that through faith of Christ, the righteousness of God on faith,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "that I may know him and the power of his resurrection and the fellowship of his sufferings, being conformed to his death."
+          },
+          "text": "that I may know him and the power of his resurrection and the fellowship of his sufferings, being conformed to his death.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "if by any means I may attain to the resurrection from the dead."
+          },
+          "text": "if by any means I may attain to the resurrection from the dead.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "Not that I have already grasped or have already become perfect, but I am pursuing if I also may apprehend, because I was also apprehended by Christ."
+          },
+          "text": "Not that I have already grasped or have already become perfect, but I am pursuing if I also may apprehend, because I was also apprehended by Christ.",
+          "fragment": false,
+          "notes": ";  [the prize]",
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "Brethren, I count not myself to have apprehended;"
+          },
+          "text": "Brethren, I count not myself to have apprehended;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "but one thing I do; forgetting the things that are behind, and stretching myself forward to those that are before, I press along the mark for the prize of the high calling of God in Christ Jesus."
+          },
+          "text": "but one thing I do; forgetting the things that are behind, and stretching myself forward to those that are before, I press along the mark for the prize of the high calling of God in Christ Jesus.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {
+            "text": "Let us therefore, as many as are perfect, have this mind; and if as to anything you have a different mind. God will reveal even this to you;"
+          },
+          "text": "Let us therefore, as many as are perfect, have this mind; and if as to anything you have a different mind. God will reveal even this to you;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {
+            "text": "but to what we have attained, walk by the same."
+          },
+          "text": "but to what we have attained, walk by the same.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {
+            "text": "Become imitators of me, brethren, and consider those that so walk, as you have us for an example."
+          },
+          "text": "Become imitators of me, brethren, and consider those that so walk, as you have us for an example.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {
+            "text": "For many walk, of whom I told you, and now tell you, even weeping, that they are the enemies of the cross of Christ,354"
+          },
+          "text": "For many walk, of whom I told you, and now tell you, even weeping, that they are the enemies of the cross of Christ,354",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 19,
+          "sinaiticus": {
+            "text": "whose end is destruction, whose god is their belly, and whose glory is in their shame, who mind earthly things."
+          },
+          "text": "whose end is destruction, whose god is their belly, and whose glory is in their shame, who mind earthly things.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {
+            "text": "For our commonwealth is in the heavens, whence we look for a Saviour, also the Lord Jesus Christ,"
+          },
+          "text": "For our commonwealth is in the heavens, whence we look for a Saviour, also the Lord Jesus Christ,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 21,
+          "sinaiticus": {
+            "text": "who shall transform the body of our humiliation, that it may be like the body of his glory, according to the energy of his ability, even to subdue all things to himself."
+          },
+          "text": "who shall transform the body of our humiliation, that it may be like the body of his glory, according to the energy of his ability, even to subdue all things to himself.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "So then, my brethren beloved and longed for, my joy and my crown, so stand fast in the Lord, beloved."
+          },
+          "text": "So then, my brethren beloved and longed for, my joy and my crown, so stand fast in the Lord, beloved.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "I exhort Euodia and I exhort Syntyche, that they have the same mind in the Lord."
+          },
+          "text": "I exhort Euodia and I exhort Syntyche, that they have the same mind in the Lord.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "Yes, I beseech thee also, true yokefellow, aid these women, who aided me in the gospel, with Clement also and the rest of my fellow- laborers, whose names are in the book of life."
+          },
+          "text": "Yes, I beseech thee also, true yokefellow, aid these women, who aided me in the gospel, with Clement also and the rest of my fellow- laborers, whose names are in the book of life.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "Rejoice in the Lord always: again I say: Rejoice."
+          },
+          "text": "Rejoice in the Lord always: again I say: Rejoice.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "Let your moderation be known to all men: the Lord is near."
+          },
+          "text": "Let your moderation be known to all men: the Lord is near.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "Be anxious for nothing, but in everything, by prayer and supplication with thanksgiving, let your requests be made known to God."
+          },
+          "text": "Be anxious for nothing, but in everything, by prayer and supplication with thanksgiving, let your requests be made known to God.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "And the peace of God, which passes all understanding, shall keep your hearts and minds in Christ Jesus."
+          },
+          "text": "And the peace of God, which passes all understanding, shall keep your hearts and minds in Christ Jesus.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "Finally, brethren, whatever things are true, whatever honorable, whatever right, whatever pure, whatever lovely, whatever of good report, if there is any virtue, and if any praise, think on these things;"
+          },
+          "text": "Finally, brethren, whatever things are true, whatever honorable, whatever right, whatever pure, whatever lovely, whatever of good report, if there is any virtue, and if any praise, think on these things;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "what things you have both learned and received and heard and seen in me, these do; and the God of peace shall be with you."
+          },
+          "text": "what things you have both learned and received and heard and seen in me, these do; and the God of peace shall be with you.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "But I rejoiced in the Lord greatly, that now at length you have flourished* in your care for me; in which you also cared, but lacked opportunity. *A figure from the putting forth of leaves."
+          },
+          "text": "But I rejoiced in the Lord greatly, that now at length you have flourished* in your care for me; in which you also cared, but lacked opportunity. *A figure from the putting forth of leaves.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "Not that I speak in respect to want; for I have learned in what condition I am to be content."
+          },
+          "text": "Not that I speak in respect to want; for I have learned in what condition I am to be content.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "I know how to be abased, I know also how to abound: in everything and in all things I have been instructed, both to be full and to be hungry, both to abound and to suffer want."
+          },
+          "text": "I know how to be abased, I know also how to abound: in everything and in all things I have been instructed, both to be full and to be hungry, both to abound and to suffer want.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "I have strength for all things in him that gives me power."
+          },
+          "text": "I have strength for all things in him that gives me power.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "Nevertheless you did well in communicating with my affliction."
+          },
+          "text": "Nevertheless you did well in communicating with my affliction.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {
+            "text": "But you also know, Philippians, that in the beginning of the gospel, when I departed from Macedonia, no church communicated with me as to an account of giving and receiving, but you only;"
+          },
+          "text": "But you also know, Philippians, that in the beginning of the gospel, when I departed from Macedonia, no church communicated with me as to an account of giving and receiving, but you only;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {
+            "text": "Not that I desire the gift, but I desire fruit that may abound to your account."
+          },
+          "text": "Not that I desire the gift, but I desire fruit that may abound to your account.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {
+            "text": "But I have all in full and abound; I have been filled, having received of Epaphroditus your gifts, an odor of a sweet smell, a sacrifice acceptable, well-pleasing to God."
+          },
+          "text": "But I have all in full and abound; I have been filled, having received of Epaphroditus your gifts, an odor of a sweet smell, a sacrifice acceptable, well-pleasing to God.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 19,
+          "sinaiticus": {
+            "text": "But my God will fill all your need according to his riches in glory in Christ Jesus."
+          },
+          "text": "But my God will fill all your need according to his riches in glory in Christ Jesus.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {
+            "text": "Now to our God and Father be glory from age to age. Amen."
+          },
+          "text": "Now to our God and Father be glory from age to age. Amen.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 21,
+          "sinaiticus": {
+            "text": "Salute every saint in Christ Jesus. The brethren that are with me salute you."
+          },
+          "text": "Salute every saint in Christ Jesus. The brethren that are with me salute you.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 22,
+          "sinaiticus": {
+            "text": "All the saints salute you, but especially they of Caesar’s household."
+          },
+          "text": "All the saints salute you, but especially they of Caesar’s household.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 23,
+          "sinaiticus": {
+            "text": "The grace of the Lord Jesus Christ be with your spirit.356"
+          },
+          "text": "The grace of the Lord Jesus Christ be with your spirit.356",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    }
+  ]
+}

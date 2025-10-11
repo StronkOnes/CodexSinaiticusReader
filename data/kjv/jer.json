@@ -1,0 +1,280 @@
+{
+  "id": "jer",
+  "name": "Book of the Prophet Jeremiah",
+  "order": 24,
+  "section": "Old Testament",
+  "folios": [],
+  "chapters": [
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "verse": 5,
+          "sinaiticus": {},
+          "text": "Therefore the five kings of the Amorites, the king of Jerusalem, the king of Hebron, the king of Jarmuth, the king of Lachish, the king of Eglon, gathered themselves together, and went up, they and all their hosts, and encamped before Gibeon, and made war against it.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/jer/10/5"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {},
+          "text": "And the men of Gibeon sent unto Joshua to the camp to Gilgal, saying, Slack not thy hand from thy servants; come up to us quickly, and save us, and help us: for all the kings of the Amorites that dwell in the mountains are gathered together against us.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/jer/10/6"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {},
+          "text": "So Joshua ascended from Gilgal, he, and all the people of war with him, and all the mighty men of valour.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/jer/10/7"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {},
+          "text": "And the LORD said unto Joshua, Fear them not: for I have delivered them into thine hand; there shall not a man of them stand before thee.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/jer/10/8"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {},
+          "text": "Joshua therefore came unto them suddenly, and went up from Gilgal all night.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/jer/10/9"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {},
+          "text": "And the LORD discomfited them before Israel, and slew them with a great slaughter at Gibeon, and chased them along the way that goeth up to Bethhoron, and smote them to Azekah, and unto Makkedah.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/jer/10/10"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {},
+          "text": "And it came to pass, as they fled from before Israel, and were in the going down to Bethhoron, that the LORD cast down great stones from heaven upon them unto Azekah, and they died: they were more which died with hailstones than they whom the children of Israel slew with the sword.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/jer/10/11"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {},
+          "text": "Then spake Joshua to the LORD in the day when the LORD delivered up the Amorites before the children of Israel, and he said in the sight of Israel, Sun, stand thou still upon Gibeon; and thou, Moon, in the valley of Ajalon.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/jer/10/12"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {},
+          "text": "And the sun stood still, and the moon stayed, until the people had avenged themselves upon their enemies. Is not this written in the book of Jasher? So the sun stood still in the midst of heaven, and hasted not to go down about a whole day.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/jer/10/13"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {},
+          "text": "And there was no day like that before it or after it, that the LORD hearkened unto the voice of a man: for the LORD fought for Israel.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/jer/10/14"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {},
+          "text": "And Joshua returned, and all Israel with him, unto the camp to Gilgal.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/jer/10/15"
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {},
+          "text": "But these five kings fled, and hid themselves in a cave at Makkedah.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/jer/10/16"
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {},
+          "text": "And it was told Joshua, saying, The five kings are found hid in a cave at Makkedah.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/jer/10/17"
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {},
+          "text": "And Joshua said, Roll great stones upon the mouth of the cave, and set men by it for to keep them: 10:19 And stay ye not, but pursue after your enemies, and smite the hindmost of them; suffer them not to enter into their cities: for the LORD your God hath delivered them into your hand.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/jer/10/18"
+            }
+          ]
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {},
+          "text": "And it came to pass, when Joshua and the children of Israel had made an end of slaying them with a very great slaughter, till they were consumed, that the rest which remained of them entered into fenced cities.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/jer/10/20"
+            }
+          ]
+        },
+        {
+          "verse": 21,
+          "sinaiticus": {},
+          "text": "And all the people returned to the camp to Joshua at Makkedah in peace: none moved his tongue against any of the children of Israel.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/jer/10/21"
+            }
+          ]
+        },
+        {
+          "verse": 22,
+          "sinaiticus": {},
+          "text": "Then said Joshua, Open the mouth of the cave, and bring out those five kings unto me out of the cave.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/jer/10/22"
+            }
+          ]
+        },
+        {
+          "verse": 23,
+          "sinaiticus": {},
+          "text": "And they did so, and brought forth those five kings unto him out of the cave, the king of Jerusalem, the king of Hebron, the king of Jarmuth, the king of Lachish, and the king of Eglon.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/jer/10/23"
+            }
+          ]
+        },
+        {
+          "verse": 24,
+          "sinaiticus": {},
+          "text": "And it came to pass, when they brought out those kings unto",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/jer/10/24"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

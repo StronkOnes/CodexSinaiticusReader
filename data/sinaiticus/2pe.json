@@ -1,0 +1,634 @@
+{
+  "id": "2pe",
+  "name": "Epistle of Peter 2nd",
+  "order": 13,
+  "section": "New Testament",
+  "folios": [],
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "Simon Peter, a servant and apostle of Jesus Christ, to those that have obtained equally precious faith with us in the righteousness of our God and Saviour Jesus Christ."
+          },
+          "text": "Simon Peter, a servant and apostle of Jesus Christ, to those that have obtained equally precious faith with us in the righteousness of our God and Saviour Jesus Christ.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "Grace to you and peace be multiplied in the acknowledgment of God and Jesus our Lord."
+          },
+          "text": "Grace to you and peace be multiplied in the acknowledgment of God and Jesus our Lord.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "As his divine power has given us all things that pertain to life and godliness, through the acknowledgment of him who has called us by his own glory and virtue,"
+          },
+          "text": "As his divine power has given us all things that pertain to life and godliness, through the acknowledgment of him who has called us by his own glory and virtue,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "through which very great and precious promises have been given to us, that through these you might become partakers of the divine nature, having escaped the corruption that is in the world in desire;"
+          },
+          "text": "through which very great and precious promises have been given to us, that through these you might become partakers of the divine nature, having escaped the corruption that is in the world in desire;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "and for this very reason bringing forward all diligence, supply in your faith, virtue, and in virtue, knowledge,"
+          },
+          "text": "and for this very reason bringing forward all diligence, supply in your faith, virtue, and in virtue, knowledge,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "and in knowledge, self-control, and in self-control, patience, and in patience, godliness,"
+          },
+          "text": "and in knowledge, self-control, and in self-control, patience, and in patience, godliness,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "and in godliness, friendship for brethren, and in friendship for brethren, love."
+          },
+          "text": "and in godliness, friendship for brethren, and in friendship for brethren, love.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "For these things being in you and abounding render you neither idle, nor unfruitful for the acknowledgment of our Lord Jesus Christ;"
+          },
+          "text": "For these things being in you and abounding render you neither idle, nor unfruitful for the acknowledgment of our Lord Jesus Christ;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "but he in whom these are not present, is blind, not seeing afar off, having taken up a forgetfulness of the purification of his old sins."
+          },
+          "text": "but he in whom these are not present, is blind, not seeing afar off, having taken up a forgetfulness of the purification of his old sins.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "Wherefore the rather, brethren, be diligent to make your calling and election sure; for in doing these things you shall never stumble."
+          },
+          "text": "Wherefore the rather, brethren, be diligent to make your calling and election sure; for in doing these things you shall never stumble.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "For so shall there be richly supplied to you the entrance into the eternal kingdom of our Lord and Saviour Jesus Christ."
+          },
+          "text": "For so shall there be richly supplied to you the entrance into the eternal kingdom of our Lord and Saviour Jesus Christ.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "Wherefore I shall always remind you of these things, though you know them and are established in the present truth."
+          },
+          "text": "Wherefore I shall always remind you of these things, though you know them and are established in the present truth.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "Yes, I think it right, as long as I am in this tabernacle, to stir you up by putting you in remembrance,"
+          },
+          "text": "Yes, I think it right, as long as I am in this tabernacle, to stir you up by putting you in remembrance,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "knowing that shortly I must put off this my tabernacle, even as our Lord Jesus Christ has shown me."
+          },
+          "text": "knowing that shortly I must put off this my tabernacle, even as our Lord Jesus Christ has shown me.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {
+            "text": "But I will endeavor that you may always be able, after my departure, to have these things in remembrance."
+          },
+          "text": "But I will endeavor that you may always be able, after my departure, to have these things in remembrance.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {
+            "text": "For we did not follow cunningly devised fables when we made known to you the power and coming of our Lord Jesus Christ, but had been made eye-witnesses of his majesty."
+          },
+          "text": "For we did not follow cunningly devised fables when we made known to you the power and coming of our Lord Jesus Christ, but had been made eye-witnesses of his majesty.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {
+            "text": "For he received from God the Father honor and glory, a voice having been borne to him by the most excellent glory, such as this: This is my beloved Son, in whom I am well pleased."
+          },
+          "text": "For he received from God the Father honor and glory, a voice having been borne to him by the most excellent glory, such as this: This is my beloved Son, in whom I am well pleased.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {
+            "text": "And this voice brought from heaven we heard, being with him in"
+          },
+          "text": "And this voice brought from heaven we heard, being with him in",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 19,
+          "sinaiticus": {
+            "text": "and we have the prophetic word more sure, to which you do well to give heed, as to a lamp shining in a dark place, till the day dawn and the day-star arise in your hearts;"
+          },
+          "text": "and we have the prophetic word more sure, to which you do well to give heed, as to a lamp shining in a dark place, till the day dawn and the day-star arise in your hearts;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {
+            "text": "knowing this first, that no prophecy of Scripture comes from one’s own interpretation."
+          },
+          "text": "knowing this first, that no prophecy of Scripture comes from one’s own interpretation.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 21,
+          "sinaiticus": {
+            "text": "For not by the will of man was prophecy ever brought, but men from God spoke, being moved by the Holy Spirit."
+          },
+          "text": "For not by the will of man was prophecy ever brought, but men from God spoke, being moved by the Holy Spirit.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "But there arose false prophets among the people, as there shall be false teachers also among you, such as shall privily introduce heresies of destruction, even denying the Lord that bought them, who bring on themselves swift destruction;"
+          },
+          "text": "But there arose false prophets among the people, as there shall be false teachers also among you, such as shall privily introduce heresies of destruction, even denying the Lord that bought them, who bring on themselves swift destruction;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "and many will follow their licentiousness, because of whom the way of truth shall be blasphemed;"
+          },
+          "text": "and many will follow their licentiousness, because of whom the way of truth shall be blasphemed;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "and in covetousness with deceitful words they will make merchandise of you; for whom the condemnation of old lingers not, and their destruction slumbers not."
+          },
+          "text": "and in covetousness with deceitful words they will make merchandise of you; for whom the condemnation of old lingers not, and their destruction slumbers not.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "For if God spared not the angels that sinned, but casting them down to Tartarus in chains of darkness delivered them up to be kept for judgment,"
+          },
+          "text": "For if God spared not the angels that sinned, but casting them down to Tartarus in chains of darkness delivered them up to be kept for judgment,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "and spared not the old world, but preserved Noah, the eighth person, a preacher of righteousness, having brought a flood on the world of the ungodly,"
+          },
+          "text": "and spared not the old world, but preserved Noah, the eighth person, a preacher of righteousness, having brought a flood on the world of the ungodly,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "and turning the cities of Sodom and Gomorrah into ashes, condemned them with an overthrow, making them an example of those that shall live ungodly,"
+          },
+          "text": "and turning the cities of Sodom and Gomorrah into ashes, condemned them with an overthrow, making them an example of those that shall live ungodly,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "and delivered righteous Lot, wearied out with the licentious conduct of the ungodly;"
+          },
+          "text": "and delivered righteous Lot, wearied out with the licentious conduct of the ungodly;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "for the righteous man dwelling among them, by seeing and hearing, vexed his righteous soul from day to day with their lawless deeds:"
+          },
+          "text": "for the righteous man dwelling among them, by seeing and hearing, vexed his righteous soul from day to day with their lawless deeds:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "the Lord knows how to deliver the godly out of temptation, and to keep the unrighteous to the day of judgment to be punished,"
+          },
+          "text": "the Lord knows how to deliver the godly out of temptation, and to keep the unrighteous to the day of judgment to be punished,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "but especially those that walk after the flesh in unclean desire, and despise governments. Presumptuous, self-willed men, they tremble not while blaspheming dignities;"
+          },
+          "text": "but especially those that walk after the flesh in unclean desire, and despise governments. Presumptuous, self-willed men, they tremble not while blaspheming dignities;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "whereas angels, who are greater in strength and power, bring no railing accusation against them before the Lord;"
+          },
+          "text": "whereas angels, who are greater in strength and power, bring no railing accusation against them before the Lord;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "but these, as irrational animals made by nature for capture and destruction, speaking evil of things in which they are ignorant, shall also perish in their corruption,"
+          },
+          "text": "but these, as irrational animals made by nature for capture and destruction, speaking evil of things in which they are ignorant, shall also perish in their corruption,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "thus receiving the reward of unrighteousness, who count reveling in the daytime a delight; spots and blemishes they are reveling in their deceits while feasting with you,422"
+          },
+          "text": "thus receiving the reward of unrighteousness, who count reveling in the daytime a delight; spots and blemishes they are reveling in their deceits while feasting with you,422",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "having eyes full of an adulteress, and that can not cease from sin, seducing unsteady souls, having a heart exercised in covetousness, children of the curse:"
+          },
+          "text": "having eyes full of an adulteress, and that can not cease from sin, seducing unsteady souls, having a heart exercised in covetousness, children of the curse:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {
+            "text": "having left the straight way, they have turned aside, following the way of Balaam the son of Beor, who loved the wages of unrighteousness,"
+          },
+          "text": "having left the straight way, they have turned aside, following the way of Balaam the son of Beor, who loved the wages of unrighteousness,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {
+            "text": "but was reproved for his iniquity: the dumb beast of burden speaking with man’s voice forbade the madness of the prophet."
+          },
+          "text": "but was reproved for his iniquity: the dumb beast of burden speaking with man’s voice forbade the madness of the prophet.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {
+            "text": "These are wells without water, and mists driven by a tempest, for whom the blackness of darkness is reserved."
+          },
+          "text": "These are wells without water, and mists driven by a tempest, for whom the blackness of darkness is reserved.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {
+            "text": "For speaking great swelling words of vanity, they seduce in the desires of the flesh by lasciviousness those that are just escaping from them that live in error,"
+          },
+          "text": "For speaking great swelling words of vanity, they seduce in the desires of the flesh by lasciviousness those that are just escaping from them that live in error,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 19,
+          "sinaiticus": {
+            "text": "promising them freedom, while they themselves are servants of corruption; for by whom any one has been overcome, by him has he also been made a servant."
+          },
+          "text": "promising them freedom, while they themselves are servants of corruption; for by whom any one has been overcome, by him has he also been made a servant.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {
+            "text": "For if, after escaping from the pollutions of the world through the knowledge of our Lord and Saviour Jesus Christ, they are again entangled in these and overcome, their last state becomes worse than the first."
+          },
+          "text": "For if, after escaping from the pollutions of the world through the knowledge of our Lord and Saviour Jesus Christ, they are again entangled in these and overcome, their last state becomes worse than the first.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 21,
+          "sinaiticus": {
+            "text": "For it had been better for them not to have known the way of righteousness, than having known it to turn from the holy commandment that had been delivered to them."
+          },
+          "text": "For it had been better for them not to have known the way of righteousness, than having known it to turn from the holy commandment that had been delivered to them.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 22,
+          "sinaiticus": {
+            "text": "That of the true proverb has happened to them: A dog turned back to his own vomit; and: A sow washed to wallowing in the mire."
+          },
+          "text": "That of the true proverb has happened to them: A dog turned back to his own vomit; and: A sow washed to wallowing in the mire.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "This now, beloved, is the second epistle that I write to you, in both of which I stir up your pure mind by way of remembrance,"
+          },
+          "text": "This now, beloved, is the second epistle that I write to you, in both of which I stir up your pure mind by way of remembrance,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "that you be mindful of the words spoken before by the holy prophets, and of the commandment of the Lord and Saviour, that was given by your apostles,"
+          },
+          "text": "that you be mindful of the words spoken before by the holy prophets, and of the commandment of the Lord and Saviour, that was given by your apostles,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "knowing this first, that there shall come in the last days shameless scoffers walking according to their own desires,"
+          },
+          "text": "knowing this first, that there shall come in the last days shameless scoffers walking according to their own desires,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "and saying: Where is the promise of his coming? For since the fathers fell asleep, all things thus continue from the beginning of the creation."
+          },
+          "text": "and saying: Where is the promise of his coming? For since the fathers fell asleep, all things thus continue from the beginning of the creation.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "For this they willingly know not, that the heavens were of old and the earth from water and by means of water consisting by the word of God,"
+          },
+          "text": "For this they willingly know not, that the heavens were of old and the earth from water and by means of water consisting by the word of God,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "by which the then world, having been overflowed with water,"
+          },
+          "text": "by which the then world, having been overflowed with water,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "but the present heavens and earth are kept in store by the same word, reserved for fire at the day of judgment and perdition of ungodly men."
+          },
+          "text": "but the present heavens and earth are kept in store by the same word, reserved for fire at the day of judgment and perdition of ungodly men.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "But be not ignorant of this one thing, beloved, that one day with the Lord is as a thousand years, and a thousand years as one day."
+          },
+          "text": "But be not ignorant of this one thing, beloved, that one day with the Lord is as a thousand years, and a thousand years as one day.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "The Lord delays not concerning the promise, as some count delaying, but is longsuffering for your sake, not willing that any should perish, but that all should come to repentance."
+          },
+          "text": "The Lord delays not concerning the promise, as some count delaying, but is longsuffering for your sake, not willing that any should perish, but that all should come to repentance.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "But the day of the Lord will come as a thief, in which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, and the earth and the works that are in it shall be burned up."
+          },
+          "text": "But the day of the Lord will come as a thief, in which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, and the earth and the works that are in it shall be burned up.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "As all these things are thus to be dissolved, what manner of persons ought you to be in holy behavior and godliness,"
+          },
+          "text": "As all these things are thus to be dissolved, what manner of persons ought you to be in holy behavior and godliness,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "looking for and hastening the coming of the day of God, because of which the heavens being on fire shall be dissolved and the elements shall melt with fervent heat?"
+          },
+          "text": "looking for and hastening the coming of the day of God, because of which the heavens being on fire shall be dissolved and the elements shall melt with fervent heat?",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "But we, according to his promise, look for new heavens and a new earth, in which dwells righteousness."
+          },
+          "text": "But we, according to his promise, look for new heavens and a new earth, in which dwells righteousness.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "Wherefore, beloved, as you look for these things, be diligent to be found spotless and blameless before him in peace,"
+          },
+          "text": "Wherefore, beloved, as you look for these things, be diligent to be found spotless and blameless before him in peace,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {
+            "text": "and regard the longsuffering of our Lord salvation, even as our beloved brother Paul, according to the wisdom that is given to him, has written to you,"
+          },
+          "text": "and regard the longsuffering of our Lord salvation, even as our beloved brother Paul, according to the wisdom that is given to him, has written to you,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {
+            "text": "as also in all his epistles speaking in them of these things, in which things are some hard to be understood, which the unlearned and unsteady wrest, as they do also the other Scriptures, to their own destruction."
+          },
+          "text": "as also in all his epistles speaking in them of these things, in which things are some hard to be understood, which the unlearned and unsteady wrest, as they do also the other Scriptures, to their own destruction.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {
+            "text": "Do you then, beloved, knowing it before, beware lest being led away by the error of the lawless you fall from your own steadfastness,"
+          },
+          "text": "Do you then, beloved, knowing it before, beware lest being led away by the error of the lawless you fall from your own steadfastness,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {
+            "text": "but grow in grace and the knowledge of our Lord and Saviour Jesus Christ. To him be glory both now and to the day of eternity.424"
+          },
+          "text": "but grow in grace and the knowledge of our Lord and Saviour Jesus Christ. To him be glory both now and to the day of eternity.424",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    }
+  ]
+}

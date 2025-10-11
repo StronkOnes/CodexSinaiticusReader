@@ -1,0 +1,9 @@
+and then begin to plan the implementation of this app, I then want you to build the 
+  app all the text needed is availble in @Codex\ Sinaiticus\ New\ Testiment\ English\ written\ 330-350\ 
+  translated\ 1861.pdf and @The\ King\ James\ Version\ of\ the\ Bible.txt remember to use only the books in 
+  the codex and recall that we want to have links to complete scriptures where possible. thirdly we will not 
+  be using any images from the original manuscript and any other Copyright violating items will be left out. I
+   will provide logos for the app and I will provide any other images you want just be sure to specify them as
+   I will be generating them with AI. Please enjoy the process and remember most important the app will be 
+  made to be available on web and android for now so build it with that in mind but move one step at a time. 
+  THank you

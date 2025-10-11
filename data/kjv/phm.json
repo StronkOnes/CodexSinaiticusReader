@@ -1,0 +1,350 @@
+{
+  "id": "phm",
+  "name": "Epistle of Paul the Apostle to Philemon",
+  "order": 18,
+  "section": "New Testament",
+  "folios": [],
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {},
+          "text": "Paul, a prisoner of Jesus Christ, and Timothy our brother, unto",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/phm/1/1"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {},
+          "text": "And to our beloved Apphia, and Archippus our fellowsoldier, and to the church in",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/phm/1/2"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {},
+          "text": "Grace to you, and peace, from God our Father and the Lord Jesus Christ.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/phm/1/3"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {},
+          "text": "I thank my God, making mention of thee always in my prayers, 1:5 Hearing of thy love and faith, which thou hast toward the Lord Jesus,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/phm/1/4"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {},
+          "text": "That the communication of thy faith may become effectual by the acknowledging of every good thing which is in you in Christ Jesus.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/phm/1/6"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {},
+          "text": "For we have great joy and consolation in thy love, because the bowels of the saints are refreshed by thee, brother.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/phm/1/7"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {},
+          "text": "Wherefore, though I might be much bold in Christ to enjoin thee",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/phm/1/8"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {},
+          "text": "Yet for love’s sake I rather beseech thee, being such an one as Paul the aged, and now also a prisoner of Jesus Christ.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/phm/1/9"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {},
+          "text": "I beseech thee for my son Onesimus, whom I have begotten in my",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/phm/1/10"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {},
+          "text": "Which in time past was to thee unprofitable, but now",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/phm/1/11"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {},
+          "text": "Whom I have sent again: thou",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/phm/1/12"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {},
+          "text": "Whom I would have retained with me, that in thy stead he might have ministered unto",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/phm/1/13"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {},
+          "text": "But without thy mind would I do nothing; that thy benefit should not be as it were of necessity, but willingly.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/phm/1/14"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {},
+          "text": "For perhaps he therefore departed for a season, that thou",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/phm/1/15"
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {},
+          "text": "Not now as a servant, but above a servant, a brother beloved, specially to me, but how much more unto",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/phm/1/16"
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {},
+          "text": "If thou count me therefore a partner, receive him as myself.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/phm/1/17"
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {},
+          "text": "If he hath wronged thee, or oweth thee ought, put that on mine",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/phm/1/18"
+            }
+          ]
+        },
+        {
+          "verse": 19,
+          "sinaiticus": {},
+          "text": "I Paul have written it with mine own hand, I will repay it: albeit I do not say to thee how thou owest unto me even thine own self besides.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/phm/1/19"
+            }
+          ]
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {},
+          "text": "Yea, brother, let me have joy of thee in the Lord: refresh my bowels in the Lord.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/phm/1/20"
+            }
+          ]
+        },
+        {
+          "verse": 21,
+          "sinaiticus": {},
+          "text": "Having confidence in thy obedience I wrote unto thee, knowing that thou wilt also do more than I say.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/phm/1/21"
+            }
+          ]
+        },
+        {
+          "verse": 22,
+          "sinaiticus": {},
+          "text": "But withal prepare me also a lodging: for I trust that through your prayers I shall be given unto you.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/phm/1/22"
+            }
+          ]
+        },
+        {
+          "verse": 23,
+          "sinaiticus": {},
+          "text": "There salute thee Epaphras, my fellowprisoner in Christ Jesus;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/phm/1/23"
+            }
+          ]
+        },
+        {
+          "verse": 24,
+          "sinaiticus": {},
+          "text": "Marcus, Aristarchus, Demas, Lucas, my fellowlabourers.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/phm/1/24"
+            }
+          ]
+        },
+        {
+          "verse": 25,
+          "sinaiticus": {},
+          "text": "The grace of our Lord Jesus Christ be with your spirit. Amen.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/phm/1/25"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "id": "ecc",
+  "name": "Ecclesiastes",
+  "order": 21,
+  "section": "Old Testament",
+  "folios": [],
+  "chapters": [
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 9,
+          "sinaiticus": {},
+          "text": "And Joshua set up twelve stones in the midst of Jordan, in the place where the feet of the priests which bare the ark of the covenant stood: and they are there unto this day.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/ecc/4/9"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {},
+          "text": "For the priests which bare the ark stood in the midst of Jordan, until everything was finished that the LORD commanded Joshua to speak unto the people, according to all that Moses commanded Joshua: and the people hasted and passed over.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/ecc/4/10"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {},
+          "text": "And it came to pass, when all the people were clean passed over, that the ark of the LORD passed over, and the priests, in the presence of the people.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/ecc/4/11"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {},
+          "text": "And the children of Reuben, and the children of Gad, and half the tribe of Manasseh, passed over armed before the children of Israel, as Moses spake unto them: 4:13 About forty thousand prepared for war passed over before the LORD unto battle, to the plains of Jericho.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/ecc/4/12"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {},
+          "text": "On that day the LORD magnified Joshua in the sight of all Israel; and they feared him, as they feared Moses, all the days of his life.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/ecc/4/14"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {},
+          "text": "And the LORD spake unto Joshua, saying, 4:16 Command the priests that bear the ark of the testimony, that they come up out of Jordan.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/ecc/4/15"
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {},
+          "text": "Joshua therefore commanded the priests, saying, Come ye up out of Jordan.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/ecc/4/17"
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {},
+          "text": "And it came to pass, when the priests that bare the ark of the covenant of the LORD were come up out of the midst of Jordan, and the soles of the priests’ feet were lifted up unto the dry land, that the waters of Jordan returned unto their place, and flowed over all his banks, as they did before.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/ecc/4/18"
+            }
+          ]
+        },
+        {
+          "verse": 19,
+          "sinaiticus": {},
+          "text": "And the people came up out of Jordan on the tenth day of the first month, and encamped in Gilgal, in the east border of Jericho.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/ecc/4/19"
+            }
+          ]
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {},
+          "text": "And those twelve stones, which they took out of Jordan, did",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/ecc/4/20"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

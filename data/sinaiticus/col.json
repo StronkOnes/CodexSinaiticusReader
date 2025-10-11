@@ -1,0 +1,969 @@
+{
+  "id": "col",
+  "name": "Paul to the Colossians",
+  "order": 13,
+  "section": "New Testament",
+  "folios": [],
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "Paul, an apostle of Christ Jesus through the will of God, and Timothy the brother,"
+          },
+          "text": "Paul, an apostle of Christ Jesus through the will of God, and Timothy the brother,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "to the saints that are in Colossae and the faithful brethren in Christ. Grace to you and peace from God our Father."
+          },
+          "text": "to the saints that are in Colossae and the faithful brethren in Christ. Grace to you and peace from God our Father.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "We thank God the Father of our Lord Jesus Christ, praying always for you,"
+          },
+          "text": "We thank God the Father of our Lord Jesus Christ, praying always for you,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "since we heard of your faith in Christ Jesus and the love you have for all the saints,"
+          },
+          "text": "since we heard of your faith in Christ Jesus and the love you have for all the saints,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "because of the hope that is laid up for you in the heavens, of which you heard before in the word of the truth of the gospel,"
+          },
+          "text": "because of the hope that is laid up for you in the heavens, of which you heard before in the word of the truth of the gospel,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "which is present among you, as also in all the world, and is bringing forth fruit and increasing as also among you, from the day you heard and knew the grace of God in truth:"
+          },
+          "text": "which is present among you, as also in all the world, and is bringing forth fruit and increasing as also among you, from the day you heard and knew the grace of God in truth:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "as you learned from Epaphras, our beloved fellow-servant, who is faithful in behalf of you, a minister of Christ,"
+          },
+          "text": "as you learned from Epaphras, our beloved fellow-servant, who is faithful in behalf of you, a minister of Christ,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "who also made known to us your love in the Spirit."
+          },
+          "text": "who also made known to us your love in the Spirit.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "Wherefore we also, from the day we heard, cease not to pray for you and to ask that you may be filled with the knowledge of his will in all wisdom and spiritual understanding,"
+          },
+          "text": "Wherefore we also, from the day we heard, cease not to pray for you and to ask that you may be filled with the knowledge of his will in all wisdom and spiritual understanding,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "so that you walk in a manner worthy of the Lord, to all pleasing, in every good work bringing forth fruit and increasing in the knowledge of God,"
+          },
+          "text": "so that you walk in a manner worthy of the Lord, to all pleasing, in every good work bringing forth fruit and increasing in the knowledge of God,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "in all power made powerful according to the might of his glory for all patience and longsuffering, with joy,"
+          },
+          "text": "in all power made powerful according to the might of his glory for all patience and longsuffering, with joy,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "giving thanks to the Father who made us fit for the portion of the inheritance of the saints in light,"
+          },
+          "text": "giving thanks to the Father who made us fit for the portion of the inheritance of the saints in light,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "who delivered us from the authority of darkness and translated us into the kingdom of the Son of his love,"
+          },
+          "text": "who delivered us from the authority of darkness and translated us into the kingdom of the Son of his love,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "in whom we have redemption, the remission of sins,"
+          },
+          "text": "in whom we have redemption, the remission of sins,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {
+            "text": "who is the image of the invisible God, the firstborn of every creature,"
+          },
+          "text": "who is the image of the invisible God, the firstborn of every creature,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {
+            "text": "for in him were all things created that are in the heavens and that are on the earth, visible and invisible, whether thrones or lordships, or principalities or authorities: all things have been created through him and for him,"
+          },
+          "text": "for in him were all things created that are in the heavens and that are on the earth, visible and invisible, whether thrones or lordships, or principalities or authorities: all things have been created through him and for him,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {
+            "text": "and he is before all things, and all things in him consist;"
+          },
+          "text": "and he is before all things, and all things in him consist;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {
+            "text": "and he is the head of the body, and the church: who is the beginning, the firstborn from the dead, that he himself might become in all things pre-eminent;"
+          },
+          "text": "and he is the head of the body, and the church: who is the beginning, the firstborn from the dead, that he himself might become in all things pre-eminent;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {
+            "text": "and through him to reconcile all things to himself, having made peace through the blood of his cross, through him, whether things on the earth or things in the heavens;"
+          },
+          "text": "and through him to reconcile all things to himself, having made peace through the blood of his cross, through him, whether things on the earth or things in the heavens;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 21,
+          "sinaiticus": {
+            "text": "and you being formerly alienated and enemies in mind in the wicked works, now, however, he has reconciled"
+          },
+          "text": "and you being formerly alienated and enemies in mind in the wicked works, now, however, he has reconciled",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 22,
+          "sinaiticus": {
+            "text": "in the body of his flesh through death, to present you holy and without fault and blameless in his presence;"
+          },
+          "text": "in the body of his flesh through death, to present you holy and without fault and blameless in his presence;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 23,
+          "sinaiticus": {
+            "text": "if indeed you continue in faith founded and settled, and not moved away from the hope of the gospel which you heard, which was preached to every creature that is under heaven, of which I Paul became a minister."
+          },
+          "text": "if indeed you continue in faith founded and settled, and not moved away from the hope of the gospel which you heard, which was preached to every creature that is under heaven, of which I Paul became a minister.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 24,
+          "sinaiticus": {
+            "text": "Now I rejoice in sufferings for you, and, in your stead, I fill up that which remains of the afflictions of Christ in my flesh for his body’s sake, which is the church,"
+          },
+          "text": "Now I rejoice in sufferings for you, and, in your stead, I fill up that which remains of the afflictions of Christ in my flesh for his body’s sake, which is the church,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 25,
+          "sinaiticus": {
+            "text": "of which I became a minister according to the dispensation of God, which was given to me for you to fulfil the word of God,"
+          },
+          "text": "of which I became a minister according to the dispensation of God, which was given to me for you to fulfil the word of God,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 26,
+          "sinaiticus": {
+            "text": "the mystery that having been hid from the ages and from the generations, now, however, has been made manifest to his saints,"
+          },
+          "text": "the mystery that having been hid from the ages and from the generations, now, however, has been made manifest to his saints,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 27,
+          "sinaiticus": {
+            "text": "to whom God wished to make known what is the riches of the glory of this mystery among the Gentiles, which is Christ in you, the hope of glory,"
+          },
+          "text": "to whom God wished to make known what is the riches of the glory of this mystery among the Gentiles, which is Christ in you, the hope of glory,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 28,
+          "sinaiticus": {
+            "text": "whom we announce, admonishing every man and teaching every man in all wisdom, that we may present every man perfect in Christ;"
+          },
+          "text": "whom we announce, admonishing every man and teaching every man in all wisdom, that we may present every man perfect in Christ;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 29,
+          "sinaiticus": {
+            "text": "for which I also labor, striving according to his energy that is active in me in power."
+          },
+          "text": "for which I also labor, striving according to his energy that is active in me in power.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "For I wish you to know how great a conflict I have for you and those in Laodicea and as many as have not seen my face in the flesh,"
+          },
+          "text": "For I wish you to know how great a conflict I have for you and those in Laodicea and as many as have not seen my face in the flesh,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "that their hearts may be comforted, they being knit together in love, and for all the riches of the full assurance of understanding, for the acknowledgment of the mystery of God,"
+          },
+          "text": "that their hearts may be comforted, they being knit together in love, and for all the riches of the full assurance of understanding, for the acknowledgment of the mystery of God,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "in which are laid up all the treasures of wisdom and of knowledge."
+          },
+          "text": "in which are laid up all the treasures of wisdom and of knowledge.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "But this I say , that no one may beguile you with persuasive words."
+          },
+          "text": "But this I say , that no one may beguile you with persuasive words.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "For though in the flesh I am absent, yet in the spirit I am with you, rejoicing and I beholding your order and the steadfastness of your faith in Christ."
+          },
+          "text": "For though in the flesh I am absent, yet in the spirit I am with you, rejoicing and I beholding your order and the steadfastness of your faith in Christ.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "As therefore you received Christ Jesus the Lord, in him walk,"
+          },
+          "text": "As therefore you received Christ Jesus the Lord, in him walk,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "rooted and builded up in him and strengthened in the faith as you were taught, abounding in it in thanksgiving."
+          },
+          "text": "rooted and builded up in him and strengthened in the faith as you were taught, abounding in it in thanksgiving.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "Take care that there shall be no one that leads you astray through philosophy and vain deceit, according to the tradition of men, according to the rudiments of the world, and not according to Christ,"
+          },
+          "text": "Take care that there shall be no one that leads you astray through philosophy and vain deceit, according to the tradition of men, according to the rudiments of the world, and not according to Christ,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "for in him dwells all the fulness of the Godhead bodily,358"
+          },
+          "text": "for in him dwells all the fulness of the Godhead bodily,358",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "and you are complete in him, who is the head of all principality and authority,"
+          },
+          "text": "and you are complete in him, who is the head of all principality and authority,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "in whom you were also circumcised with a circumcision made without hands, in the putting off of the body of the flesh, in the circumcision of Christ,"
+          },
+          "text": "in whom you were also circumcised with a circumcision made without hands, in the putting off of the body of the flesh, in the circumcision of Christ,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "having been buried with him in baptism, in which you were also raised with him through faith in the energy of God who raised him from the dead;"
+          },
+          "text": "having been buried with him in baptism, in which you were also raised with him through faith in the energy of God who raised him from the dead;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "and you being dead in the offenses and the uncircumcision of your flesh, he made alive together with him, having forgiven us all offenses;"
+          },
+          "text": "and you being dead in the offenses and the uncircumcision of your flesh, he made alive together with him, having forgiven us all offenses;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "having blotted out the handwriting in ordinances that was against us, which was opposed to us, he also took it out of the midst, having nailed it to the cross:"
+          },
+          "text": "having blotted out the handwriting in ordinances that was against us, which was opposed to us, he also took it out of the midst, having nailed it to the cross:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {
+            "text": "after spoiling principalities and authorities, he made a show of them openly, having triumphed over them in it."
+          },
+          "text": "after spoiling principalities and authorities, he made a show of them openly, having triumphed over them in it.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {
+            "text": "Let no one therefore judge you in eating or in drinking or in respect of a feast or of a new moon or of sabbaths,"
+          },
+          "text": "Let no one therefore judge you in eating or in drinking or in respect of a feast or of a new moon or of sabbaths,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {
+            "text": "which are a shadow of things to come, but the body of Christ is the substance."
+          },
+          "text": "which are a shadow of things to come, but the body of Christ is the substance.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {
+            "text": "Let no one deprive you of your reward by delighting in humility and worship of angels, intruding into those things which he has not seen, vainly puffed up by the mind of his flesh,"
+          },
+          "text": "Let no one deprive you of your reward by delighting in humility and worship of angels, intruding into those things which he has not seen, vainly puffed up by the mind of his flesh,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 19,
+          "sinaiticus": {
+            "text": "and not holding the head, from whom all the body, through joints and bands, having nourishment, ministered and being knit together, increases with the increase of God."
+          },
+          "text": "and not holding the head, from whom all the body, through joints and bands, having nourishment, ministered and being knit together, increases with the increase of God.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {
+            "text": "If you die with Christ from the rudiments of the world, why as living in the world are you subject to dogmas, —"
+          },
+          "text": "If you die with Christ from the rudiments of the world, why as living in the world are you subject to dogmas, —",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 21,
+          "sinaiticus": {
+            "text": "Touch not, neither taste nor handle, —"
+          },
+          "text": "Touch not, neither taste nor handle, —",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 22,
+          "sinaiticus": {
+            "text": "which things are all to perish in the using, according to the commandments and teachings of men."
+          },
+          "text": "which things are all to perish in the using, according to the commandments and teachings of men.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 23,
+          "sinaiticus": {
+            "text": "And these have indeed a show of wisdom in will-worship and humility and austerity of the body, not in any honor for the satisfying of the flesh."
+          },
+          "text": "And these have indeed a show of wisdom in will-worship and humility and austerity of the body, not in any honor for the satisfying of the flesh.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "If then you were raised with Christ, seek the things that are above, where Christ is sitting at the right hand of God:"
+          },
+          "text": "If then you were raised with Christ, seek the things that are above, where Christ is sitting at the right hand of God:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "think of things that are above, not of things that are on the earth."
+          },
+          "text": "think of things that are above, not of things that are on the earth.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "For you died, and your life has been hid with Christ in God:"
+          },
+          "text": "For you died, and your life has been hid with Christ in God:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "when Christ, our life, shall be made manifest, then shall you also be"
+          },
+          "text": "when Christ, our life, shall be made manifest, then shall you also be",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "Put to death therefore your members that are on the earth, lewdness, uncleanness, passion, evil desire, and covetousness, which is idolatry;"
+          },
+          "text": "Put to death therefore your members that are on the earth, lewdness, uncleanness, passion, evil desire, and covetousness, which is idolatry;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "because of which things comes the wrath of God;"
+          },
+          "text": "because of which things comes the wrath of God;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "in which you also walked formerly when you lived in them;"
+          },
+          "text": "in which you also walked formerly when you lived in them;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "but now do you also put off all these, anger, wrath, malice, blasphemy, filthy speech out of your mouth:"
+          },
+          "text": "but now do you also put off all these, anger, wrath, malice, blasphemy, filthy speech out of your mouth:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "lie not one to another, as you have put off the old man with his deeds,"
+          },
+          "text": "lie not one to another, as you have put off the old man with his deeds,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "and have put on the new, that is renewed for knowledge according to the image of him that created him,"
+          },
+          "text": "and have put on the new, that is renewed for knowledge according to the image of him that created him,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "where there is not Greek and Jew, circumcision and uncircumcision, barbarian, Scythian, bondman, freeman, but Christ is all and in all."
+          },
+          "text": "where there is not Greek and Jew, circumcision and uncircumcision, barbarian, Scythian, bondman, freeman, but Christ is all and in all.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "Put on therefore, as the elect of God, holy and beloved, bowels of mercy, kindness, lowliness of mind, meekness, longsuffering,"
+          },
+          "text": "Put on therefore, as the elect of God, holy and beloved, bowels of mercy, kindness, lowliness of mind, meekness, longsuffering,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "bearing with one another and forgiving one another, if any one have a quarrel with any, as Christ also forgave you, so also do you;"
+          },
+          "text": "bearing with one another and forgiving one another, if any one have a quarrel with any, as Christ also forgave you, so also do you;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "but over all these put on love, which is the bond of perfectness."
+          },
+          "text": "but over all these put on love, which is the bond of perfectness.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {
+            "text": "And let the peace of Christ reign in your hearts, to which you were also called in one body, and become thankful."
+          },
+          "text": "And let the peace of Christ reign in your hearts, to which you were also called in one body, and become thankful.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {
+            "text": "Let the word of Christ dwell in you richly, in all wisdom teaching and admonishing each other, in psalms, hymns, spiritual songs, in gratitude singing in your heart to God;"
+          },
+          "text": "Let the word of Christ dwell in you richly, in all wisdom teaching and admonishing each other, in psalms, hymns, spiritual songs, in gratitude singing in your heart to God;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {
+            "text": "and everything whatever you do in word or in deed, do all in the name of the Lord Jesus, giving thanks to God the Father through him."
+          },
+          "text": "and everything whatever you do in word or in deed, do all in the name of the Lord Jesus, giving thanks to God the Father through him.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {
+            "text": "Wives, be subject to your husbands, as it is fit in the Lord."
+          },
+          "text": "Wives, be subject to your husbands, as it is fit in the Lord.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 19,
+          "sinaiticus": {
+            "text": "Husbands, love your wives, and be not bitter against them."
+          },
+          "text": "Husbands, love your wives, and be not bitter against them.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {
+            "text": "Children, obey your parents in all things; for this is well-pleasing in the Lord."
+          },
+          "text": "Children, obey your parents in all things; for this is well-pleasing in the Lord.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 21,
+          "sinaiticus": {
+            "text": "Fathers, provoke not your children to anger, lest they be discouraged."
+          },
+          "text": "Fathers, provoke not your children to anger, lest they be discouraged.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 22,
+          "sinaiticus": {
+            "text": "Servants, obey in all things your masters according to the flesh, not in eye-service, as pleasing men, but in simplicity of heart, fearing the Lord."
+          },
+          "text": "Servants, obey in all things your masters according to the flesh, not in eye-service, as pleasing men, but in simplicity of heart, fearing the Lord.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 23,
+          "sinaiticus": {
+            "text": "Whatever you do, work from the soul as to the Lord, and not to men,"
+          },
+          "text": "Whatever you do, work from the soul as to the Lord, and not to men,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 24,
+          "sinaiticus": {
+            "text": "knowing that from the Lord you shall receive the reward of the inheritance. Serve the Lord Christ;"
+          },
+          "text": "knowing that from the Lord you shall receive the reward of the inheritance. Serve the Lord Christ;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 25,
+          "sinaiticus": {
+            "text": "for he that does wrong shall receive for the wrong that he has done, and there is no respect of persons.360"
+          },
+          "text": "for he that does wrong shall receive for the wrong that he has done, and there is no respect of persons.360",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "Masters, give to your servants that which is just and equal, knowing that you also have a Master in heaven,"
+          },
+          "text": "Masters, give to your servants that which is just and equal, knowing that you also have a Master in heaven,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "Persevere in prayer, watching in it in thanksgiving,"
+          },
+          "text": "Persevere in prayer, watching in it in thanksgiving,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "praying at the same time also for us, that God would open for us a door of the word to speak the mystery of Christ, for which I also have been bound,"
+          },
+          "text": "praying at the same time also for us, that God would open for us a door of the word to speak the mystery of Christ, for which I also have been bound,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "that I may make it manifest as I ought to speak."
+          },
+          "text": "that I may make it manifest as I ought to speak.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "Walk in wisdom toward those who are without, redeeming the time."
+          },
+          "text": "Walk in wisdom toward those who are without, redeeming the time.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "Let your speech be always in grace, seasoned with salt, that you may know of how you ought to answer every one."
+          },
+          "text": "Let your speech be always in grace, seasoned with salt, that you may know of how you ought to answer every one.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "All things that concern me will Tychicus, the beloved brother and to faithful minister and fellow-servant in the Lord, make known to you,"
+          },
+          "text": "All things that concern me will Tychicus, the beloved brother and to faithful minister and fellow-servant in the Lord, make known to you,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "whom I sent to you for this very purpose, that he may know your state, and comfort your hearts,"
+          },
+          "text": "whom I sent to you for this very purpose, that he may know your state, and comfort your hearts,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "and Onesimus, the faithful and beloved brother, who is of you; they will make known all things here."
+          },
+          "text": "and Onesimus, the faithful and beloved brother, who is of you; they will make known all things here.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "Aristarchus, my fellow-prisoner, salutes you, and so does Mark, the nephew of Barnabas, concerning whom you received commandments, —if he come to you, receive him,—"
+          },
+          "text": "Aristarchus, my fellow-prisoner, salutes you, and so does Mark, the nephew of Barnabas, concerning whom you received commandments, —if he come to you, receive him,—",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "and Jesus who is called Justus, who are of the circumcision: these only are my fellow-workers for the kingdom of God, who have been a comfort to me."
+          },
+          "text": "and Jesus who is called Justus, who are of the circumcision: these only are my fellow-workers for the kingdom of God, who have been a comfort to me.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "Epaphras, who is of you, salutes you, a servant of Christ Jesus, always striving for you in prayers, that you may stand perfect and complete in all the will of God."
+          },
+          "text": "Epaphras, who is of you, salutes you, a servant of Christ Jesus, always striving for you in prayers, that you may stand perfect and complete in all the will of God.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "For I testify for him that he has great travail for you and for those in Laodicea and those in Hierapolis."
+          },
+          "text": "For I testify for him that he has great travail for you and for those in Laodicea and those in Hierapolis.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "Luke, the beloved physician, salutes you, and Demas."
+          },
+          "text": "Luke, the beloved physician, salutes you, and Demas.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {
+            "text": "Salute the brethren in Laodicea, and Nymphas, and the church that is in his house."
+          },
+          "text": "Salute the brethren in Laodicea, and Nymphas, and the church that is in his house.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {
+            "text": "And when the epistle has been read among you, cause that it be read also in the church of the Laodiceans, and see that you also read that from Laodicea."
+          },
+          "text": "And when the epistle has been read among you, cause that it be read also in the church of the Laodiceans, and see that you also read that from Laodicea.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {
+            "text": "And say to Archippus: Take heed to the ministry which thou hast received in the Lord, that thou fulfil it."
+          },
+          "text": "And say to Archippus: Take heed to the ministry which thou hast received in the Lord, that thou fulfil it.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {
+            "text": "The salutation of Paul with my own hand. Remember my bonds."
+          },
+          "text": "The salutation of Paul with my own hand. Remember my bonds.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    }
+  ]
+}
