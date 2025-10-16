@@ -1,0 +1,484 @@
+{
+  "id": "tit",
+  "name": "Paul to Titus",
+  "order": 18,
+  "section": "New Testament",
+  "folios": [],
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "Paul, a servant of God, but an apostle of Christ Jesus, according to the faith of God’s elect, and the acknowledgment of truth that is according to godliness,"
+          },
+          "text": "Paul, a servant of God, but an apostle of Christ Jesus, according to the faith of God’s elect, and the acknowledgment of truth that is according to godliness,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "in hope of eternal life, which God who lies not promised before the times of the ages,"
+          },
+          "text": "in hope of eternal life, which God who lies not promised before the times of the ages,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "but in his own times manifested his word in what is preached, with which I was intrusted according to the appointment of our Saviour God,"
+          },
+          "text": "but in his own times manifested his word in what is preached, with which I was intrusted according to the appointment of our Saviour God,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "to Titus, my true son according to the common faith. Grace and peace from God the Father, and Christ Jesus our Saviour."
+          },
+          "text": "to Titus, my true son according to the common faith. Grace and peace from God the Father, and Christ Jesus our Saviour.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "For this cause left I thee in Crete, that thou mightest further set in order the things that are wanting, and ordain elders in every city, as I had appointed thee:"
+          },
+          "text": "For this cause left I thee in Crete, that thou mightest further set in order the things that are wanting, and ordain elders in every city, as I had appointed thee:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "if any one is blameless, the husband of one wife, having faithful children that are not accused of riotous living, nor unruly."
+          },
+          "text": "if any one is blameless, the husband of one wife, having faithful children that are not accused of riotous living, nor unruly.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "For the bishop must be blameless as the steward of God, not self- willed, not soon angry, not fond of wine, no striker, not eager after base gain,"
+          },
+          "text": "For the bishop must be blameless as the steward of God, not self- willed, not soon angry, not fond of wine, no striker, not eager after base gain,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "but a lover of hospitality, a lover of the good, sober-minded, just, holy, having self-control,"
+          },
+          "text": "but a lover of hospitality, a lover of the good, sober-minded, just, holy, having self-control,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "holding fast the faithful word according to the teaching, that he may be able, in the teaching that gives health, both to exhort and convince the gainsayers."
+          },
+          "text": "holding fast the faithful word according to the teaching, that he may be able, in the teaching that gives health, both to exhort and convince the gainsayers.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "For there are many and unruly vain talkers and deceivers, especially they of the circumcision,"
+          },
+          "text": "For there are many and unruly vain talkers and deceivers, especially they of the circumcision,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "whose mouths must be stopped: who subvert whole houses, teaching things that they ought not, for the sake of base gain."
+          },
+          "text": "whose mouths must be stopped: who subvert whole houses, teaching things that they ought not, for the sake of base gain.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "Some one of them, a prophet of their own, has said: The Cretans are always liars, evil wild beasts, lazy bellies."
+          },
+          "text": "Some one of them, a prophet of their own, has said: The Cretans are always liars, evil wild beasts, lazy bellies.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "This testimony is true. For which cause reprove them with severity, that they may be healthy in the faith,"
+          },
+          "text": "This testimony is true. For which cause reprove them with severity, that they may be healthy in the faith,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "not giving heed to Jewish fables, and commandments of men that turn away from the truth."
+          },
+          "text": "not giving heed to Jewish fables, and commandments of men that turn away from the truth.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {
+            "text": "To the pure all things are pure; but to the defiled and unbelieving nothing is pure, but both their mind and conscience are defiled."
+          },
+          "text": "To the pure all things are pure; but to the defiled and unbelieving nothing is pure, but both their mind and conscience are defiled.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {
+            "text": "God they profess to know, but in their works they deny him, being abominable and disobedient and, with regard to every good work, disapproved."
+          },
+          "text": "God they profess to know, but in their works they deny him, being abominable and disobedient and, with regard to every good work, disapproved.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "But speak thou the things that become the teaching that gives health."
+          },
+          "text": "But speak thou the things that become the teaching that gives health.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "That aged men be watchful, grave, sober-minded, healthy in faith, in love, in patience:"
+          },
+          "text": "That aged men be watchful, grave, sober-minded, healthy in faith, in love, in patience:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "that aged women in like manner be, in behavior, reverent, not false accusers, not addicted to much wine, teachers of what is good,"
+          },
+          "text": "that aged women in like manner be, in behavior, reverent, not false accusers, not addicted to much wine, teachers of what is good,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "that they teach the young women to love their husbands, to love their children,"
+          },
+          "text": "that they teach the young women to love their husbands, to love their children,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "to be sober-minded, chaste, workers at home, good, obedient to their own husbands, that the word of God be not blasphemed."
+          },
+          "text": "to be sober-minded, chaste, workers at home, good, obedient to their own husbands, that the word of God be not blasphemed.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "The younger men in like manner exhort to be sober-minded,"
+          },
+          "text": "The younger men in like manner exhort to be sober-minded,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "in all things showing thyself an example of good works, in teaching showing uncorruptness, gravity."
+          },
+          "text": "in all things showing thyself an example of good works, in teaching showing uncorruptness, gravity.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "healthful speech that can not be condemned, that the opponent may be ashamed, having nothing evil to say of us."
+          },
+          "text": "healthful speech that can not be condemned, that the opponent may be ashamed, having nothing evil to say of us.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "Servants exhort to be subject to their own masters, to be acceptable to them in all things, not contradicting,"
+          },
+          "text": "Servants exhort to be subject to their own masters, to be acceptable to them in all things, not contradicting,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "not taking a part for themselves, but showing all good faithfulness. that they may adorn the teaching of our Saviour God in all things."
+          },
+          "text": "not taking a part for themselves, but showing all good faithfulness. that they may adorn the teaching of our Saviour God in all things.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "For the grace of God that brings salvation to all men has appeared,"
+          },
+          "text": "For the grace of God that brings salvation to all men has appeared,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "instructing us, that, denying ungodliness and worldly desires, we should live soberly and righteously and godly in the present age,"
+          },
+          "text": "instructing us, that, denying ungodliness and worldly desires, we should live soberly and righteously and godly in the present age,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "waiting for the blessed hope, and the appearing of the glory of our great God and Saviour Jesus Christ,"
+          },
+          "text": "waiting for the blessed hope, and the appearing of the glory of our great God and Saviour Jesus Christ,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "who gave himself for us that he might redeem us from all iniquity, and purify for himself a peculiar people, zealous for good works."
+          },
+          "text": "who gave himself for us that he might redeem us from all iniquity, and purify for himself a peculiar people, zealous for good works.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {
+            "text": "These things speak and exhort and reprove with all authority: let no one despise thee."
+          },
+          "text": "These things speak and exhort and reprove with all authority: let no one despise thee.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "Put them in mind to be subject to rulers, to authorities, to obey, to be ready for every good work,"
+          },
+          "text": "Put them in mind to be subject to rulers, to authorities, to obey, to be ready for every good work,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "to revile no one, to be without contention, gentle, showing all meekness to all men."
+          },
+          "text": "to revile no one, to be without contention, gentle, showing all meekness to all men.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "For we also were once foolish, disobedient, deceived, serving various desires and pleasures, living in malice and envy, hateful and hating one another;"
+          },
+          "text": "For we also were once foolish, disobedient, deceived, serving various desires and pleasures, living in malice and envy, hateful and hating one another;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "but when the kindness and philanthropy of our Saviour God appeared,"
+          },
+          "text": "but when the kindness and philanthropy of our Saviour God appeared,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "not by works of righteousness which we had done, but according to his mercy, he saved us through the bath of regeneration and renewing of the Holy Spirit,386"
+          },
+          "text": "not by works of righteousness which we had done, but according to his mercy, he saved us through the bath of regeneration and renewing of the Holy Spirit,386",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "which he poured out upon us richly through Jesus Christ our Saviour,"
+          },
+          "text": "which he poured out upon us richly through Jesus Christ our Saviour,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "that having been justified by his grace, we might become heirs according to the hope of life eternal."
+          },
+          "text": "that having been justified by his grace, we might become heirs according to the hope of life eternal.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "Faithful is the saying, and concerning these things I will that thou affirm strongly, in order that those that believe in God may be careful to practice good works. These things are honorable and profitable for men;"
+          },
+          "text": "Faithful is the saying, and concerning these things I will that thou affirm strongly, in order that those that believe in God may be careful to practice good works. These things are honorable and profitable for men;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "but foolish questions, and genealogies, and strifes, and contentions about law, reject; for they are unprofitable and fruitless."
+          },
+          "text": "but foolish questions, and genealogies, and strifes, and contentions about law, reject; for they are unprofitable and fruitless.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "An heretical man, after the first and second admonition, reject,"
+          },
+          "text": "An heretical man, after the first and second admonition, reject,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "knowing that such a man is perverted, and sins, being self- condemned."
+          },
+          "text": "knowing that such a man is perverted, and sins, being self- condemned.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "When I shall send Artemas to thee, or Tychicus, be diligent to come to me to Nicopolis: for there have I determined to winter."
+          },
+          "text": "When I shall send Artemas to thee, or Tychicus, be diligent to come to me to Nicopolis: for there have I determined to winter.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "Zenas, the lawyer, and Apollos send forward diligently, that nothing be wanting to them."
+          },
+          "text": "Zenas, the lawyer, and Apollos send forward diligently, that nothing be wanting to them.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "But let ours also learn to practice honorable works for necessary uses, that they be not unfruitful."
+          },
+          "text": "But let ours also learn to practice honorable works for necessary uses, that they be not unfruitful.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {
+            "text": "All that are with me salute thee. Salute those that love us in the faith."
+          },
+          "text": "All that are with me salute thee. Salute those that love us in the faith.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    }
+  ]
+}

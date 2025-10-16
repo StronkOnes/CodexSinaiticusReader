@@ -1,0 +1,154 @@
+{
+  "id": "3jo",
+  "name": "Epistle of John 3",
+  "order": 26,
+  "section": "New Testament",
+  "folios": [],
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "The elder to the beloved Gaius, whom I love in truth."
+          },
+          "text": "The elder to the beloved Gaius, whom I love in truth.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "Beloved, concerning all things I pray that thou mayest prosper and be in health, as thy soul prospers."
+          },
+          "text": "Beloved, concerning all things I pray that thou mayest prosper and be in health, as thy soul prospers.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "For I rejoiced greatly when the brethren came and testified to thy truth, as thou walkest in the truth."
+          },
+          "text": "For I rejoiced greatly when the brethren came and testified to thy truth, as thou walkest in the truth.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "I have no joy greater than this, that I hear of my children walking in the truth."
+          },
+          "text": "I have no joy greater than this, that I hear of my children walking in the truth.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "Beloved, thou doest faithfully whatever thou workest for the brethren, and for strangers,"
+          },
+          "text": "Beloved, thou doest faithfully whatever thou workest for the brethren, and for strangers,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "who have testified to thy love before the church, whom thou wilt do well in conducting forward in a manner worthy of God."
+          },
+          "text": "who have testified to thy love before the church, whom thou wilt do well in conducting forward in a manner worthy of God.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "For in behalf of the name they went forth, taking nothing from the heathen."
+          },
+          "text": "For in behalf of the name they went forth, taking nothing from the heathen.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "We then, ought to receive such, that we may become fellow- workmen for the truth."
+          },
+          "text": "We then, ought to receive such, that we may become fellow- workmen for the truth.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "I wrote somewhat to the church; but Diotrephes, who loves the pre- eminence over them, receives us not."
+          },
+          "text": "I wrote somewhat to the church; but Diotrephes, who loves the pre- eminence over them, receives us not.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "Wherefore, if I come, I will bring to remembrance the works that he does, prating against us with evil words; and not content with this, he neither himself receives the brethren, and those that would he hinders and casts out of the church."
+          },
+          "text": "Wherefore, if I come, I will bring to remembrance the works that he does, prating against us with evil words; and not content with this, he neither himself receives the brethren, and those that would he hinders and casts out of the church.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "Beloved, imitate not that which is evil, but that which is good. He that does good is of God: he that does evil has not seen God."
+          },
+          "text": "Beloved, imitate not that which is evil, but that which is good. He that does good is of God: he that does evil has not seen God.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "To Demetrius good testimony is given by all and by the truth itself; and we also testify, and you know that our testimony is true."
+          },
+          "text": "To Demetrius good testimony is given by all and by the truth itself; and we also testify, and you know that our testimony is true.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "I had many things to write to thee, but I will not write to thee by means of ink and pen:"
+          },
+          "text": "I had many things to write to thee, but I will not write to thee by means of ink and pen:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "I hope, however, to see thee soon, and we will speak mouth to mouth."
+          },
+          "text": "I hope, however, to see thee soon, and we will speak mouth to mouth.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    }
+  ]
+}

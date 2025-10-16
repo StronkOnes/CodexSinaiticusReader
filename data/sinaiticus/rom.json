@@ -1,0 +1,4399 @@
+{
+  "id": "rom",
+  "name": "Paul to the Romans",
+  "order": 7,
+  "section": "New Testament",
+  "folios": [],
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "Paul, a servant of Jesus Christ, a called apostle, set apart to the gospel of God,"
+          },
+          "text": "Paul, a servant of Jesus Christ, a called apostle, set apart to the gospel of God,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "which he announced beforehand through his prophets in the holy Scriptures,"
+          },
+          "text": "which he announced beforehand through his prophets in the holy Scriptures,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "concerning his Son, who was born of the posterity of David according to the flesh,"
+          },
+          "text": "concerning his Son, who was born of the posterity of David according to the flesh,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "who was constituted Son of God in power, according to the spirit of holiness, from the resurrection of the dead, Jesus Christ our Lord,"
+          },
+          "text": "who was constituted Son of God in power, according to the spirit of holiness, from the resurrection of the dead, Jesus Christ our Lord,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "through whom we received grace and apostleship in order to the obedience of faith among all the nations for his name’s sake,"
+          },
+          "text": "through whom we received grace and apostleship in order to the obedience of faith among all the nations for his name’s sake,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "among whom are you also the called, of Jesus Christ:"
+          },
+          "text": "among whom are you also the called, of Jesus Christ:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "to all that are in Rome, beloved of God, called saints. Grace to you and peace from God our Father and the Lord Jesus Christ."
+          },
+          "text": "to all that are in Rome, beloved of God, called saints. Grace to you and peace from God our Father and the Lord Jesus Christ.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "First, I thank my God through Jesus Christ concerning you all, that your faith is spoken of in all the world."
+          },
+          "text": "First, I thank my God through Jesus Christ concerning you all, that your faith is spoken of in all the world.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "For God is my witness, whom I serve in my spirit in the gospel of his Son, how unceasingly I make mention of you,"
+          },
+          "text": "For God is my witness, whom I serve in my spirit in the gospel of his Son, how unceasingly I make mention of you,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "always in my prayers making request if by any means now at last I may be prospered in the will of God to come to you."
+          },
+          "text": "always in my prayers making request if by any means now at last I may be prospered in the will of God to come to you.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "For I greatly desire to see you, that I may share with you some spiritual gift, in order that you may be strengthened;"
+          },
+          "text": "For I greatly desire to see you, that I may share with you some spiritual gift, in order that you may be strengthened;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "that is, that I may be comforted together among you through the faith that is in each other, both yours and mine."
+          },
+          "text": "that is, that I may be comforted together among you through the faith that is in each other, both yours and mine.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "But I desire that you be not ignorant, brethren, that I often purposed to come to you, and have been hindered to the present time, that I might have some fruit also among you, even as among the rest of the Gentiles."
+          },
+          "text": "But I desire that you be not ignorant, brethren, that I often purposed to come to you, and have been hindered to the present time, that I might have some fruit also among you, even as among the rest of the Gentiles.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "Both to Greeks and to Barbarians, both to wise and to unwise, am I debtor:"
+          },
+          "text": "Both to Greeks and to Barbarians, both to wise and to unwise, am I debtor:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {
+            "text": "so as far as I am able, I am ready to preach the gospel to you also that are in Rome."
+          },
+          "text": "so as far as I am able, I am ready to preach the gospel to you also that are in Rome.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {
+            "text": "For I am not ashamed of the gospel; for it is the power of God in order to salvation to every one that believes, to the Jew first, and also to the Greek."
+          },
+          "text": "For I am not ashamed of the gospel; for it is the power of God in order to salvation to every one that believes, to the Jew first, and also to the Greek.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {
+            "text": "For in it is revealed God’s righteousness by faith for faith; as it is written: He that is righteous by faith shall live."
+          },
+          "text": "For in it is revealed God’s righteousness by faith for faith; as it is written: He that is righteous by faith shall live.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {
+            "text": "For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men that repress the truth in"
+          },
+          "text": "For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men that repress the truth in",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 19,
+          "sinaiticus": {
+            "text": "because that which is known of God is manifest in them, for God has manifested it to them."
+          },
+          "text": "because that which is known of God is manifest in them, for God has manifested it to them.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {
+            "text": "For his attributes which are invisible, since the creation of the world, are clearly seen, being perceived by the things that are made, both his eternal power and divinity, so that they are without excuse;"
+          },
+          "text": "For his attributes which are invisible, since the creation of the world, are clearly seen, being perceived by the things that are made, both his eternal power and divinity, so that they are without excuse;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 21,
+          "sinaiticus": {
+            "text": "because, though they knew God, they did not glorify him as God, or give him thanks, but became vain in their reasonings, and their heart, void of understanding, was darkened."
+          },
+          "text": "because, though they knew God, they did not glorify him as God, or give him thanks, but became vain in their reasonings, and their heart, void of understanding, was darkened.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 22,
+          "sinaiticus": {
+            "text": "Professing to be wise, they became fools,"
+          },
+          "text": "Professing to be wise, they became fools,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 23,
+          "sinaiticus": {
+            "text": "and exchanged the glory of the incorruptible God for the likeness of an image of corruptible man, and of birds, and fourfooted beasts, and creeping things."
+          },
+          "text": "and exchanged the glory of the incorruptible God for the likeness of an image of corruptible man, and of birds, and fourfooted beasts, and creeping things.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 24,
+          "sinaiticus": {
+            "text": "Wherefore God delivered them up in the desires of their hearts to uncleanness, so that their bodies were dishonored among no them;"
+          },
+          "text": "Wherefore God delivered them up in the desires of their hearts to uncleanness, so that their bodies were dishonored among no them;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 25,
+          "sinaiticus": {
+            "text": "and these exchanged the truth of God for a lie, and worshipped and served the creature more than the Creator, who is blessed for ever: Amen."
+          },
+          "text": "and these exchanged the truth of God for a lie, and worshipped and served the creature more than the Creator, who is blessed for ever: Amen.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 26,
+          "sinaiticus": {
+            "text": "For this reason God delivered them up to dishonorable passions; for their females exchanged the natural use for that against nature,"
+          },
+          "text": "For this reason God delivered them up to dishonorable passions; for their females exchanged the natural use for that against nature,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 27,
+          "sinaiticus": {
+            "text": "and in like manner also the males, leaving the natural use of the female, were inflamed in their lust one for another, males with males working the indecency, and receiving in themselves the due reward of their error."
+          },
+          "text": "and in like manner also the males, leaving the natural use of the female, were inflamed in their lust one for another, males with males working the indecency, and receiving in themselves the due reward of their error.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 28,
+          "sinaiticus": {
+            "text": "And as they did not approve of holding God in their knowledge, God delivered them up to a mind incapable of approving, that they might do things unbecoming,"
+          },
+          "text": "And as they did not approve of holding God in their knowledge, God delivered them up to a mind incapable of approving, that they might do things unbecoming,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 29,
+          "sinaiticus": {
+            "text": "having been filled with all unrighteousness, wickedness malice, covetousness; full of envy murder, strife, deceit, malignity"
+          },
+          "text": "having been filled with all unrighteousness, wickedness malice, covetousness; full of envy murder, strife, deceit, malignity",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 30,
+          "sinaiticus": {
+            "text": "whisperers, backbiters, haters of God, insolent, haughty, boasters: inventors of evil things, disobedient to parents,"
+          },
+          "text": "whisperers, backbiters, haters of God, insolent, haughty, boasters: inventors of evil things, disobedient to parents,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 31,
+          "sinaiticus": {
+            "text": "without understanding, covenant-breakers, without natural affection, unmerciful:"
+          },
+          "text": "without understanding, covenant-breakers, without natural affection, unmerciful:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 32,
+          "sinaiticus": {
+            "text": "who, acknowledging the just decree of God, that those who practice such things are worthy of death, not only do them, but approve those that practice them."
+          },
+          "text": "who, acknowledging the just decree of God, that those who practice such things are worthy of death, not only do them, but approve those that practice them.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "Wherefore thou art inexcusable, O man, whoever thou art that judges! For in what thou judgest the other, thou condemnest thyself; for thou that judgest doest the same things."
+          },
+          "text": "Wherefore thou art inexcusable, O man, whoever thou art that judges! For in what thou judgest the other, thou condemnest thyself; for thou that judgest doest the same things.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "For we know that the judgment of God is according to truth, against those that practice such things.272"
+          },
+          "text": "For we know that the judgment of God is according to truth, against those that practice such things.272",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "But thinkest thou this, O man that judgest those who practice such things, and doest the same, that thou shalt escape the judgment of God?"
+          },
+          "text": "But thinkest thou this, O man that judgest those who practice such things, and doest the same, that thou shalt escape the judgment of God?",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "Or dost thou despise the riches of his goodness and forbearance and longsuffering, not understanding that the goodness of God leads thee to repentance?"
+          },
+          "text": "Or dost thou despise the riches of his goodness and forbearance and longsuffering, not understanding that the goodness of God leads thee to repentance?",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "But, according to thy hardness and impenitent heart, thou dost treasure up for thyself wrath in a day of wrath and revelation of the righteous judgment of God,"
+          },
+          "text": "But, according to thy hardness and impenitent heart, thou dost treasure up for thyself wrath in a day of wrath and revelation of the righteous judgment of God,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "who will render to each one according to his works;"
+          },
+          "text": "who will render to each one according to his works;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "to those that, by perseverance in good work, seek for glory and honor and incorruptibility, eternal life;"
+          },
+          "text": "to those that, by perseverance in good work, seek for glory and honor and incorruptibility, eternal life;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "but to those that are of party-spirit, and obey not the truth, but obey unrighteousness, wrath and indignation shall be rendered."
+          },
+          "text": "but to those that are of party-spirit, and obey not the truth, but obey unrighteousness, wrath and indignation shall be rendered.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "Affliction and anguish shall be on every soul of man that works out that which is evil, of the Jew first, and also of the Greek;"
+          },
+          "text": "Affliction and anguish shall be on every soul of man that works out that which is evil, of the Jew first, and also of the Greek;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "but glory and honor and peace to every one that works that which is good, to the Jew first, and also to the Greek."
+          },
+          "text": "but glory and honor and peace to every one that works that which is good, to the Jew first, and also to the Greek.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "For there is no acceptance of persons with God."
+          },
+          "text": "For there is no acceptance of persons with God.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "For as many as sinned without law shall also perish without law; and as many as sinned under the law shall be judged by the law;"
+          },
+          "text": "For as many as sinned without law shall also perish without law; and as many as sinned under the law shall be judged by the law;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "for not the hearers of law are righteous before God, but the doers of law shall be declared righteous."
+          },
+          "text": "for not the hearers of law are righteous before God, but the doers of law shall be declared righteous.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "For whenever Gentiles, that have no law, do by nature the things of the law, these, not having law, are a law to themselves:"
+          },
+          "text": "For whenever Gentiles, that have no law, do by nature the things of the law, these, not having law, are a law to themselves:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {
+            "text": "who show the work of the law written in their hearts, their conscience also bearing testimony, and their reasonings between one another bringing accusation, or also making excuse"
+          },
+          "text": "who show the work of the law written in their hearts, their conscience also bearing testimony, and their reasonings between one another bringing accusation, or also making excuse",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {
+            "text": "in the day when God shall judge the secrets of men through Jesus Christ according to my gospel."
+          },
+          "text": "in the day when God shall judge the secrets of men through Jesus Christ according to my gospel.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {
+            "text": "But if thou art named Jew, and restest on the law, and makest thy boast in God,"
+          },
+          "text": "But if thou art named Jew, and restest on the law, and makest thy boast in God,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {
+            "text": "and knowest his will, and provest things that differ, being instructed out of the law;"
+          },
+          "text": "and knowest his will, and provest things that differ, being instructed out of the law;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 19,
+          "sinaiticus": {
+            "text": "and art confident that thou thyself art a guide of the blind, a light to those that are in darkness,"
+          },
+          "text": "and art confident that thou thyself art a guide of the blind, a light to those that are in darkness,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {
+            "text": "an instructor of the foolish, a teacher of babes, having the form of knowledge and of truth in the law:"
+          },
+          "text": "an instructor of the foolish, a teacher of babes, having the form of knowledge and of truth in the law:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 21,
+          "sinaiticus": {
+            "text": "thou, then, that teachest another, teachest not thou thyself? Thou that preachest that men should not steal, dost thou steal?"
+          },
+          "text": "thou, then, that teachest another, teachest not thou thyself? Thou that preachest that men should not steal, dost thou steal?",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 22,
+          "sinaiticus": {
+            "text": "Thou that sayest that men should not commit adultery, dost thou commit adultery? Thou that abhorrest idols, dost thou rob temples?"
+          },
+          "text": "Thou that sayest that men should not commit adultery, dost thou commit adultery? Thou that abhorrest idols, dost thou rob temples?",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 23,
+          "sinaiticus": {
+            "text": "Thou that makest thy boast in the law, through transgression of"
+          },
+          "text": "Thou that makest thy boast in the law, through transgression of",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 24,
+          "sinaiticus": {
+            "text": "For the name of God is blasphemed among the Gentiles because of you, as it is written."
+          },
+          "text": "For the name of God is blasphemed among the Gentiles because of you, as it is written.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 25,
+          "sinaiticus": {
+            "text": "For circumcision indeed profits if thou keep the law; but if thou be a transgressor of law, thy circumcision has become uncircumcision."
+          },
+          "text": "For circumcision indeed profits if thou keep the law; but if thou be a transgressor of law, thy circumcision has become uncircumcision.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 26,
+          "sinaiticus": {
+            "text": "If, then, the uncircumcision keep the judgments of the law, shall not his uncircumcision be counted for circumcision?"
+          },
+          "text": "If, then, the uncircumcision keep the judgments of the law, shall not his uncircumcision be counted for circumcision?",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 27,
+          "sinaiticus": {
+            "text": "And that which is by birth uncircumcision, if it keep the law, will judge thee, who with letter and circumcision art a transgressor of law."
+          },
+          "text": "And that which is by birth uncircumcision, if it keep the law, will judge thee, who with letter and circumcision art a transgressor of law.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 28,
+          "sinaiticus": {
+            "text": "For he is not a Jew that is one outwardly, neither is that circumcision which is outward in the flesh;"
+          },
+          "text": "For he is not a Jew that is one outwardly, neither is that circumcision which is outward in the flesh;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 29,
+          "sinaiticus": {
+            "text": "but he is a Jew who is one inwardly, and circumcision is that of the heart, in spirit, not in letter, whose praise is not of men, but of God."
+          },
+          "text": "but he is a Jew who is one inwardly, and circumcision is that of the heart, in spirit, not in letter, whose praise is not of men, but of God.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "What, then, the pre-eminence of the Jew, or what the profit of circumcision?"
+          },
+          "text": "What, then, the pre-eminence of the Jew, or what the profit of circumcision?",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "Much in every way. First, indeed, that they were intrusted with the oracles of God."
+          },
+          "text": "Much in every way. First, indeed, that they were intrusted with the oracles of God.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "What then? if some were unfaithful, will their unfaithfulness make null the faithfulness of God?"
+          },
+          "text": "What then? if some were unfaithful, will their unfaithfulness make null the faithfulness of God?",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "Let it not be; but let God become true, but every man a liar, as it is written: That thou mayest be declared just in thy words and mayest overcome when thou art judged."
+          },
+          "text": "Let it not be; but let God become true, but every man a liar, as it is written: That thou mayest be declared just in thy words and mayest overcome when thou art judged.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "But if our unrighteousness renders God’s righteousness conspicuous, what shall we say? Is God unrighteous who brings on us the punishment? I speak as a man."
+          },
+          "text": "But if our unrighteousness renders God’s righteousness conspicuous, what shall we say? Is God unrighteous who brings on us the punishment? I speak as a man.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "Let it not be; since how shall God judge the world?"
+          },
+          "text": "Let it not be; since how shall God judge the world?",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "For if the truth of God has, through my lie, become more abundant for his glory, why am I also still judged as a sinner?"
+          },
+          "text": "For if the truth of God has, through my lie, become more abundant for his glory, why am I also still judged as a sinner?",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "And why not say (as we are blasphemously reported, and as some affirm that we do say): Let us do the evil, that the good may come? whose condemnation is just."
+          },
+          "text": "And why not say (as we are blasphemously reported, and as some affirm that we do say): Let us do the evil, that the good may come? whose condemnation is just.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "What then? Do we excel? Not at all; for we have before accused both Jews and Greeks all of being under sin,"
+          },
+          "text": "What then? Do we excel? Not at all; for we have before accused both Jews and Greeks all of being under sin,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "as it is written: There is none righteous, no, not one;"
+          },
+          "text": "as it is written: There is none righteous, no, not one;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "there is none that understands, there is none that seeks after God:"
+          },
+          "text": "there is none that understands, there is none that seeks after God:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "they have all gone out of the way, they have together become unprofitable: there is none that does good, there is not even one."
+          },
+          "text": "they have all gone out of the way, they have together become unprofitable: there is none that does good, there is not even one.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "Their throat is an open sepulcher; with their tongues they have used deceit, the poison of asps is under their lips."
+          },
+          "text": "Their throat is an open sepulcher; with their tongues they have used deceit, the poison of asps is under their lips.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "Whose mouth is full of cursing and bitterness.274"
+          },
+          "text": "Whose mouth is full of cursing and bitterness.274",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {
+            "text": "Swift are their feet to shed blood,"
+          },
+          "text": "Swift are their feet to shed blood,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {
+            "text": "destruction and misery are in their ways,"
+          },
+          "text": "destruction and misery are in their ways,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {
+            "text": "and the way of peace have they not known."
+          },
+          "text": "and the way of peace have they not known.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {
+            "text": "There is no fear of God before their eyes."
+          },
+          "text": "There is no fear of God before their eyes.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 19,
+          "sinaiticus": {
+            "text": "But we know that whatever things the law says, it speaks to those under the law, that every mouth may be stopped, and all the world become guilty before God."
+          },
+          "text": "But we know that whatever things the law says, it speaks to those under the law, that every mouth may be stopped, and all the world become guilty before God.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {
+            "text": "Because by works of law shall no flesh be declared righteous in his sight; for through law is the knowledge of sin."
+          },
+          "text": "Because by works of law shall no flesh be declared righteous in his sight; for through law is the knowledge of sin.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 21,
+          "sinaiticus": {
+            "text": "But now without law the righteousness of God has been made manifest, being witnessed by the law and the prophets:"
+          },
+          "text": "But now without law the righteousness of God has been made manifest, being witnessed by the law and the prophets:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 22,
+          "sinaiticus": {
+            "text": "I say, the righteousness of God, through faith in Jesus Christ, to all that believe. For there is no difference;"
+          },
+          "text": "I say, the righteousness of God, through faith in Jesus Christ, to all that believe. For there is no difference;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 23,
+          "sinaiticus": {
+            "text": "for all sinned and do come short of the glory of God,"
+          },
+          "text": "for all sinned and do come short of the glory of God,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 24,
+          "sinaiticus": {
+            "text": "being justified freely by his grace, through the redemption that is in Christ Jesus,"
+          },
+          "text": "being justified freely by his grace, through the redemption that is in Christ Jesus,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 25,
+          "sinaiticus": {
+            "text": "whom God set forth as a propitiatory sacrifice through faith in his blood, for a manifestation of his righteousness, because of the passing by of past sins"
+          },
+          "text": "whom God set forth as a propitiatory sacrifice through faith in his blood, for a manifestation of his righteousness, because of the passing by of past sins",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 26,
+          "sinaiticus": {
+            "text": "in the forbearance of God, with a view to the manifestation of his righteousness in the present time, in order that he might be righteous, and declare righteous him that is of the faith of Jesus."
+          },
+          "text": "in the forbearance of God, with a view to the manifestation of his righteousness in the present time, in order that he might be righteous, and declare righteous him that is of the faith of Jesus.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 27,
+          "sinaiticus": {
+            "text": "Where, then, is the boasting? It is excluded. Through what law? Of works? No; but through the law of faith."
+          },
+          "text": "Where, then, is the boasting? It is excluded. Through what law? Of works? No; but through the law of faith.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 28,
+          "sinaiticus": {
+            "text": "We conclude, then, that a man is declared righteous by faith, without works of law."
+          },
+          "text": "We conclude, then, that a man is declared righteous by faith, without works of law.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 29,
+          "sinaiticus": {
+            "text": "Is he the God of the Jews only? Is he not also of the Gentiles? Yes, of the Gentiles also."
+          },
+          "text": "Is he the God of the Jews only? Is he not also of the Gentiles? Yes, of the Gentiles also.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 30,
+          "sinaiticus": {
+            "text": "Seeing there is one God who will declare the circumcision righteous by faith and the uncircumcision through the faith."
+          },
+          "text": "Seeing there is one God who will declare the circumcision righteous by faith and the uncircumcision through the faith.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 31,
+          "sinaiticus": {
+            "text": "Do we, then, make law void through faith? Let it not be: on the other hand, we establish law."
+          },
+          "text": "Do we, then, make law void through faith? Let it not be: on the other hand, we establish law.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "What, then, shall we say that Abraham, our forefather, has found according to the flesh?"
+          },
+          "text": "What, then, shall we say that Abraham, our forefather, has found according to the flesh?",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "For, if Abraham was justified by works, he has cause for boasting, but not before God."
+          },
+          "text": "For, if Abraham was justified by works, he has cause for boasting, but not before God.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "For what says the Scripture? Abraham believed God, and it was counted to him for righteousness."
+          },
+          "text": "For what says the Scripture? Abraham believed God, and it was counted to him for righteousness.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "But to him that works, the reward is not counted as a favor, but as a"
+          },
+          "text": "But to him that works, the reward is not counted as a favor, but as a",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "to him, however, that works not, but believes on him that justifies the ungodly man, his faith is counted for righteousness."
+          },
+          "text": "to him, however, that works not, but believes on him that justifies the ungodly man, his faith is counted for righteousness.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "Even as David also speaks of the blessedness of the man to whom God counts righteousness without works:"
+          },
+          "text": "Even as David also speaks of the blessedness of the man to whom God counts righteousness without works:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "Blessed are they whose transgressions are forgiven, and whose sins are covered:"
+          },
+          "text": "Blessed are they whose transgressions are forgiven, and whose sins are covered:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "blessed is the man whose sin the Lord will not count."
+          },
+          "text": "blessed is the man whose sin the Lord will not count.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "Is this blessedness, then, upon the circumcision only, or also upon the uncircumcision? For we say: Faith was counted to Abraham for righteousness."
+          },
+          "text": "Is this blessedness, then, upon the circumcision only, or also upon the uncircumcision? For we say: Faith was counted to Abraham for righteousness.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "How, then, was it counted? While he was in circumcision, or in uncircumcision? Not in circumcision, but in uncircumcision."
+          },
+          "text": "How, then, was it counted? While he was in circumcision, or in uncircumcision? Not in circumcision, but in uncircumcision.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "And he received a sign of circumcision, a seal of the righteousness of the faith which he had while in uncircumcision, that he might be the father of all that believe while yet in uncircumcision, that righteousness might be counted to them,"
+          },
+          "text": "And he received a sign of circumcision, a seal of the righteousness of the faith which he had while in uncircumcision, that he might be the father of all that believe while yet in uncircumcision, that righteousness might be counted to them,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "and the father of circumcision to them that are not of the circumcision only, but that also walk in the steps of the faith of our father Abraham, which he had while in uncircumcision."
+          },
+          "text": "and the father of circumcision to them that are not of the circumcision only, but that also walk in the steps of the faith of our father Abraham, which he had while in uncircumcision.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "For not through law was the promise to Abraham, or to his posterity, that he should be heir of the world, but through the righteousness of faith."
+          },
+          "text": "For not through law was the promise to Abraham, or to his posterity, that he should be heir of the world, but through the righteousness of faith.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "For if they that are of law are heirs, faith is made void, and the promise is rendered powerless;"
+          },
+          "text": "For if they that are of law are heirs, faith is made void, and the promise is rendered powerless;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {
+            "text": "for the law works wrath; for where no law is, neither is there transgression."
+          },
+          "text": "for the law works wrath; for where no law is, neither is there transgression.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {
+            "text": "Therefore it is of faith, that it might be according to grace, in order that the promise may be sure to all the posterity; not to that of the law only, but also to that of the faith of Abraham, who is the father of us all."
+          },
+          "text": "Therefore it is of faith, that it might be according to grace, in order that the promise may be sure to all the posterity; not to that of the law only, but also to that of the faith of Abraham, who is the father of us all.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {
+            "text": "As it is written: A father of many nations have I made thee before him whom he believed, even God, who makes the dead alive and calls things that are not as if they are:"
+          },
+          "text": "As it is written: A father of many nations have I made thee before him whom he believed, even God, who makes the dead alive and calls things that are not as if they are:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {
+            "text": "who against hope on hope believed, in order that he might become a father of many nations, according to that which was spoken: So shall thy posterity be;"
+          },
+          "text": "who against hope on hope believed, in order that he might become a father of many nations, according to that which was spoken: So shall thy posterity be;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 19,
+          "sinaiticus": {
+            "text": "and not being weak in faith, he considered his own body that had become dead, being about a hundred years old and the deadness of Sarah’s womb;"
+          },
+          "text": "and not being weak in faith, he considered his own body that had become dead, being about a hundred years old and the deadness of Sarah’s womb;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {
+            "text": "but in regard to the promise of God he doubted not through unbelief, but grew strong in faith, giving glory to God,"
+          },
+          "text": "but in regard to the promise of God he doubted not through unbelief, but grew strong in faith, giving glory to God,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 21,
+          "sinaiticus": {
+            "text": "and being fully persuaded that what he had promised he was able also to perform."
+          },
+          "text": "and being fully persuaded that what he had promised he was able also to perform.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 22,
+          "sinaiticus": {
+            "text": "Wherefore also it was counted to him for righteousness.276"
+          },
+          "text": "Wherefore also it was counted to him for righteousness.276",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 23,
+          "sinaiticus": {
+            "text": "It was not written, however, for his sake, only that it was counted to him,"
+          },
+          "text": "It was not written, however, for his sake, only that it was counted to him,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 24,
+          "sinaiticus": {
+            "text": "but also for the sake of us. to whom it shall be counted if we believe on him that raised Jesus our Lord from the dead,"
+          },
+          "text": "but also for the sake of us. to whom it shall be counted if we believe on him that raised Jesus our Lord from the dead,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 25,
+          "sinaiticus": {
+            "text": "who was delivered up because of our offenses, and raised because of our justification."
+          },
+          "text": "who was delivered up because of our offenses, and raised because of our justification.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "Therefore, being justified by faith, we have peace with God through our Lord Jesus Christ,"
+          },
+          "text": "Therefore, being justified by faith, we have peace with God through our Lord Jesus Christ,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "through whom, also, we have had the access, by faith, into this grace in which we stand, and we boast in hope of the glory of God."
+          },
+          "text": "through whom, also, we have had the access, by faith, into this grace in which we stand, and we boast in hope of the glory of God.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "And not only so, but we also boast in afflictions, knowing that affliction works endurance,"
+          },
+          "text": "And not only so, but we also boast in afflictions, knowing that affliction works endurance,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "and endurance approval, and approval, hope;"
+          },
+          "text": "and endurance approval, and approval, hope;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "and hope makes not ashamed, because the love of God has been poured out in our hearts through the Holy Spirit that was given to us."
+          },
+          "text": "and hope makes not ashamed, because the love of God has been poured out in our hearts through the Holy Spirit that was given to us.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "Furthermore, we being yet without strength, at the proper time Christ died for the ungodly."
+          },
+          "text": "Furthermore, we being yet without strength, at the proper time Christ died for the ungodly.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "For scarcely for a righteous man will one die; though for the good man perhaps some one would even dare to die;"
+          },
+          "text": "For scarcely for a righteous man will one die; though for the good man perhaps some one would even dare to die;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "but God renders his love for us conspicuous in this, that, we being yet sinners, Christ died for us."
+          },
+          "text": "but God renders his love for us conspicuous in this, that, we being yet sinners, Christ died for us.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "Much more, then, being now justified in his blood, we shall be saved through him from the wrath."
+          },
+          "text": "Much more, then, being now justified in his blood, we shall be saved through him from the wrath.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "For if being enemies we were reconciled to God through the death of his Son, much more having been reconciled we shall be saved in his life;"
+          },
+          "text": "For if being enemies we were reconciled to God through the death of his Son, much more having been reconciled we shall be saved in his life;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "and not only so, but also glorying in God through our Lord Jesus Christ, through whom we have now received the reconciliation."
+          },
+          "text": "and not only so, but also glorying in God through our Lord Jesus Christ, through whom we have now received the reconciliation.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "Therefore, as through one man sin entered into the world, and through sin death, and so death passed through upon all men, inasmuch as all sinned;"
+          },
+          "text": "Therefore, as through one man sin entered into the world, and through sin death, and so death passed through upon all men, inasmuch as all sinned;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "for till the law sin was in the world, but sin is not imputed where there is no law;"
+          },
+          "text": "for till the law sin was in the world, but sin is not imputed where there is no law;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "yet, death reigned from Adam to Moses, even over those that did not sin after the likeness of the transgression of Adam, who is a type of the coming one."
+          },
+          "text": "yet, death reigned from Adam to Moses, even over those that did not sin after the likeness of the transgression of Adam, who is a type of the coming one.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {
+            "text": "Yet, not as the offense, so also the gracious gift; for if through the offense of the one the many died, much more did the grace of God and the gift in the grace of the one man, Jesus Christ, abound to the"
+          },
+          "text": "Yet, not as the offense, so also the gracious gift; for if through the offense of the one the many died, much more did the grace of God and the gift in the grace of the one man, Jesus Christ, abound to the",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {
+            "text": "And not as through one that sinned is the gift; for the judgment passed from one offense to condemnation, but the gracious gift from many offenses to the righteous decree."
+          },
+          "text": "And not as through one that sinned is the gift; for the judgment passed from one offense to condemnation, but the gracious gift from many offenses to the righteous decree.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {
+            "text": "For if, in the offense of one, death reigned through the one, much more shall they that receive the abundance of grace and of the gift of righteousness reign in life through the one, Jesus Christ."
+          },
+          "text": "For if, in the offense of one, death reigned through the one, much more shall they that receive the abundance of grace and of the gift of righteousness reign in life through the one, Jesus Christ.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {
+            "text": "Therefore, as through one offense judgment came upon all men to condemnation, so also through one righteous deed, judgment came upon all men to justification of life."
+          },
+          "text": "Therefore, as through one offense judgment came upon all men to condemnation, so also through one righteous deed, judgment came upon all men to justification of life.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 19,
+          "sinaiticus": {
+            "text": "For as through the disobedience of the one man the many were constituted sinners, so also through the obedience of the one shall the many be constituted righteous."
+          },
+          "text": "For as through the disobedience of the one man the many were constituted sinners, so also through the obedience of the one shall the many be constituted righteous.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {
+            "text": "But law came in beside, that the offense might abound; but where sin abounded, grace exceedingly abounded,"
+          },
+          "text": "But law came in beside, that the offense might abound; but where sin abounded, grace exceedingly abounded,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 21,
+          "sinaiticus": {
+            "text": "that, as sin reigned in death, so also grace might reign through righteousness to eternal life through Jesus Christ our Lord."
+          },
+          "text": "that, as sin reigned in death, so also grace might reign through righteousness to eternal life through Jesus Christ our Lord.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "What, then, shall we say? Let us continue in sin, that grace may abound?"
+          },
+          "text": "What, then, shall we say? Let us continue in sin, that grace may abound?",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "Let it not be. How shall we that died to sin live any longer in it?"
+          },
+          "text": "Let it not be. How shall we that died to sin live any longer in it?",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "Know you not that as many of us as were baptized into Christ Jesus, were baptized into his death?"
+          },
+          "text": "Know you not that as many of us as were baptized into Christ Jesus, were baptized into his death?",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "We were, therefore, buried with him through baptism into death, that as Christ was raised from the dead through the glory of the Father, so we, also, might walk in newness of life."
+          },
+          "text": "We were, therefore, buried with him through baptism into death, that as Christ was raised from the dead through the glory of the Father, so we, also, might walk in newness of life.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "For if we have grown together with the likeness of his death, we shall grow together also with the likeness of his resurrection,"
+          },
+          "text": "For if we have grown together with the likeness of his death, we shall grow together also with the likeness of his resurrection,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "knowing this, that our old man was crucified with him, that the body of sin might be made powerless, that we should no longer serve sin;"
+          },
+          "text": "knowing this, that our old man was crucified with him, that the body of sin might be made powerless, that we should no longer serve sin;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "for he that has died has been acquitted of sin."
+          },
+          "text": "for he that has died has been acquitted of sin.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "But if we died with Christ, we believe that we shall also live with him,"
+          },
+          "text": "But if we died with Christ, we believe that we shall also live with him,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "knowing that Christ, having been raised from the dead, dies no more: death no longer has dominion over him."
+          },
+          "text": "knowing that Christ, having been raised from the dead, dies no more: death no longer has dominion over him.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "For in that he died, to sin he died once for all; but in that he lives, he lives to God."
+          },
+          "text": "For in that he died, to sin he died once for all; but in that he lives, he lives to God.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "Thus do you also count yourselves dead indeed to sin, but living to God in Christ Jesus."
+          },
+          "text": "Thus do you also count yourselves dead indeed to sin, but living to God in Christ Jesus.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "Therefore let not sin reign in your mortal body, in order to obey its desires;278"
+          },
+          "text": "Therefore let not sin reign in your mortal body, in order to obey its desires;278",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "neither present your members as instruments of unrighteousness to sin, but present yourselves to God as being alive from the dead, and your members as instruments of righteousness to God."
+          },
+          "text": "neither present your members as instruments of unrighteousness to sin, but present yourselves to God as being alive from the dead, and your members as instruments of righteousness to God.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "For sin shall not have dominion over you; for you are not under law, but under grace."
+          },
+          "text": "For sin shall not have dominion over you; for you are not under law, but under grace.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {
+            "text": "What then? shall we sin because we are not under law, but under grace? Let it not be."
+          },
+          "text": "What then? shall we sin because we are not under law, but under grace? Let it not be.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {
+            "text": "Know you not that to whom you present yourselves servants for obedience, his servants you are whom you obey, either of sin to death, or of obedience to righteousness?"
+          },
+          "text": "Know you not that to whom you present yourselves servants for obedience, his servants you are whom you obey, either of sin to death, or of obedience to righteousness?",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {
+            "text": "But thanks to God that you were servants of sin, but you obeyed from the heart the form of teaching into which you were delivered,"
+          },
+          "text": "But thanks to God that you were servants of sin, but you obeyed from the heart the form of teaching into which you were delivered,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {
+            "text": "and having been made free from sin, you became servants to righteousness."
+          },
+          "text": "and having been made free from sin, you became servants to righteousness.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 19,
+          "sinaiticus": {
+            "text": "I speak as a man, because of the weakness of your flesh. For as you present your members servants to uncleanness and to lawlessness in order to lawlessness, so now present your members servants to righteousness in order to sanctification."
+          },
+          "text": "I speak as a man, because of the weakness of your flesh. For as you present your members servants to uncleanness and to lawlessness in order to lawlessness, so now present your members servants to righteousness in order to sanctification.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {
+            "text": "For when you were servants of sin you were free in respect to righteousness."
+          },
+          "text": "For when you were servants of sin you were free in respect to righteousness.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 21,
+          "sinaiticus": {
+            "text": "What fruit, therefore, had you then? Of which things you are now ashamed; for the end of those things is death."
+          },
+          "text": "What fruit, therefore, had you then? Of which things you are now ashamed; for the end of those things is death.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 22,
+          "sinaiticus": {
+            "text": "But now, having been made free from sin, and having become servants to God, you have your fruit to sanctification, and the end, life eternal."
+          },
+          "text": "But now, having been made free from sin, and having become servants to God, you have your fruit to sanctification, and the end, life eternal.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 23,
+          "sinaiticus": {
+            "text": "For the wages of sin is death; but the gracious gift of God is life eternal in Christ Jesus our Lord."
+          },
+          "text": "For the wages of sin is death; but the gracious gift of God is life eternal in Christ Jesus our Lord.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "Know you not, brethren, for I speak to those that know law, that the law has dominion over the man as long as he lives?"
+          },
+          "text": "Know you not, brethren, for I speak to those that know law, that the law has dominion over the man as long as he lives?",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "For the married woman is bound by the law to the living husband; but if the husband shall have died, she is loosed from the law of the husband."
+          },
+          "text": "For the married woman is bound by the law to the living husband; but if the husband shall have died, she is loosed from the law of the husband.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "So then, if, while her husband lives, she be married to another man, she shall be called an adulteress; but if her husband shall have died, she is free from his law, so that she is not an adulteress, though she be married to another man."
+          },
+          "text": "So then, if, while her husband lives, she be married to another man, she shall be called an adulteress; but if her husband shall have died, she is free from his law, so that she is not an adulteress, though she be married to another man.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "So then, my brethren, you also became dead to the law through the body of Christ, in order that you should be married to another, him that was raised from the dead, that we should bring forth fruit to"
+          },
+          "text": "So then, my brethren, you also became dead to the law through the body of Christ, in order that you should be married to another, him that was raised from the dead, that we should bring forth fruit to",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "For when we were in the flesh, the passions of sins which were through the law wrought in our members to bring forth fruit to death;"
+          },
+          "text": "For when we were in the flesh, the passions of sins which were through the law wrought in our members to bring forth fruit to death;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "but now we have been delivered from the law, having died to that in which we were held, so that we serve in newness of spirit and not in oldness of letter."
+          },
+          "text": "but now we have been delivered from the law, having died to that in which we were held, so that we serve in newness of spirit and not in oldness of letter.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "What, then, shall we say? Is the law sin? Let it not be; but I had not known sin except through law; for I had not known desire unless the law had said: Thou shalt not desire."
+          },
+          "text": "What, then, shall we say? Is the law sin? Let it not be; but I had not known sin except through law; for I had not known desire unless the law had said: Thou shalt not desire.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "But sin, taking occasion, through the commandment wrought in me all manner of desire; for without law sin is dead."
+          },
+          "text": "But sin, taking occasion, through the commandment wrought in me all manner of desire; for without law sin is dead.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "Now, I was alive without law once; but when the commandment came, sin became alive,"
+          },
+          "text": "Now, I was alive without law once; but when the commandment came, sin became alive,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "and I died; and the commandment which was for life, this was found by me to be for death."
+          },
+          "text": "and I died; and the commandment which was for life, this was found by me to be for death.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "For sin, taking occasion, through the commandment deceived me, and through it slew me."
+          },
+          "text": "For sin, taking occasion, through the commandment deceived me, and through it slew me.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "So, then, the law is holy, and the commandment holy and just and good."
+          },
+          "text": "So, then, the law is holy, and the commandment holy and just and good.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "Did, then, that which is good become death to me? Let it not be; but sin, that it might appear sin, working out death to me through that which is good, that sin through the commandment might become exceedingly sinful."
+          },
+          "text": "Did, then, that which is good become death to me? Let it not be; but sin, that it might appear sin, working out death to me through that which is good, that sin through the commandment might become exceedingly sinful.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "For we know that the law is spiritual: but I am flesh, sold under sin."
+          },
+          "text": "For we know that the law is spiritual: but I am flesh, sold under sin.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {
+            "text": "For what I work I know not; for I practice not what I wish, but what I hate this I do."
+          },
+          "text": "For what I work I know not; for I practice not what I wish, but what I hate this I do.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {
+            "text": "But if I do this that I wish not, I agree with the law that it is good;"
+          },
+          "text": "But if I do this that I wish not, I agree with the law that it is good;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {
+            "text": "and now I no longer do it, but sin that dwells in me."
+          },
+          "text": "and now I no longer do it, but sin that dwells in me.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {
+            "text": "For I know that there dwells in me, that is, in my flesh, no good. For to will is present with me, but to work out the beautiful, not;"
+          },
+          "text": "For I know that there dwells in me, that is, in my flesh, no good. For to will is present with me, but to work out the beautiful, not;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 19,
+          "sinaiticus": {
+            "text": "for the good that I wish I do not, but the evil that I hate, this I practice."
+          },
+          "text": "for the good that I wish I do not, but the evil that I hate, this I practice.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {
+            "text": "But if I do this that I wish not, I no longer do it, but sin that dwells in me."
+          },
+          "text": "But if I do this that I wish not, I no longer do it, but sin that dwells in me.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 21,
+          "sinaiticus": {
+            "text": "I find, then, the law, to me wishing to do the good, —That evil is present with me;"
+          },
+          "text": "I find, then, the law, to me wishing to do the good, —That evil is present with me;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 22,
+          "sinaiticus": {
+            "text": "for I delight in the law of God according to the inward man,"
+          },
+          "text": "for I delight in the law of God according to the inward man,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 23,
+          "sinaiticus": {
+            "text": "but I see a different law in my members warring against the law of my mind, and making me a captive in the law of sin that is in my members."
+          },
+          "text": "but I see a different law in my members warring against the law of my mind, and making me a captive in the law of sin that is in my members.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 24,
+          "sinaiticus": {
+            "text": "Wretched man that I am: who shall deliver me from the body of this death?280"
+          },
+          "text": "Wretched man that I am: who shall deliver me from the body of this death?280",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 25,
+          "sinaiticus": {
+            "text": "Thanks to God, through Jesus Christ our Lord: so, then, I myself with the mind indeed serve the law of God, but with the flesh the law of sin."
+          },
+          "text": "Thanks to God, through Jesus Christ our Lord: so, then, I myself with the mind indeed serve the law of God, but with the flesh the law of sin.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "There is, therefore, now no condemnation to those who are in Christ Jesus."
+          },
+          "text": "There is, therefore, now no condemnation to those who are in Christ Jesus.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "For the law of the Spirit of life in Christ Jesus made thee free from the law of sin and of death."
+          },
+          "text": "For the law of the Spirit of life in Christ Jesus made thee free from the law of sin and of death.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "For what the law could not do, because it was weak through the flesh, God, sending his own Son in the likeness of the flesh of sin, and on account of sin, condemned sin in the flesh,"
+          },
+          "text": "For what the law could not do, because it was weak through the flesh, God, sending his own Son in the likeness of the flesh of sin, and on account of sin, condemned sin in the flesh,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "that the righteous demand of the law might be fulfilled in us, who walk not according to the flesh, but according to the Spirit."
+          },
+          "text": "that the righteous demand of the law might be fulfilled in us, who walk not according to the flesh, but according to the Spirit.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "For those that are according to the flesh mind the things of the flesh, but those that are according to the Spirit, the things of the Spirit."
+          },
+          "text": "For those that are according to the flesh mind the things of the flesh, but those that are according to the Spirit, the things of the Spirit.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "For the mind of the flesh is death, but the mind of the Spirit is life and peace."
+          },
+          "text": "For the mind of the flesh is death, but the mind of the Spirit is life and peace.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "Because the mind of the flesh is enmity towards God; for it is not subjected to the law of God, neither indeed can it be."
+          },
+          "text": "Because the mind of the flesh is enmity towards God; for it is not subjected to the law of God, neither indeed can it be.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "And they that are in the flesh can not please God."
+          },
+          "text": "And they that are in the flesh can not please God.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "You, however, are not in the flesh, but in the Spirit, if so be that the Spirit of God dwells in you. And if any one has not the Spirit of Christ, he is none of his."
+          },
+          "text": "You, however, are not in the flesh, but in the Spirit, if so be that the Spirit of God dwells in you. And if any one has not the Spirit of Christ, he is none of his.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "But if Christ is in you, the body is dead because of sin, but the spirit is life because of righteousness."
+          },
+          "text": "But if Christ is in you, the body is dead because of sin, but the spirit is life because of righteousness.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "And if the Spirit of him who raised Jesus from the dead dwells in you, he who raised Christ Jesus from the dead will also make your mortal bodies alive through his Spirit that dwells in you."
+          },
+          "text": "And if the Spirit of him who raised Jesus from the dead dwells in you, he who raised Christ Jesus from the dead will also make your mortal bodies alive through his Spirit that dwells in you.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "Therefore, brethren, we are debtors, not to the flesh, that we should live according to the flesh."
+          },
+          "text": "Therefore, brethren, we are debtors, not to the flesh, that we should live according to the flesh.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "For if you live according to the flesh, you shall die; but if through the Spirit you put to death the deeds of the body, you shall live."
+          },
+          "text": "For if you live according to the flesh, you shall die; but if through the Spirit you put to death the deeds of the body, you shall live.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "For as many as are led by the Spirit of God, these are sons of God."
+          },
+          "text": "For as many as are led by the Spirit of God, these are sons of God.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {
+            "text": "For you did not receive the spirit of bondage again to fear; but you received the Spirit of adoption, in which we cry: Abba, Father."
+          },
+          "text": "For you did not receive the spirit of bondage again to fear; but you received the Spirit of adoption, in which we cry: Abba, Father.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {
+            "text": "The Spirit itself bears testimony with our spirit that we are children of God."
+          },
+          "text": "The Spirit itself bears testimony with our spirit that we are children of God.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {
+            "text": "But if children, also heirs: heirs, indeed, of God, but joint-heirs with Christ, if so be that we suffer with him. that we may also be glorified with him."
+          },
+          "text": "But if children, also heirs: heirs, indeed, of God, but joint-heirs with Christ, if so be that we suffer with him. that we may also be glorified with him.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {
+            "text": "For I reckon that the sufferings of the present time are not worthy"
+          },
+          "text": "For I reckon that the sufferings of the present time are not worthy",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 19,
+          "sinaiticus": {
+            "text": "For the earnest expectation of the creation awaits the revelation of the sons of God."
+          },
+          "text": "For the earnest expectation of the creation awaits the revelation of the sons of God.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {
+            "text": "For the creation was subjected to vanity, not willingly, but by reason of him who subjected it,"
+          },
+          "text": "For the creation was subjected to vanity, not willingly, but by reason of him who subjected it,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 21,
+          "sinaiticus": {
+            "text": "in hope that the creation itself shall be freed from the bondage of corruption into the liberty of the glory of the children of God."
+          },
+          "text": "in hope that the creation itself shall be freed from the bondage of corruption into the liberty of the glory of the children of God.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 22,
+          "sinaiticus": {
+            "text": "For we know that the whole creation groans together and is in pain together till now;"
+          },
+          "text": "For we know that the whole creation groans together and is in pain together till now;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 23,
+          "sinaiticus": {
+            "text": "and not only so, but ourselves also, having the firstfruits of the Spirit, even we ourselves groan within ourselves, awaiting the adoption, the redemption of our body."
+          },
+          "text": "and not only so, but ourselves also, having the firstfruits of the Spirit, even we ourselves groan within ourselves, awaiting the adoption, the redemption of our body.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 24,
+          "sinaiticus": {
+            "text": "For by hope were we saved; but hope seen is not hope; for what any one sees, why does he also hope for it?"
+          },
+          "text": "For by hope were we saved; but hope seen is not hope; for what any one sees, why does he also hope for it?",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 25,
+          "sinaiticus": {
+            "text": "But if we hope for that which we see not, we with patience wait for it."
+          },
+          "text": "But if we hope for that which we see not, we with patience wait for it.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 26,
+          "sinaiticus": {
+            "text": "And in like manner the Spirit also helps our weakness. For we know not what we shall pray for as we ought, but the Spirit itself intercedes with groanings unutterable:"
+          },
+          "text": "And in like manner the Spirit also helps our weakness. For we know not what we shall pray for as we ought, but the Spirit itself intercedes with groanings unutterable:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 27,
+          "sinaiticus": {
+            "text": "he, however, who searches the hearts knows what is the mind of the Spirit, that he intercedes for the saints according to the will of God."
+          },
+          "text": "he, however, who searches the hearts knows what is the mind of the Spirit, that he intercedes for the saints according to the will of God.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 28,
+          "sinaiticus": {
+            "text": "But we know that to those who love God all things work together for good, to those who are called according to his purpose."
+          },
+          "text": "But we know that to those who love God all things work together for good, to those who are called according to his purpose.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 29,
+          "sinaiticus": {
+            "text": "For whom he foreknew, he also predestinated to be conformed to the image of his Son, that he might be firstborn among many brethren;"
+          },
+          "text": "For whom he foreknew, he also predestinated to be conformed to the image of his Son, that he might be firstborn among many brethren;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 30,
+          "sinaiticus": {
+            "text": "and whom he predestinated, these he also called; and whom he called, these he also declared righteous; and whom he declared righteous, these he also made glorious.* * By conferring on them the doxa—glory of the New Covenant."
+          },
+          "text": "and whom he predestinated, these he also called; and whom he called, these he also declared righteous; and whom he declared righteous, these he also made glorious.* * By conferring on them the doxa—glory of the New Covenant.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 31,
+          "sinaiticus": {
+            "text": "What shall we then say to these things? If God is for us, who is against us?"
+          },
+          "text": "What shall we then say to these things? If God is for us, who is against us?",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 32,
+          "sinaiticus": {
+            "text": "He indeed that spared not his own Son, but delivered him up for us all, how will he not also with him freely give us all things?"
+          },
+          "text": "He indeed that spared not his own Son, but delivered him up for us all, how will he not also with him freely give us all things?",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 33,
+          "sinaiticus": {
+            "text": "Who shall bring a charge against God’s elect? It is God who justifies."
+          },
+          "text": "Who shall bring a charge against God’s elect? It is God who justifies.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 34,
+          "sinaiticus": {
+            "text": "Who is he that condemns? It is Christ Jesus who died; yes, more, who has risen, who is at the right hand of God; who also intercedes for us."
+          },
+          "text": "Who is he that condemns? It is Christ Jesus who died; yes, more, who has risen, who is at the right hand of God; who also intercedes for us.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 35,
+          "sinaiticus": {
+            "text": "Who shall separate us from the love of Christ? Shall affliction, or distress, or persecution, or hunger, or nakedness, or danger, or the sword?282"
+          },
+          "text": "Who shall separate us from the love of Christ? Shall affliction, or distress, or persecution, or hunger, or nakedness, or danger, or the sword?282",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 36,
+          "sinaiticus": {
+            "text": "as it is written: For thy sake we are killed all the day; we are counted as; sheep for slaughter."
+          },
+          "text": "as it is written: For thy sake we are killed all the day; we are counted as; sheep for slaughter.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 37,
+          "sinaiticus": {
+            "text": "But in all these things we do more than conquer through him that loved us."
+          },
+          "text": "But in all these things we do more than conquer through him that loved us.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 38,
+          "sinaiticus": {
+            "text": "For I am persuaded that neither death nor life, nor angels nor principalities, nor things present nor things to come, nor powers"
+          },
+          "text": "For I am persuaded that neither death nor life, nor angels nor principalities, nor things present nor things to come, nor powers",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 39,
+          "sinaiticus": {
+            "text": "nor height nor depth, nor any other created thing, shall be able to separate us from the love of God that is in Christ Jesus our Lord."
+          },
+          "text": "nor height nor depth, nor any other created thing, shall be able to separate us from the love of God that is in Christ Jesus our Lord.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "I speak the truth in Christ, I lie not, my conscience bearing me testimony in the Holy Spirit,"
+          },
+          "text": "I speak the truth in Christ, I lie not, my conscience bearing me testimony in the Holy Spirit,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "that I have great grief and unceasing sorrow in my heart."
+          },
+          "text": "that I have great grief and unceasing sorrow in my heart.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "For I could wish that I myself were accursed from Christ for my brethren, my kinsmen according to the flesh,"
+          },
+          "text": "For I could wish that I myself were accursed from Christ for my brethren, my kinsmen according to the flesh,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "who are Israelites, to whom belong the adoption, and the glory, and the covenants, and the giving of the law, and the religious service, and the promises;"
+          },
+          "text": "who are Israelites, to whom belong the adoption, and the glory, and the covenants, and the giving of the law, and the religious service, and the promises;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "whose are the fathers, and from whom is Christ according to the flesh: who is over all, God blessed for ever, Amen."
+          },
+          "text": "whose are the fathers, and from whom is Christ according to the flesh: who is over all, God blessed for ever, Amen.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "But I do not say such a thing as: The word of God has failed. For these are not all Israel, who are of Israel;"
+          },
+          "text": "But I do not say such a thing as: The word of God has failed. For these are not all Israel, who are of Israel;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "neither, because they are the posterity of Abraham, are all children; but; In Isaac shall thy posterity be called:"
+          },
+          "text": "neither, because they are the posterity of Abraham, are all children; but; In Isaac shall thy posterity be called:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "that is, the children of the flesh, these are not the children of God, but the children of the promise are counted as the posterity."
+          },
+          "text": "that is, the children of the flesh, these are not the children of God, but the children of the promise are counted as the posterity.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "For the word of promise was this: According to this season will I come, and Sarah shall have a son."
+          },
+          "text": "For the word of promise was this: According to this season will I come, and Sarah shall have a son.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "And not only this, but also Rebecca, having conceived by one, our father Isaac, —"
+          },
+          "text": "And not only this, but also Rebecca, having conceived by one, our father Isaac, —",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "for the children not yet having been born, neither having done any good or ill, that the purpose of God according to election might stand, not of works, but of him that calls, —"
+          },
+          "text": "for the children not yet having been born, neither having done any good or ill, that the purpose of God according to election might stand, not of works, but of him that calls, —",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "it was said to her: The elder shall serve the younger,"
+          },
+          "text": "it was said to her: The elder shall serve the younger,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "as it is written: Jacob I loved, but Esau I hated."
+          },
+          "text": "as it is written: Jacob I loved, but Esau I hated.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "What, then, shall we say? Is there unrighteousness with God? Let it not be."
+          },
+          "text": "What, then, shall we say? Is there unrighteousness with God? Let it not be.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {
+            "text": "For he says to Moses: I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion."
+          },
+          "text": "For he says to Moses: I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {
+            "text": "So, then, not of him that wills nor of him that runs, but of God"
+          },
+          "text": "So, then, not of him that wills nor of him that runs, but of God",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {
+            "text": "For the Scripture says to Pharaoh: For this same purpose did I raise thee up, that I might show in thee my power, and that my name might be published in all the earth."
+          },
+          "text": "For the Scripture says to Pharaoh: For this same purpose did I raise thee up, that I might show in thee my power, and that my name might be published in all the earth.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {
+            "text": "Therefore, on whom he wills he has mercy, and whom he wills he hardens."
+          },
+          "text": "Therefore, on whom he wills he has mercy, and whom he wills he hardens.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 19,
+          "sinaiticus": {
+            "text": "Thou wilt say to me therefore: Why does he yet find fault? For who has resisted his will?"
+          },
+          "text": "Thou wilt say to me therefore: Why does he yet find fault? For who has resisted his will?",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {
+            "text": "Yes, rather, O man, who art thou that replies against God? Shall the thing moulded say to him that moulded it: Why didst thou make me thus?"
+          },
+          "text": "Yes, rather, O man, who art thou that replies against God? Shall the thing moulded say to him that moulded it: Why didst thou make me thus?",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 21,
+          "sinaiticus": {
+            "text": "Has not the potter right over the clay to make of the same lump one vessel for honor and another for dishonor?"
+          },
+          "text": "Has not the potter right over the clay to make of the same lump one vessel for honor and another for dishonor?",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 22,
+          "sinaiticus": {
+            "text": "But if God—willing to show his wrath, and to make known his power, endured in much longsuffering vessels of wrath fitted for destruction,"
+          },
+          "text": "But if God—willing to show his wrath, and to make known his power, endured in much longsuffering vessels of wrath fitted for destruction,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 23,
+          "sinaiticus": {
+            "text": "also that he might make known the riches of his glory on vessels of mercy, which he before prepared for glory?"
+          },
+          "text": "also that he might make known the riches of his glory on vessels of mercy, which he before prepared for glory?",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 24,
+          "sinaiticus": {
+            "text": "whom he also called, us not only from among the Jews, but also from among the Gentiles,"
+          },
+          "text": "whom he also called, us not only from among the Jews, but also from among the Gentiles,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 25,
+          "sinaiticus": {
+            "text": "as he also says in Hosea: I will call that my people which was not my people, and her beloved, that was not beloved;"
+          },
+          "text": "as he also says in Hosea: I will call that my people which was not my people, and her beloved, that was not beloved;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 26,
+          "sinaiticus": {
+            "text": "and it shall come to pass in the place where it was said to them: You are not my people, there shall they be called sons of the living God."
+          },
+          "text": "and it shall come to pass in the place where it was said to them: You are not my people, there shall they be called sons of the living God.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 27,
+          "sinaiticus": {
+            "text": "But Isaiah cries concerning Israel: Though the number of the sons of Israel be as the sand of the sea, the remnant shall be saved."
+          },
+          "text": "But Isaiah cries concerning Israel: Though the number of the sons of Israel be as the sand of the sea, the remnant shall be saved.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 28,
+          "sinaiticus": {
+            "text": "For a fulfilling and cutting short of the word will the Lord make on the earth."
+          },
+          "text": "For a fulfilling and cutting short of the word will the Lord make on the earth.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 29,
+          "sinaiticus": {
+            "text": "And as Isaiah predicted: Unless the Lord of Sabaoth had left us posterity, we had become as Sodom and had been made like Gomorrah."
+          },
+          "text": "And as Isaiah predicted: Unless the Lord of Sabaoth had left us posterity, we had become as Sodom and had been made like Gomorrah.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 30,
+          "sinaiticus": {
+            "text": "What, then, shall we say? that the Gentiles, that were not following after righteousness, attained to righteousness, the righteousness that is of faith;"
+          },
+          "text": "What, then, shall we say? that the Gentiles, that were not following after righteousness, attained to righteousness, the righteousness that is of faith;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 31,
+          "sinaiticus": {
+            "text": "but Israel, following after a law of righteousness, did not attain to a law."
+          },
+          "text": "but Israel, following after a law of righteousness, did not attain to a law.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 32,
+          "sinaiticus": {
+            "text": "Why? because they sought it not by faith, but as by works: for they stumbled at the stone of stumbling,"
+          },
+          "text": "Why? because they sought it not by faith, but as by works: for they stumbled at the stone of stumbling,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 33,
+          "sinaiticus": {
+            "text": "as it is written: Behold, I lay in Zion a stone of stumbling and a rock of offense; and he that believes on him shall not be ashamed."
+          },
+          "text": "as it is written: Behold, I lay in Zion a stone of stumbling and a rock of offense; and he that believes on him shall not be ashamed.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "Brethren, the good pleasure of my heart, and my prayer to God for them, is for their salvation;284"
+          },
+          "text": "Brethren, the good pleasure of my heart, and my prayer to God for them, is for their salvation;284",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "For I bear them testimony that they have a zeal for God, but not according to knowledge."
+          },
+          "text": "For I bear them testimony that they have a zeal for God, but not according to knowledge.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "For, being ignorant of God’s righteousness, and seeking to establish their own righteousness, they have not submitted themselves to the righteousness of God."
+          },
+          "text": "For, being ignorant of God’s righteousness, and seeking to establish their own righteousness, they have not submitted themselves to the righteousness of God.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "For Christ is the end of the law for righteousness to every one that believes."
+          },
+          "text": "For Christ is the end of the law for righteousness to every one that believes.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "For Moses writes that the man that does the righteousness of the law shall live in it."
+          },
+          "text": "For Moses writes that the man that does the righteousness of the law shall live in it.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "But the righteousness that is of faith speaks thus: Say not in thy heart: Who shall ascend into heaven? that is, to bring Christ down:"
+          },
+          "text": "But the righteousness that is of faith speaks thus: Say not in thy heart: Who shall ascend into heaven? that is, to bring Christ down:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "or, Who shall descend into the abyss? that is, to bring Christ up from the dead."
+          },
+          "text": "or, Who shall descend into the abyss? that is, to bring Christ up from the dead.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "But what says it? The word is near thee, in thy mouth and in thy heart: that is, the word of faith which we preach."
+          },
+          "text": "But what says it? The word is near thee, in thy mouth and in thy heart: that is, the word of faith which we preach.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "Because, if thou shalt confess with thy mouth that Jesus is Lord, and shalt believe in thy heart that God raised him from the dead, thou shalt be saved;"
+          },
+          "text": "Because, if thou shalt confess with thy mouth that Jesus is Lord, and shalt believe in thy heart that God raised him from the dead, thou shalt be saved;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "for with the heart faith is exercised in order to righteousness, and with the mouth confession is made in order to salvation."
+          },
+          "text": "for with the heart faith is exercised in order to righteousness, and with the mouth confession is made in order to salvation.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "For the Scripture says: Whoever believes on him shall not be ashamed."
+          },
+          "text": "For the Scripture says: Whoever believes on him shall not be ashamed.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "For there is no difference between Jew and Greek; for the same is Lord of all, rich toward all that call upon him."
+          },
+          "text": "For there is no difference between Jew and Greek; for the same is Lord of all, rich toward all that call upon him.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "For every one that calls on the name of the Lord shall be saved."
+          },
+          "text": "For every one that calls on the name of the Lord shall be saved.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "How, then, shall they call on him in whom they have not believed? And how shall they believe in him of whom they have not heard? And how shall they hear without a preacher?"
+          },
+          "text": "How, then, shall they call on him in whom they have not believed? And how shall they believe in him of whom they have not heard? And how shall they hear without a preacher?",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {
+            "text": "And how shall they preach unless they be sent? As it is written: How beautiful are the feet of them that bring glad tidings of good things."
+          },
+          "text": "And how shall they preach unless they be sent? As it is written: How beautiful are the feet of them that bring glad tidings of good things.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {
+            "text": "But they have not all obeyed the gospel. For Isaiah says: Lord, who has believed that which was heard by us?"
+          },
+          "text": "But they have not all obeyed the gospel. For Isaiah says: Lord, who has believed that which was heard by us?",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {
+            "text": "So, then, faith comes from what is heard, and that which is heard comes through the word of God."
+          },
+          "text": "So, then, faith comes from what is heard, and that which is heard comes through the word of God.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {
+            "text": "But I say, have they not heard? Yes, verily, Their sound went forth into all the earth, and their words to the end of the world."
+          },
+          "text": "But I say, have they not heard? Yes, verily, Their sound went forth into all the earth, and their words to the end of the world.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 19,
+          "sinaiticus": {
+            "text": "But I say, did not Israel know? First Moses says: I will provoke you to jealousy by that which is no nation, by a foolish nation I will excite you to anger."
+          },
+          "text": "But I say, did not Israel know? First Moses says: I will provoke you to jealousy by that which is no nation, by a foolish nation I will excite you to anger.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {
+            "text": "But Isaiah is very bold, and says: I was found by them that sought me not, I became manifest to them that asked not after me."
+          },
+          "text": "But Isaiah is very bold, and says: I was found by them that sought me not, I became manifest to them that asked not after me.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 21,
+          "sinaiticus": {
+            "text": "But of Israel he says: All day long I stretched forth my hands to a"
+          },
+          "text": "But of Israel he says: All day long I stretched forth my hands to a",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "I say, then, Did God cast away his people? It can not be; for I am an Israelite, of the posterity of Abraham, of the tribe of Benjamin."
+          },
+          "text": "I say, then, Did God cast away his people? It can not be; for I am an Israelite, of the posterity of Abraham, of the tribe of Benjamin.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "God did not cast away his people whom he foreknew. Know you not what the Scripture says in speaking of Elijah, how he complains to God against Israel?"
+          },
+          "text": "God did not cast away his people whom he foreknew. Know you not what the Scripture says in speaking of Elijah, how he complains to God against Israel?",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "Lord, thy prophets they have killed, thy altars they have dug down, and I am left the only one, and they seek my life."
+          },
+          "text": "Lord, thy prophets they have killed, thy altars they have dug down, and I am left the only one, and they seek my life.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "But what says the answer of God to him? I have reserved for myself seven thousand men who have not bowed the knee to Baal."
+          },
+          "text": "But what says the answer of God to him? I have reserved for myself seven thousand men who have not bowed the knee to Baal.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "So, then, even in the present time there is a remnant according to the election of grace;"
+          },
+          "text": "So, then, even in the present time there is a remnant according to the election of grace;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "now if by grace, no longer of works, since grace no longer becomes grace."
+          },
+          "text": "now if by grace, no longer of works, since grace no longer becomes grace.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "What then? That which Israel seeks for, this he did not obtain, but the election obtained it, and the rest were hardened,"
+          },
+          "text": "What then? That which Israel seeks for, this he did not obtain, but the election obtained it, and the rest were hardened,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "as it is written: God gave them a spirit of stupor, eyes that they should not see, and ears that they should not hear, till this day."
+          },
+          "text": "as it is written: God gave them a spirit of stupor, eyes that they should not see, and ears that they should not hear, till this day.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "And David says: Let their table become a snare, and a trap, and a stumblingblock, and a recompense to them:"
+          },
+          "text": "And David says: Let their table become a snare, and a trap, and a stumblingblock, and a recompense to them:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "let their eyes be darkened, that they may not see, and bow down their back always."
+          },
+          "text": "let their eyes be darkened, that they may not see, and bow down their back always.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "I say, then, did they stumble that they should fall? It can not be; but by their fall salvation has come to the Gentiles, in order to excite them to emulation,"
+          },
+          "text": "I say, then, did they stumble that they should fall? It can not be; but by their fall salvation has come to the Gentiles, in order to excite them to emulation,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "But if their fall is the riches of the world and their worse estate the riches of the Gentiles, how much more their fulness."
+          },
+          "text": "But if their fall is the riches of the world and their worse estate the riches of the Gentiles, how much more their fulness.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "But I speak to you, the Gentiles. Inasmuch as I am the apostle of the Gentiles, I glorify my office,"
+          },
+          "text": "But I speak to you, the Gentiles. Inasmuch as I am the apostle of the Gentiles, I glorify my office,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "if in any way I may excite to emulation my own flesh and save some of them."
+          },
+          "text": "if in any way I may excite to emulation my own flesh and save some of them.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {
+            "text": "For, if the casting away of them is the reconciliation of the world, what shall their reception be but life from the dead?"
+          },
+          "text": "For, if the casting away of them is the reconciliation of the world, what shall their reception be but life from the dead?",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {
+            "text": "But if the firstfruit is holy, so also the lump; and if the root is holy, so also the branches."
+          },
+          "text": "But if the firstfruit is holy, so also the lump; and if the root is holy, so also the branches.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {
+            "text": "But if some of the branches were broken off, and thou, being a wild olive, wert grafted in among them, and made a joint-partaker of the root and the fatness of the olive,"
+          },
+          "text": "But if some of the branches were broken off, and thou, being a wild olive, wert grafted in among them, and made a joint-partaker of the root and the fatness of the olive,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {
+            "text": "boast not against the branches; but if thou boastest, thou bearest not the root, but the root thee."
+          },
+          "text": "boast not against the branches; but if thou boastest, thou bearest not the root, but the root thee.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 19,
+          "sinaiticus": {
+            "text": "Thou wilt say then: The branches were broken off that I might be grafted in.286"
+          },
+          "text": "Thou wilt say then: The branches were broken off that I might be grafted in.286",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {
+            "text": "Well: because of unbelief they were broken off, but thou standest by faith. Be not highminded, but fear;"
+          },
+          "text": "Well: because of unbelief they were broken off, but thou standest by faith. Be not highminded, but fear;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 21,
+          "sinaiticus": {
+            "text": "for if God spared not the natural branches, neither will he spare thee."
+          },
+          "text": "for if God spared not the natural branches, neither will he spare thee.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 22,
+          "sinaiticus": {
+            "text": "Behold, then, the goodness and severity of God: towards those that fell severity, but towards thee the goodness of God, if thou continue in his goodness, otherwise thou also shalt be cut off."
+          },
+          "text": "Behold, then, the goodness and severity of God: towards those that fell severity, but towards thee the goodness of God, if thou continue in his goodness, otherwise thou also shalt be cut off.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 23,
+          "sinaiticus": {
+            "text": "And these, moreover, if they continue not in unbelief, shall be grafted in; for God is able to graft them in again."
+          },
+          "text": "And these, moreover, if they continue not in unbelief, shall be grafted in; for God is able to graft them in again.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 24,
+          "sinaiticus": {
+            "text": "For if thou wert cut out of an olive tree that is wild by nature, and wert grafted contrary to nature into a good olive tree, how much more shall these the natural be grafted into their own olive tree."
+          },
+          "text": "For if thou wert cut out of an olive tree that is wild by nature, and wert grafted contrary to nature into a good olive tree, how much more shall these the natural be grafted into their own olive tree.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 25,
+          "sinaiticus": {
+            "text": "For I do not wish you, brethren, to be ignorant of this mystery, lest you should be wise in your own conceits, that hardness, in part, has come upon Israel till the fulness of the Gentiles shall have come in;"
+          },
+          "text": "For I do not wish you, brethren, to be ignorant of this mystery, lest you should be wise in your own conceits, that hardness, in part, has come upon Israel till the fulness of the Gentiles shall have come in;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 26,
+          "sinaiticus": {
+            "text": "and so all Israel shall be saved, as it is written: There shall come out of Zion the deliverer, he shall turn away ungodliness from Jacob."
+          },
+          "text": "and so all Israel shall be saved, as it is written: There shall come out of Zion the deliverer, he shall turn away ungodliness from Jacob.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 27,
+          "sinaiticus": {
+            "text": "And this is the covenant which they shall have from me, when I take away their sins."
+          },
+          "text": "And this is the covenant which they shall have from me, when I take away their sins.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 28,
+          "sinaiticus": {
+            "text": "As to the gospel they are enemies for your sake, but as to the election they are beloved for the fathers’ sakes:"
+          },
+          "text": "As to the gospel they are enemies for your sake, but as to the election they are beloved for the fathers’ sakes:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 29,
+          "sinaiticus": {
+            "text": "for the gifts and the calling of God are irrevocable."
+          },
+          "text": "for the gifts and the calling of God are irrevocable.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 30,
+          "sinaiticus": {
+            "text": "For as you in time past believed not God, but now have obtained mercy through the unbelief of these,"
+          },
+          "text": "For as you in time past believed not God, but now have obtained mercy through the unbelief of these,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 31,
+          "sinaiticus": {
+            "text": "so also have these now believed not, that through your mercy they also may now obtain mercy;"
+          },
+          "text": "so also have these now believed not, that through your mercy they also may now obtain mercy;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 32,
+          "sinaiticus": {
+            "text": "for God has shut up all in unbelief, that he might have mercy upon all."
+          },
+          "text": "for God has shut up all in unbelief, that he might have mercy upon all.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 33,
+          "sinaiticus": {
+            "text": "O the depth of the riches and wisdom and knowledge of God: how unsearchable are his judgments and his ways past finding out."
+          },
+          "text": "O the depth of the riches and wisdom and knowledge of God: how unsearchable are his judgments and his ways past finding out.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 34,
+          "sinaiticus": {
+            "text": "For who has known the mind of the Lord? or who has been his counsellor?"
+          },
+          "text": "For who has known the mind of the Lord? or who has been his counsellor?",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 35,
+          "sinaiticus": {
+            "text": "or who has first given to him, and a recompense shall be made him?"
+          },
+          "text": "or who has first given to him, and a recompense shall be made him?",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 36,
+          "sinaiticus": {
+            "text": "For of him, and through him, and for him, are all things: to him be glory through the ages. Amen."
+          },
+          "text": "For of him, and through him, and for him, are all things: to him be glory through the ages. Amen.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "I beseech you therefore, brethren, through the mercies of God, to present your bodies a sacrifice: living, holy, acceptable to God, which"
+          },
+          "text": "I beseech you therefore, brethren, through the mercies of God, to present your bodies a sacrifice: living, holy, acceptable to God, which",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "And be not conformed to this age, but be transformed by the renewing of your mind, that you may prove what the will of God is, the good, and acceptable, and perfect."
+          },
+          "text": "And be not conformed to this age, but be transformed by the renewing of your mind, that you may prove what the will of God is, the good, and acceptable, and perfect.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "For I say, through the grace that was given to me, to every one that is among you, that he think not of himself more highly than he ought to think, but that he think soberly, as God distributed to each a measure of faith."
+          },
+          "text": "For I say, through the grace that was given to me, to every one that is among you, that he think not of himself more highly than he ought to think, but that he think soberly, as God distributed to each a measure of faith.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "For as in one body we have many members, but all the members have not the same office,"
+          },
+          "text": "For as in one body we have many members, but all the members have not the same office,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "so we the many are one body in Christ, and every one members one of another,"
+          },
+          "text": "so we the many are one body in Christ, and every one members one of another,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "but having gifts differing according to the grace that was given to us; whether prophecy, let us prophesy according to the proportion of faith;"
+          },
+          "text": "but having gifts differing according to the grace that was given to us; whether prophecy, let us prophesy according to the proportion of faith;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "or ministry, let us wait on our ministry; or he that teaches, on his teaching;"
+          },
+          "text": "or ministry, let us wait on our ministry; or he that teaches, on his teaching;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "or he that exhorts, on his exhortation: he that gives, let him do it with simplicity: he that rules, with diligence: he that shows mercy, with cheerfulness."
+          },
+          "text": "or he that exhorts, on his exhortation: he that gives, let him do it with simplicity: he that rules, with diligence: he that shows mercy, with cheerfulness.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "Let love be unfeigned. Abhor that which is evil, cleave to that which is good:"
+          },
+          "text": "Let love be unfeigned. Abhor that which is evil, cleave to that which is good:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "in brotherly love, be affectionate one toward another: in honor, preferring one another:"
+          },
+          "text": "in brotherly love, be affectionate one toward another: in honor, preferring one another:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "in diligence, not slothful: in spirit, fervent; serving the Lord;"
+          },
+          "text": "in diligence, not slothful: in spirit, fervent; serving the Lord;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "in hope, rejoicing: in affliction, patient: in prayer, persevering;"
+          },
+          "text": "in hope, rejoicing: in affliction, patient: in prayer, persevering;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "communicating to the necessities of the saints; following hospitality:"
+          },
+          "text": "communicating to the necessities of the saints; following hospitality:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "bless them that persecute you; bless, and curse not."
+          },
+          "text": "bless them that persecute you; bless, and curse not.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {
+            "text": "Rejoice with them that rejoice, weep with them that weep."
+          },
+          "text": "Rejoice with them that rejoice, weep with them that weep.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {
+            "text": "Be of the same mind one toward another; mind not high things, but condescend to things that are lowly: be not wise in your own conceits."
+          },
+          "text": "Be of the same mind one toward another; mind not high things, but condescend to things that are lowly: be not wise in your own conceits.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {
+            "text": "Render to no one evil for evil; provide for things honorable in the sight of all men;"
+          },
+          "text": "Render to no one evil for evil; provide for things honorable in the sight of all men;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {
+            "text": "if possible, as far as it is of you, be at peace with all men;"
+          },
+          "text": "if possible, as far as it is of you, be at peace with all men;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 19,
+          "sinaiticus": {
+            "text": "avenge not yourselves, beloved, but give place to the wrath; for it is written: Vengeance is mine, I will repay, says the Lord."
+          },
+          "text": "avenge not yourselves, beloved, but give place to the wrath; for it is written: Vengeance is mine, I will repay, says the Lord.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {
+            "text": "If, then, thy enemy hunger, feed him; if he thirst, give him drink; for in doing this thou shalt heap coals of fire on his head."
+          },
+          "text": "If, then, thy enemy hunger, feed him; if he thirst, give him drink; for in doing this thou shalt heap coals of fire on his head.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 21,
+          "sinaiticus": {
+            "text": "Be not overcome by evil, but overcome evil with good."
+          },
+          "text": "Be not overcome by evil, but overcome evil with good.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    },
+    {
+      "chapter": 13288,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "Let every soul submit himself to the authorities that are over him. For there is no authority except of God, and those that are have been appointed by God."
+          },
+          "text": "Let every soul submit himself to the authorities that are over him. For there is no authority except of God, and those that are have been appointed by God.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "So, then, he that sets himself against the authority resists the appointment of God: and they that resist shall receive to themselves condemnation."
+          },
+          "text": "So, then, he that sets himself against the authority resists the appointment of God: and they that resist shall receive to themselves condemnation.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "For rulers are not a terror to the good work, but to the evil. And dost thou desire not to be afraid of the authority? do that which is good, and thou shalt have praise from the same;"
+          },
+          "text": "For rulers are not a terror to the good work, but to the evil. And dost thou desire not to be afraid of the authority? do that which is good, and thou shalt have praise from the same;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "for he is the minister of God to thee for good. But if thou do that which is evil, be afraid; for he wears not the sword in vain; for he is the minister of God, an avenger to execute wrath on him that practices that which is evil."
+          },
+          "text": "for he is the minister of God to thee for good. But if thou do that which is evil, be afraid; for he wears not the sword in vain; for he is the minister of God, an avenger to execute wrath on him that practices that which is evil.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "Wherefore it is needful that you submit yourselves, not only because of wrath, but also because of conscience."
+          },
+          "text": "Wherefore it is needful that you submit yourselves, not only because of wrath, but also because of conscience.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "For, for this reason you pay tribute also; for they are the ministers of God attending continually to this very thing."
+          },
+          "text": "For, for this reason you pay tribute also; for they are the ministers of God attending continually to this very thing.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "Render to all their dues: tribute to whom tribute is due, custom to whom custom, fear to whom fear, honor to whom honor."
+          },
+          "text": "Render to all their dues: tribute to whom tribute is due, custom to whom custom, fear to whom fear, honor to whom honor.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "Owe no one any thing, except to love one another; for he that loves another has fulfilled the law."
+          },
+          "text": "Owe no one any thing, except to love one another; for he that loves another has fulfilled the law.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "For this, Thou shalt not commit adultery, Thou shalt not kill, Thou shalt not steal, Thou shalt not desire, and, if there is any other commandment, it is briefly summed up in this saying, in this: Thou shalt love thy neighbor as thyself."
+          },
+          "text": "For this, Thou shalt not commit adultery, Thou shalt not kill, Thou shalt not steal, Thou shalt not desire, and, if there is any other commandment, it is briefly summed up in this saying, in this: Thou shalt love thy neighbor as thyself.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "Love works no evil to the neighbor: love, therefore, is the fulfillment of the law."
+          },
+          "text": "Love works no evil to the neighbor: love, therefore, is the fulfillment of the law.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "And this, knowing the time, that it is the hour, at which we should have already awaked out of sleep; for now is our salvation nearer than when we believed."
+          },
+          "text": "And this, knowing the time, that it is the hour, at which we should have already awaked out of sleep; for now is our salvation nearer than when we believed.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "The night is far spent, the day is at hand. Let us therefore put off the works of darkness, and let us put on the armor of light."
+          },
+          "text": "The night is far spent, the day is at hand. Let us therefore put off the works of darkness, and let us put on the armor of light.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "Let us walk becomingly as in the day, not in riotings and drunkenness, not in lewdness and wantonness, not in contention and envy;"
+          },
+          "text": "Let us walk becomingly as in the day, not in riotings and drunkenness, not in lewdness and wantonness, not in contention and envy;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "but put on the Lord Jesus Christ, and make no provision for the desires of the flesh."
+          },
+          "text": "but put on the Lord Jesus Christ, and make no provision for the desires of the flesh.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "Now, him that is weak in the faith receive, not to judgments of thoughts."
+          },
+          "text": "Now, him that is weak in the faith receive, not to judgments of thoughts.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "One believes that he may eat all things, another who is weak eats"
+          },
+          "text": "One believes that he may eat all things, another who is weak eats",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "Let not him that eats despise him that eats not; and let not him that eats not judge him that eats; for God has received him."
+          },
+          "text": "Let not him that eats despise him that eats not; and let not him that eats not judge him that eats; for God has received him.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "Who art thou that judgest another man’s servant? To his own master he stands or falls; but he shall stand, for the Lord is able to make him stand."
+          },
+          "text": "Who art thou that judgest another man’s servant? To his own master he stands or falls; but he shall stand, for the Lord is able to make him stand.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "One esteems one day better than another; another esteems every day alike: let each one be fully persuaded in his own mind."
+          },
+          "text": "One esteems one day better than another; another esteems every day alike: let each one be fully persuaded in his own mind.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "He that regards the day, to the Lord he regards it. And he that eats, to the Lord he eats, for he gives thanks to God; and he that eats not, to the Lord he eats not, and gives thanks to God."
+          },
+          "text": "He that regards the day, to the Lord he regards it. And he that eats, to the Lord he eats, for he gives thanks to God; and he that eats not, to the Lord he eats not, and gives thanks to God.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "For no one of us lives to himself, and no one dies to himself;"
+          },
+          "text": "For no one of us lives to himself, and no one dies to himself;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "for if we live, to the Lord we live, and if we die, to the Lord we die. If, then, we live, and if we die, the Lord’s are we."
+          },
+          "text": "for if we live, to the Lord we live, and if we die, to the Lord we die. If, then, we live, and if we die, the Lord’s are we.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "For, for this purpose Christ died and lived, that he might be Lord both of the dead and the living."
+          },
+          "text": "For, for this purpose Christ died and lived, that he might be Lord both of the dead and the living.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "But why judgest thou thy brother? And why dost thou despise thy brother? For we must all stand before the judgment-seat of God."
+          },
+          "text": "But why judgest thou thy brother? And why dost thou despise thy brother? For we must all stand before the judgment-seat of God.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "For it is written: As I live, says the Lord, every knee shall bow to me, and every tongue shall confess to God."
+          },
+          "text": "For it is written: As I live, says the Lord, every knee shall bow to me, and every tongue shall confess to God.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "So, then, each one of us shall give an account of himself to God."
+          },
+          "text": "So, then, each one of us shall give an account of himself to God.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "No longer, therefore, let us judge one another; but judge this rather, to put no stumbling-block or occasion of falling in your brother’s way."
+          },
+          "text": "No longer, therefore, let us judge one another; but judge this rather, to put no stumbling-block or occasion of falling in your brother’s way.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "I know and am persuaded in the Lord Jesus that nothing is unclean of itself, but to him that thinks that anything is unclean, to him it is unclean."
+          },
+          "text": "I know and am persuaded in the Lord Jesus that nothing is unclean of itself, but to him that thinks that anything is unclean, to him it is unclean.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {
+            "text": "For if on account of meat thy brother is grieved, thou no longer walkest according to love. Do not by thy meat destroy him for whom Christ died."
+          },
+          "text": "For if on account of meat thy brother is grieved, thou no longer walkest according to love. Do not by thy meat destroy him for whom Christ died.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {
+            "text": "Let not, then, your good be evil spoken of."
+          },
+          "text": "Let not, then, your good be evil spoken of.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {
+            "text": "For the kingdom of God is not eating and drinking, but righteousness and peace and joy in the Holy Spirit;"
+          },
+          "text": "For the kingdom of God is not eating and drinking, but righteousness and peace and joy in the Holy Spirit;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {
+            "text": "for he that in this serves Christ is acceptable to God and approved by men."
+          },
+          "text": "for he that in this serves Christ is acceptable to God and approved by men.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 19,
+          "sinaiticus": {
+            "text": "So, then, let us pursue the things of peace, and things by which we may edify one another."
+          },
+          "text": "So, then, let us pursue the things of peace, and things by which we may edify one another.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {
+            "text": "Do not for the sake of meat overthrow the work of God. All things, indeed, are clean; but it is evil for the man that eats so as to give offense:"
+          },
+          "text": "Do not for the sake of meat overthrow the work of God. All things, indeed, are clean; but it is evil for the man that eats so as to give offense:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 21,
+          "sinaiticus": {
+            "text": "it is good not to eat flesh, neither to drink wine, nor anything by which thy brother stumbles."
+          },
+          "text": "it is good not to eat flesh, neither to drink wine, nor anything by which thy brother stumbles.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 22,
+          "sinaiticus": {
+            "text": "The faith that thou hast, have thou to thyself in the sight of God. Blessed is he that judges not himself in that which he allows;290"
+          },
+          "text": "The faith that thou hast, have thou to thyself in the sight of God. Blessed is he that judges not himself in that which he allows;290",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 23,
+          "sinaiticus": {
+            "text": "he that doubts is condemned if he eat, because he eats not from faith; and everything that is not from faith is sin."
+          },
+          "text": "he that doubts is condemned if he eat, because he eats not from faith; and everything that is not from faith is sin.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "Now we the strong ought to bear the infirmities of the weak, and not to please ourselves."
+          },
+          "text": "Now we the strong ought to bear the infirmities of the weak, and not to please ourselves.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "Let each one of us please his neighbor, for his good with a view to edification;"
+          },
+          "text": "Let each one of us please his neighbor, for his good with a view to edification;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "for Christ pleased not himself, but, as it is written: The reproaches of them that reproached thee fell on me."
+          },
+          "text": "for Christ pleased not himself, but, as it is written: The reproaches of them that reproached thee fell on me.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "For whatever things were formerly written, were written for our instruction, that we, through the patience and the comfort of the Scripture, might have hope."
+          },
+          "text": "For whatever things were formerly written, were written for our instruction, that we, through the patience and the comfort of the Scripture, might have hope.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "Now may the God of patience and of comfort grant to you to be of the same mind one toward another according to Christ Jesus,"
+          },
+          "text": "Now may the God of patience and of comfort grant to you to be of the same mind one toward another according to Christ Jesus,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "that with one mind you may with one mouth glorify the God and Father of our Lord Jesus Christ."
+          },
+          "text": "that with one mind you may with one mouth glorify the God and Father of our Lord Jesus Christ.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "Wherefore, receive one another, as Christ also received you, to the glory of God."
+          },
+          "text": "Wherefore, receive one another, as Christ also received you, to the glory of God.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "For I say that Christ became a minister of the circumcision for the truth of God, that he might confirm the promises made to the fathers,"
+          },
+          "text": "For I say that Christ became a minister of the circumcision for the truth of God, that he might confirm the promises made to the fathers,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "and that the Gentiles might glorify God for his mercy, as it is written: For this cause will I give thanks to thee among the Gentiles, and to thy name will I sing."
+          },
+          "text": "and that the Gentiles might glorify God for his mercy, as it is written: For this cause will I give thanks to thee among the Gentiles, and to thy name will I sing.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "And again he says: Rejoice, you Gentiles, with his people."
+          },
+          "text": "And again he says: Rejoice, you Gentiles, with his people.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "And again: Praise the Lord, all you Gentiles, and applaud him, all you peoples."
+          },
+          "text": "And again: Praise the Lord, all you Gentiles, and applaud him, all you peoples.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "And again Isaiah says: There shall be a root of Jesse, and he that rises to rule the Gentiles; in him shall Gentiles hope."
+          },
+          "text": "And again Isaiah says: There shall be a root of Jesse, and he that rises to rule the Gentiles; in him shall Gentiles hope.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "Now may the God of hope fill you with all joy and peace in believing, in order that you may abound in hope in the power of the Holy Spirit."
+          },
+          "text": "Now may the God of hope fill you with all joy and peace in believing, in order that you may abound in hope in the power of the Holy Spirit.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "Now, my brethren, I am persuaded, even I myself, concerning you, that you also yourselves are full of goodness, having been filled with all knowledge, able also to admonish one another."
+          },
+          "text": "Now, my brethren, I am persuaded, even I myself, concerning you, that you also yourselves are full of goodness, having been filled with all knowledge, able also to admonish one another.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {
+            "text": "I have, however, written more boldly to you, brethren, in some measure, as putting you in mind because of the grace that is given to me by God,"
+          },
+          "text": "I have, however, written more boldly to you, brethren, in some measure, as putting you in mind because of the grace that is given to me by God,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {
+            "text": "that I should be a minister of Christ Jesus to the Gentiles, ministering as a priest in the gospel of God, that the offering of the Gentiles might become acceptable, being sanctified in the Holy"
+          },
+          "text": "that I should be a minister of Christ Jesus to the Gentiles, ministering as a priest in the gospel of God, that the offering of the Gentiles might become acceptable, being sanctified in the Holy",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {
+            "text": "I have, therefore, my boasting in Christ Jesus in things pertaining to God;"
+          },
+          "text": "I have, therefore, my boasting in Christ Jesus in things pertaining to God;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {
+            "text": "for I will not dare to speak of any of the things that Christ did not work through me for the obedience of the Gentiles, by word and deed,"
+          },
+          "text": "for I will not dare to speak of any of the things that Christ did not work through me for the obedience of the Gentiles, by word and deed,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 19,
+          "sinaiticus": {
+            "text": "in the power of signs and wonders, in the power of the Spirit of God, so that from Jerusalem and round about as far as Illyricum I have fully preached the gospel of Christ."
+          },
+          "text": "in the power of signs and wonders, in the power of the Spirit of God, so that from Jerusalem and round about as far as Illyricum I have fully preached the gospel of Christ.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {
+            "text": "But so making it a point of honor, I have preached the gospel not where Christ was named, that I might not build on another’s foundation,"
+          },
+          "text": "But so making it a point of honor, I have preached the gospel not where Christ was named, that I might not build on another’s foundation,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 21,
+          "sinaiticus": {
+            "text": "but as it is written: They to whom no message came concerning him, shall see, and they who have not heard, shall understand."
+          },
+          "text": "but as it is written: They to whom no message came concerning him, shall see, and they who have not heard, shall understand.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 22,
+          "sinaiticus": {
+            "text": "For which cause also I have been hindered many times from coming to you;"
+          },
+          "text": "For which cause also I have been hindered many times from coming to you;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 23,
+          "sinaiticus": {
+            "text": "but now, no longer having a place in these parts, and having for many years a strong desire to come to you,"
+          },
+          "text": "but now, no longer having a place in these parts, and having for many years a strong desire to come to you,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 24,
+          "sinaiticus": {
+            "text": "whenever I take my journey into Spain; for I hope, in passing through, to see you, and by you to be sent forward thither, if first I may be in some measure filled with you."
+          },
+          "text": "whenever I take my journey into Spain; for I hope, in passing through, to see you, and by you to be sent forward thither, if first I may be in some measure filled with you.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 25,
+          "sinaiticus": {
+            "text": "But now I am going to Jerusalem, ministering to the saints."
+          },
+          "text": "But now I am going to Jerusalem, ministering to the saints.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 26,
+          "sinaiticus": {
+            "text": "For Macedonia and Achaia have been pleased to make a contribution for the poor of the saints that are in Jerusalem."
+          },
+          "text": "For Macedonia and Achaia have been pleased to make a contribution for the poor of the saints that are in Jerusalem.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 27,
+          "sinaiticus": {
+            "text": "For they have been pleased, and their debtors they are; for if the Gentiles have shared in their spiritual things, they ought also to minister to them in carnal things."
+          },
+          "text": "For they have been pleased, and their debtors they are; for if the Gentiles have shared in their spiritual things, they ought also to minister to them in carnal things.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 28,
+          "sinaiticus": {
+            "text": "Having, therefore, performed this, and having secured to them this fruit, I will return through you into Spain;"
+          },
+          "text": "Having, therefore, performed this, and having secured to them this fruit, I will return through you into Spain;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 29,
+          "sinaiticus": {
+            "text": "but I know that in coming to you I shall come in the fulness of the blessing of Christ."
+          },
+          "text": "but I know that in coming to you I shall come in the fulness of the blessing of Christ.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 30,
+          "sinaiticus": {
+            "text": "But I beseech you, brethren, through our Lord Jesus Christ, and through the love of the Spirit, that you strive together with me in prayers to God for me,"
+          },
+          "text": "But I beseech you, brethren, through our Lord Jesus Christ, and through the love of the Spirit, that you strive together with me in prayers to God for me,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 31,
+          "sinaiticus": {
+            "text": "that I may be delivered from the disobedient in Judea, and that my service which is for Jerusalem may be acceptable to the saints,"
+          },
+          "text": "that I may be delivered from the disobedient in Judea, and that my service which is for Jerusalem may be acceptable to the saints,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 32,
+          "sinaiticus": {
+            "text": "that, coming to you, in joy through the will of God, I may with you be refreshed."
+          },
+          "text": "that, coming to you, in joy through the will of God, I may with you be refreshed.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 33,
+          "sinaiticus": {
+            "text": "The God of peace be with you all. Amen."
+          },
+          "text": "The God of peace be with you all. Amen.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "I commend to you Phebe, our sister, who is a deaconess of the church that is in Cenchrea,292"
+          },
+          "text": "I commend to you Phebe, our sister, who is a deaconess of the church that is in Cenchrea,292",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "that you receive her in the Lord in a manner worthy of saints, and that you aid her in whatever matter she may have need of you; for she has been a helper of many, of myself also."
+          },
+          "text": "that you receive her in the Lord in a manner worthy of saints, and that you aid her in whatever matter she may have need of you; for she has been a helper of many, of myself also.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "Salute Prisca and Aquila, my fellow-laborers in Christ Jesus,"
+          },
+          "text": "Salute Prisca and Aquila, my fellow-laborers in Christ Jesus,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "who for my life laid down their own necks, to whom not I only give thanks, but all the churches of the Gentiles:"
+          },
+          "text": "who for my life laid down their own necks, to whom not I only give thanks, but all the churches of the Gentiles:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "salute also the church that is in their house. Salute Epenetus, my beloved, who is the firstfruits of Asia to Christ."
+          },
+          "text": "salute also the church that is in their house. Salute Epenetus, my beloved, who is the firstfruits of Asia to Christ.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "Salute Mary, who labored much for us."
+          },
+          "text": "Salute Mary, who labored much for us.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "Salute Andronicus and Junias, my kinsmen and my fellow- prisoners, who are well known among the apostles, who also were in Christ before me."
+          },
+          "text": "Salute Andronicus and Junias, my kinsmen and my fellow- prisoners, who are well known among the apostles, who also were in Christ before me.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "Salute Amplias, my beloved in the Lord."
+          },
+          "text": "Salute Amplias, my beloved in the Lord.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "Salute Urbanus, my fellow-laborer in Christ, and Stachys, my beloved."
+          },
+          "text": "Salute Urbanus, my fellow-laborer in Christ, and Stachys, my beloved.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "Salute Apelles, approved in Christ. Salute those who are of the household of Aristobulus."
+          },
+          "text": "Salute Apelles, approved in Christ. Salute those who are of the household of Aristobulus.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "Salute Herodion my kinsman. Salute those who are of the household of Narcissus, who are in the Lord."
+          },
+          "text": "Salute Herodion my kinsman. Salute those who are of the household of Narcissus, who are in the Lord.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "Salute Tryphsena and Tryphosa, who labored in the Lord. Salute Persis the beloved, who labored much in the Lord."
+          },
+          "text": "Salute Tryphsena and Tryphosa, who labored in the Lord. Salute Persis the beloved, who labored much in the Lord.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "Salute Rufus, the chosen in the Lord, and his mother and mine."
+          },
+          "text": "Salute Rufus, the chosen in the Lord, and his mother and mine.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "Salute Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the brethren that are with them."
+          },
+          "text": "Salute Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the brethren that are with them.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {
+            "text": "Salute Philologus and Julia, Nereus and his sister, and Olympas, and all the saints that are with them."
+          },
+          "text": "Salute Philologus and Julia, Nereus and his sister, and Olympas, and all the saints that are with them.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {
+            "text": "Salute one another with a holy kiss. All the churches of Christ salute you."
+          },
+          "text": "Salute one another with a holy kiss. All the churches of Christ salute you.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {
+            "text": "Now I beseech you, brethren, to mark those that cause divisions and offenses contrary to the teaching that you learned, and turn away from them;"
+          },
+          "text": "Now I beseech you, brethren, to mark those that cause divisions and offenses contrary to the teaching that you learned, and turn away from them;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {
+            "text": "for such serve not our Lord Christ, but their own belly, and through good words and fair speeches deceive the hearts of the simple."
+          },
+          "text": "for such serve not our Lord Christ, but their own belly, and through good words and fair speeches deceive the hearts of the simple.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 19,
+          "sinaiticus": {
+            "text": "For your obedience has come abroad to all; I therefore rejoice over you: I desire, however, that you be wise in regard to that which is good, but harmless in regard to that which is evil."
+          },
+          "text": "For your obedience has come abroad to all; I therefore rejoice over you: I desire, however, that you be wise in regard to that which is good, but harmless in regard to that which is evil.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {
+            "text": "And the God of peace will bruise Satan under your feet shortly. The grace of our Lord Jesus Christ be with you."
+          },
+          "text": "And the God of peace will bruise Satan under your feet shortly. The grace of our Lord Jesus Christ be with you.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 21,
+          "sinaiticus": {
+            "text": "Timothy my fellow-laborer salutes you: Lucius also, and Jason, and Sosipater, my kinsman."
+          },
+          "text": "Timothy my fellow-laborer salutes you: Lucius also, and Jason, and Sosipater, my kinsman.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 23,
+          "sinaiticus": {
+            "text": "Gaius my host, and the host of the whole church, salutes you. Erastus, the treasurer of the city, salutes you; and Quartus, our brother."
+          },
+          "text": "Gaius my host, and the host of the whole church, salutes you. Erastus, the treasurer of the city, salutes you; and Quartus, our brother.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 25,
+          "sinaiticus": {
+            "text": "Now to him who is able to establish you according to my gospel and the preaching of Jesus Christ, according to the revelation of the mystery that was kept in silence during eternal times,"
+          },
+          "text": "Now to him who is able to establish you according to my gospel and the preaching of Jesus Christ, according to the revelation of the mystery that was kept in silence during eternal times,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 26,
+          "sinaiticus": {
+            "text": "but is now made manifest, and through the Scriptures of the prophets, according to the commandment of the eternal God, made known for obedience of faith among all nations,"
+          },
+          "text": "but is now made manifest, and through the Scriptures of the prophets, according to the commandment of the eternal God, made known for obedience of faith among all nations,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 27,
+          "sinaiticus": {
+            "text": "to the only wise God, through Jesus Christ: to whom be glory through the ages. Amen.294"
+          },
+          "text": "to the only wise God, through Jesus Christ: to whom be glory through the ages. Amen.294",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    }
+  ]
+}

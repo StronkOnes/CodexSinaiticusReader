@@ -1,33 +1,38 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Codex Sinaiticus Reader
+
+This is a web application for reading the Codex Sinaiticus, one of the most important and oldest surviving manuscripts of the Greek Bible.
+
+## Description
+
+The Codex Sinaiticus Reader provides a simple and modern interface for browsing and reading the text of the Codex Sinaiticus. The application is designed to be easy to use, with a focus on readability and a clean user experience.
+
+## Features
+
+- **Browse the Codex Sinaiticus:** Read the ancient text with ease.
+- **Dark Mode:** Switch between light and dark themes for comfortable reading in any environment.
+- **Modern UI:** A clean and intuitive interface built with Material-UI.
+- **Responsive Design:** The application is designed to work on both desktop and mobile devices.
 
 ## Getting Started
 
 First, run the development server:
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Technologies Used
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- [Next.js](https://nextjs.org/) - React framework for production.
+- [React](https://reactjs.org/) - A JavaScript library for building user interfaces.
+- [Material-UI](https://mui.com/) - A popular React UI framework.
+- [Fuse.js](https://fusejs.io/) - For fuzzy-searching.
+- [TypeScript](https://www.typescriptlang.org/) - A typed superset of JavaScript.
 
 ## Deploy on Vercel
 

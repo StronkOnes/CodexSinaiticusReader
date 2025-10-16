@@ -1,0 +1,1084 @@
+{
+  "id": "1jo",
+  "name": "Epistle of John 1st",
+  "order": 14,
+  "section": "New Testament",
+  "folios": [],
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "That which was from the beginning, which we have heard, which we have seen with our eyes, which we looked upon and our hands handled, of the word of life;"
+          },
+          "text": "That which was from the beginning, which we have heard, which we have seen with our eyes, which we looked upon and our hands handled, of the word of life;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "and the life was manifested, and we have seen and do testify and declare to you the life eternal, which was with the Father and was manifested to us:"
+          },
+          "text": "and the life was manifested, and we have seen and do testify and declare to you the life eternal, which was with the Father and was manifested to us:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "that which we have seen and heard, declare we to you, that you also may have fellowship with us. And our fellowship indeed is with the Father and with his Son Jesus Christ."
+          },
+          "text": "that which we have seen and heard, declare we to you, that you also may have fellowship with us. And our fellowship indeed is with the Father and with his Son Jesus Christ.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "And these things write we to you, that your joy may be made full."
+          },
+          "text": "And these things write we to you, that your joy may be made full.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "And this is the message that we have heard from him, and declare again to you, that God is light and darkness in him there is none."
+          },
+          "text": "And this is the message that we have heard from him, and declare again to you, that God is light and darkness in him there is none.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "If we say that we have fellowship with him, and walk in darkness, we lie and do not the truth;"
+          },
+          "text": "If we say that we have fellowship with him, and walk in darkness, we lie and do not the truth;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "but if we walk in the light as he himself is in the light, we have fellowship one with another, and the blood of Jesus his Son cleanses us from all sin."
+          },
+          "text": "but if we walk in the light as he himself is in the light, we have fellowship one with another, and the blood of Jesus his Son cleanses us from all sin.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "If we say that we have no sin, we deceive ourselves and the truth is not in us."
+          },
+          "text": "If we say that we have no sin, we deceive ourselves and the truth is not in us.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "If we confess our sins, faithful is he and righteous to forgive us the sins and cleanse us from all unrighteousness."
+          },
+          "text": "If we confess our sins, faithful is he and righteous to forgive us the sins and cleanse us from all unrighteousness.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "If we say that we have not sinned, we make him a liar, and his word is not in us,"
+          },
+          "text": "If we say that we have not sinned, we make him a liar, and his word is not in us,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "My little children, these things write I to you that you sin not. And if any one sin, we have an advocate with the Father, Jesus Christ the righteous;"
+          },
+          "text": "My little children, these things write I to you that you sin not. And if any one sin, we have an advocate with the Father, Jesus Christ the righteous;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "and he himself is the expiation for our sins, not for ours only, however, but also for the whole world."
+          },
+          "text": "and he himself is the expiation for our sins, not for ours only, however, but also for the whole world.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "And in this we know that we have known him, if we keep his commandments."
+          },
+          "text": "And in this we know that we have known him, if we keep his commandments.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "He that says: I have known him and keeps not his commandments is a liar, and the truth is not in him;"
+          },
+          "text": "He that says: I have known him and keeps not his commandments is a liar, and the truth is not in him;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "but whoever keeps his word, truly in him has the love of God been perfected. In this we know that we are in him."
+          },
+          "text": "but whoever keeps his word, truly in him has the love of God been perfected. In this we know that we are in him.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "He that says that he abides in him ought himself also so to walk as"
+          },
+          "text": "He that says that he abides in him ought himself also so to walk as",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "Beloved, no new commandment write I to you, but an old commandment, which you had from the beginning: the old commandment is the word which you heard."
+          },
+          "text": "Beloved, no new commandment write I to you, but an old commandment, which you had from the beginning: the old commandment is the word which you heard.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "Again a new commandment write I to you, which thing is true in him and in you, because the darkness is passing away and the true light now shines."
+          },
+          "text": "Again a new commandment write I to you, which thing is true in him and in you, because the darkness is passing away and the true light now shines.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "He that says that he is in the light, and hates his brother, is in darkness till now."
+          },
+          "text": "He that says that he is in the light, and hates his brother, is in darkness till now.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "He that loves his brother abides in the light, and there is no stumbling-block in him;"
+          },
+          "text": "He that loves his brother abides in the light, and there is no stumbling-block in him;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "but he that hates his brother is in darkness, and walks in darkness, and knows not whither he goes, because darkness has blinded his eyes."
+          },
+          "text": "but he that hates his brother is in darkness, and walks in darkness, and knows not whither he goes, because darkness has blinded his eyes.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "I write to you, little children, because your sins have been forgiven for his name’s sake."
+          },
+          "text": "I write to you, little children, because your sins have been forgiven for his name’s sake.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "I write to you, fathers, because you have known him that is from the beginning. I write to you, young men, because you have overcome the wicked one. I have written to you, little children, because you have known the Father."
+          },
+          "text": "I write to you, fathers, because you have known him that is from the beginning. I write to you, young men, because you have overcome the wicked one. I have written to you, little children, because you have known the Father.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "I have written to you, fathers, because you have known him that is from the beginning. I have written to you, young men, because you are strong, and the word of God abides in you, and you have overcome the wicked one,"
+          },
+          "text": "I have written to you, fathers, because you have known him that is from the beginning. I have written to you, young men, because you are strong, and the word of God abides in you, and you have overcome the wicked one,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {
+            "text": "Love not the world, neither the things that are in the world. If any one love the world, the love of the Father is not in him;"
+          },
+          "text": "Love not the world, neither the things that are in the world. If any one love the world, the love of the Father is not in him;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {
+            "text": "because all that is in the world, the desire of the flesh and the desire of the eyes and the pride of life, is not of the Father, but is of the world"
+          },
+          "text": "because all that is in the world, the desire of the flesh and the desire of the eyes and the pride of life, is not of the Father, but is of the world",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {
+            "text": "And the world is passing away and the desire of it; but he that does the will of God abides for ever."
+          },
+          "text": "And the world is passing away and the desire of it; but he that does the will of God abides for ever.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {
+            "text": "Little children, it is the last time, and as you heard that antichrist comes, even now many antichrists have risen: whence we know that it is the last time."
+          },
+          "text": "Little children, it is the last time, and as you heard that antichrist comes, even now many antichrists have risen: whence we know that it is the last time.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 19,
+          "sinaiticus": {
+            "text": "They went out from us, but were not of us; for if they had been of us, they would have remained with us; but that they might be made manifest that they are all not of us."
+          },
+          "text": "They went out from us, but were not of us; for if they had been of us, they would have remained with us; but that they might be made manifest that they are all not of us.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {
+            "text": "And you have an anointing from the holy One, and know all things."
+          },
+          "text": "And you have an anointing from the holy One, and know all things.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 21,
+          "sinaiticus": {
+            "text": "I have not written to you because you know not the truth, but because you know it, and that no lie is from the truth."
+          },
+          "text": "I have not written to you because you know not the truth, but because you know it, and that no lie is from the truth.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 22,
+          "sinaiticus": {
+            "text": "Who is the liar, but he that denies that Jesus is the Christ? This is the antichrist that denies the Father and the Son."
+          },
+          "text": "Who is the liar, but he that denies that Jesus is the Christ? This is the antichrist that denies the Father and the Son.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 23,
+          "sinaiticus": {
+            "text": "Every one that denies the Son, neither has he the Father: he that confesses the Son has the Father also.426"
+          },
+          "text": "Every one that denies the Son, neither has he the Father: he that confesses the Son has the Father also.426",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 24,
+          "sinaiticus": {
+            "text": "Let that which you heard from the beginning abide in you. If that abide in you which you heard from the beginning, you also shall abide in the Son and in the Father."
+          },
+          "text": "Let that which you heard from the beginning abide in you. If that abide in you which you heard from the beginning, you also shall abide in the Son and in the Father.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 25,
+          "sinaiticus": {
+            "text": "And this is the promise that he himself promised us, the life eternal."
+          },
+          "text": "And this is the promise that he himself promised us, the life eternal.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 26,
+          "sinaiticus": {
+            "text": "These things I have written to you concerning them that deceive you."
+          },
+          "text": "These things I have written to you concerning them that deceive you.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 27,
+          "sinaiticus": {
+            "text": "And you — the anointing which you received from him abides in you, and you have no need that any one teach, but as his anointing teaches you concerning all things, and is true and is no lie, even as it has taught you, abide in it."
+          },
+          "text": "And you — the anointing which you received from him abides in you, and you have no need that any one teach, but as his anointing teaches you concerning all things, and is true and is no lie, even as it has taught you, abide in it.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 28,
+          "sinaiticus": {
+            "text": "And now, little children, abide in him that when he shall be manifested we may have boldness, and not be ashamed away from him in his coming."
+          },
+          "text": "And now, little children, abide in him that when he shall be manifested we may have boldness, and not be ashamed away from him in his coming.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 29,
+          "sinaiticus": {
+            "text": "If you know that he is righteous, you know that every one also that works righteousness has been begotten of him."
+          },
+          "text": "If you know that he is righteous, you know that every one also that works righteousness has been begotten of him.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "Behold what manner of love the Father has bestowed on us that we should be called children of God. Therefore the world knows us not, because it knew him not."
+          },
+          "text": "Behold what manner of love the Father has bestowed on us that we should be called children of God. Therefore the world knows us not, because it knew him not.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "Beloved, now are we children of God, and it has not yet been made manifest what we shall be. We know that when it shall be made manifest we shall be like him, because we, shall see him as he is."
+          },
+          "text": "Beloved, now are we children of God, and it has not yet been made manifest what we shall be. We know that when it shall be made manifest we shall be like him, because we, shall see him as he is.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "And every one that has this hope on him purifies himself, as he is pure."
+          },
+          "text": "And every one that has this hope on him purifies himself, as he is pure.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "Every one that practices sin practices lawlessness also, and sin is lawlessness."
+          },
+          "text": "Every one that practices sin practices lawlessness also, and sin is lawlessness.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "And you know that he was manifested that he might take away sins, and sin is not in him."
+          },
+          "text": "And you know that he was manifested that he might take away sins, and sin is not in him.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "Every one that abides in him sins not: whoever sins has not seen him, neither known him."
+          },
+          "text": "Every one that abides in him sins not: whoever sins has not seen him, neither known him.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "Little children, let no one deceive you. He that practices righteousness is righteous, even as he is righteous:"
+          },
+          "text": "Little children, let no one deceive you. He that practices righteousness is righteous, even as he is righteous:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "he that practices sin is of the devil, because the devil sins from the beginning. For this purpose was the Son of God manifested, that he might destroy the works of the devil."
+          },
+          "text": "he that practices sin is of the devil, because the devil sins from the beginning. For this purpose was the Son of God manifested, that he might destroy the works of the devil.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "Whoever has been begotten of God does not practice sin, because his seed abides in him; and he can not sin, because he has been begotten of God."
+          },
+          "text": "Whoever has been begotten of God does not practice sin, because his seed abides in him; and he can not sin, because he has been begotten of God.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "In this the children of God are manifest and the children of the devil: whoever practices not righteousness is not of God, also he that"
+          },
+          "text": "In this the children of God are manifest and the children of the devil: whoever practices not righteousness is not of God, also he that",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "For this is the message that you heard from the beginning, that we should love one another,"
+          },
+          "text": "For this is the message that you heard from the beginning, that we should love one another,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "not as Cain was of the wicked one and slew his brother; and for what cause did he slay him? because his works were evil, but those of his brother righteous."
+          },
+          "text": "not as Cain was of the wicked one and slew his brother; and for what cause did he slay him? because his works were evil, but those of his brother righteous.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "Wonder not, brethren, if the world hates you."
+          },
+          "text": "Wonder not, brethren, if the world hates you.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "We know that we have passed from death into life, because we love the brethren: he that loves not abides in death."
+          },
+          "text": "We know that we have passed from death into life, because we love the brethren: he that loves not abides in death.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {
+            "text": "Whoever hates his brother is a murderer, and you know that no murderer has eternal life abiding in him."
+          },
+          "text": "Whoever hates his brother is a murderer, and you know that no murderer has eternal life abiding in him.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {
+            "text": "In this we have known the love, because he laid down his life for us; and we ought to lay down our lives for the brethren."
+          },
+          "text": "In this we have known the love, because he laid down his life for us; and we ought to lay down our lives for the brethren.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {
+            "text": "But whoever has this world’s goods, and sees his brother have need, and shuts up his bowels from him, how abides the love of God in him?"
+          },
+          "text": "But whoever has this world’s goods, and sees his brother have need, and shuts up his bowels from him, how abides the love of God in him?",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {
+            "text": "Little children, let us not love in word, neither in tongue, but in deed and in truth."
+          },
+          "text": "Little children, let us not love in word, neither in tongue, but in deed and in truth.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 19,
+          "sinaiticus": {
+            "text": "And in this we know that we are of the truth, and shall persuade our hearts before him;"
+          },
+          "text": "And in this we know that we are of the truth, and shall persuade our hearts before him;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {
+            "text": "because if our hearts condemn us, God is greater than our heart, and knows all things."
+          },
+          "text": "because if our hearts condemn us, God is greater than our heart, and knows all things.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 21,
+          "sinaiticus": {
+            "text": "Beloved, if our heart condemn us not, we have confidence toward God,"
+          },
+          "text": "Beloved, if our heart condemn us not, we have confidence toward God,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 22,
+          "sinaiticus": {
+            "text": "and whatever we ask we receive from him, because we keep his commandments and do the things that are pleasing in his sight."
+          },
+          "text": "and whatever we ask we receive from him, because we keep his commandments and do the things that are pleasing in his sight.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 23,
+          "sinaiticus": {
+            "text": "And this is his commandment, that we should believe on the name of his Son Jesus Christ, and love one another as he gave us commandment."
+          },
+          "text": "And this is his commandment, that we should believe on the name of his Son Jesus Christ, and love one another as he gave us commandment.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 24,
+          "sinaiticus": {
+            "text": "And he that keeps his commandments abides in him and he in him; and in this we know that he abides in us, by the Spirit that he has given us."
+          },
+          "text": "And he that keeps his commandments abides in him and he in him; and in this we know that he abides in us, by the Spirit that he has given us.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "Beloved, believe not every spirit, but prove the spirits, whether they are from God; because many false prophets have gone forth into the world."
+          },
+          "text": "Beloved, believe not every spirit, but prove the spirits, whether they are from God; because many false prophets have gone forth into the world.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "In this know you the Spirit of God: every spirit that confesses that Jesus Christ is come in the flesh is of God,"
+          },
+          "text": "In this know you the Spirit of God: every spirit that confesses that Jesus Christ is come in the flesh is of God,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "and every spirit that confesses not Jesus is not of God; and this is the spirit of antichrist, of which you have heard that it comes, and now is in the world already."
+          },
+          "text": "and every spirit that confesses not Jesus is not of God; and this is the spirit of antichrist, of which you have heard that it comes, and now is in the world already.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "You are of God, little children, and have overcome them, because greater is he that is in you than he that is in the world.428"
+          },
+          "text": "You are of God, little children, and have overcome them, because greater is he that is in you than he that is in the world.428",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "They are of the world: therefore they speak of the world, and the world hears them."
+          },
+          "text": "They are of the world: therefore they speak of the world, and the world hears them.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "We are of God: he that knows God hears us, he that is not of God hears not us. By this we know the spirit of truth and the spirit of error."
+          },
+          "text": "We are of God: he that knows God hears us, he that is not of God hears not us. By this we know the spirit of truth and the spirit of error.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "Beloved, let us love one another, because love is of God, and every one that loves has been begotten of God, and knows God."
+          },
+          "text": "Beloved, let us love one another, because love is of God, and every one that loves has been begotten of God, and knows God.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "He that loves not has not known God, for God is love."
+          },
+          "text": "He that loves not has not known God, for God is love.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "In this has been manifested the love of God in us, that God has sent his Son the only Begotten into the world that we might live through him."
+          },
+          "text": "In this has been manifested the love of God in us, that God has sent his Son the only Begotten into the world that we might live through him.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "In this is love, not that we loved God, but that he loved us, and sent his Son the expiation for our sins."
+          },
+          "text": "In this is love, not that we loved God, but that he loved us, and sent his Son the expiation for our sins.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "Beloved, if God so loved us, we also ought to love one another."
+          },
+          "text": "Beloved, if God so loved us, we also ought to love one another.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "No one has seen God at any time: if we love one another, God abides in us and his love is perfected in us."
+          },
+          "text": "No one has seen God at any time: if we love one another, God abides in us and his love is perfected in us.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "In this we know that we abide in him and he in us, because he has given us of his Spirit."
+          },
+          "text": "In this we know that we abide in him and he in us, because he has given us of his Spirit.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "And we have seen and do testify that the Father has sent the Son the Saviour of the world."
+          },
+          "text": "And we have seen and do testify that the Father has sent the Son the Saviour of the world.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {
+            "text": "Whoever confesses that Jesus is the Son of God, God abides in him and he in God."
+          },
+          "text": "Whoever confesses that Jesus is the Son of God, God abides in him and he in God.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {
+            "text": "And we have known and have believed the love that God has in us. God is love, and he that abides in love abides in God and God in him."
+          },
+          "text": "And we have known and have believed the love that God has in us. God is love, and he that abides in love abides in God and God in him.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {
+            "text": "In this has been perfected the love with us, that we may have boldness in the day of judgment, because as he is we also are in this world."
+          },
+          "text": "In this has been perfected the love with us, that we may have boldness in the day of judgment, because as he is we also are in this world.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {
+            "text": "Fear is not in love, but perfect love casts out fear, because fear has punishment, but he that fears is not made perfect in love."
+          },
+          "text": "Fear is not in love, but perfect love casts out fear, because fear has punishment, but he that fears is not made perfect in love.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 19,
+          "sinaiticus": {
+            "text": "We love, because he first loved us."
+          },
+          "text": "We love, because he first loved us.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {
+            "text": "If any one say: I love God, and hate his brother, he is a liar; for he that loves not his brother, whom he has seen, God, whom he has not seen, how can he love?"
+          },
+          "text": "If any one say: I love God, and hate his brother, he is a liar; for he that loves not his brother, whom he has seen, God, whom he has not seen, how can he love?",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 21,
+          "sinaiticus": {
+            "text": "And this commandment have we from him, that he that loves God loves his brother also."
+          },
+          "text": "And this commandment have we from him, that he that loves God loves his brother also.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "Every one that believes that Jesus is the Christ, has been begotten of God; and every one that loves him that begot, loves him also that has been begotten of him."
+          },
+          "text": "Every one that believes that Jesus is the Christ, has been begotten of God; and every one that loves him that begot, loves him also that has been begotten of him.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "In this we know that we love the children of God, when we love God"
+          },
+          "text": "In this we know that we love the children of God, when we love God",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "For this is the love of God, that we keep his commandments; and his commandments are not burdensome,"
+          },
+          "text": "For this is the love of God, that we keep his commandments; and his commandments are not burdensome,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "because all that has been begotten of God overcomes the world; and this is the victory that overcomes the world, our faith."
+          },
+          "text": "because all that has been begotten of God overcomes the world; and this is the victory that overcomes the world, our faith.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "Who is he that overcomes the world but he that believes that Jesus is the Son of God?"
+          },
+          "text": "Who is he that overcomes the world but he that believes that Jesus is the Son of God?",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "This is he that came through water and blood, Jesus Christ: not in the water only, but in the water and in the blood; and it is the Spirit that testifies, because the Spirit is the truth."
+          },
+          "text": "This is he that came through water and blood, Jesus Christ: not in the water only, but in the water and in the blood; and it is the Spirit that testifies, because the Spirit is the truth.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "For they that testify are three,"
+          },
+          "text": "For they that testify are three,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "the Spirit, and the water, and the blood, and the three are one.* * Testify the same thing"
+          },
+          "text": "the Spirit, and the water, and the blood, and the three are one.* * Testify the same thing",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "If we receive the testimony of men, the testimony of God is greater; because this is the testimony of God that he has testified concerning his Son."
+          },
+          "text": "If we receive the testimony of men, the testimony of God is greater; because this is the testimony of God that he has testified concerning his Son.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "He that believes on the Son of God has the testimony in himself: he that believes not God has made him a liar, because he has not believed on the testimony that God has testified concerning his Son."
+          },
+          "text": "He that believes on the Son of God has the testimony in himself: he that believes not God has made him a liar, because he has not believed on the testimony that God has testified concerning his Son.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "And this is the testimony, that God gave us eternal life, and this life is in his Son."
+          },
+          "text": "And this is the testimony, that God gave us eternal life, and this life is in his Son.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "He that has the Son has the life: he that has not the Son of God has not the life."
+          },
+          "text": "He that has the Son has the life: he that has not the Son of God has not the life.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "These things have I written to you that you may know that you have eternal life, who believe on the name of the Son of God."
+          },
+          "text": "These things have I written to you that you may know that you have eternal life, who believe on the name of the Son of God.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "And this is the confidence that we have towards him, that if we ask anything according to his will, he hears us."
+          },
+          "text": "And this is the confidence that we have towards him, that if we ask anything according to his will, he hears us.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {
+            "text": "And if we know that he hears us as to whatever we ask, we know that we have the petition that we have asked of him."
+          },
+          "text": "And if we know that he hears us as to whatever we ask, we know that we have the petition that we have asked of him.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {
+            "text": "If any one see his brother sinning a sin not to death, he shall ask, and shall give him life, to those that sin not to death. There is a sin to death: not concerning this do I say that he should ask."
+          },
+          "text": "If any one see his brother sinning a sin not to death, he shall ask, and shall give him life, to those that sin not to death. There is a sin to death: not concerning this do I say that he should ask.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {
+            "text": "All unrighteousness is sin, and there is a sin not to death."
+          },
+          "text": "All unrighteousness is sin, and there is a sin not to death.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {
+            "text": "We know that every one that has been begotten of God sins not; but he that has been begotten of God keeps himself, and the wicked one touches him not."
+          },
+          "text": "We know that every one that has been begotten of God sins not; but he that has been begotten of God keeps himself, and the wicked one touches him not.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 19,
+          "sinaiticus": {
+            "text": "We know that we are of God, and the whole world lies in the wicked one."
+          },
+          "text": "We know that we are of God, and the whole world lies in the wicked one.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {
+            "text": "We know, however, that the Son of God has come, and has given us understanding, that we know him that is true; and we are in him that is true, in his Son Jesus Christ: This is the true God and life eternal."
+          },
+          "text": "We know, however, that the Son of God has come, and has given us understanding, that we know him that is true; and we are in him that is true, in his Son Jesus Christ: This is the true God and life eternal.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 21,
+          "sinaiticus": {
+            "text": "Little children, keep yourselves from idols.430"
+          },
+          "text": "Little children, keep yourselves from idols.430",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    }
+  ]
+}

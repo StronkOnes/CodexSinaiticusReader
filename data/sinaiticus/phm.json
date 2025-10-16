@@ -1,0 +1,264 @@
+{
+  "id": "phm",
+  "name": "Paul to Philemon",
+  "order": 19,
+  "section": "New Testament",
+  "folios": [],
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "Paul, a prisoner of Christ Jesus, and Timothy the brother, to Philemon the beloved, and our fellow-laborer,"
+          },
+          "text": "Paul, a prisoner of Christ Jesus, and Timothy the brother, to Philemon the beloved, and our fellow-laborer,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "and to Apphia the beloved, and Archippus our fellowsoldier, and to the church that is in thy house."
+          },
+          "text": "and to Apphia the beloved, and Archippus our fellowsoldier, and to the church that is in thy house.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "Grace to you and peace from God our Father and the Lord Jesus Christ."
+          },
+          "text": "Grace to you and peace from God our Father and the Lord Jesus Christ.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "I thank my God always, making mention of thee in my prayers,"
+          },
+          "text": "I thank my God always, making mention of thee in my prayers,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "hearing of thy love and faith which thou hast toward the Lord Jesus and for all the saints,"
+          },
+          "text": "hearing of thy love and faith which thou hast toward the Lord Jesus and for all the saints,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "that the fellowship of thy faith may become active in the acknowledgment of every good thing that is in us for Christ Jesus."
+          },
+          "text": "that the fellowship of thy faith may become active in the acknowledgment of every good thing that is in us for Christ Jesus.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "For we, have great gratification and comfort in thy love, because the bowels of the saints have been refreshed by thee, brother."
+          },
+          "text": "For we, have great gratification and comfort in thy love, because the bowels of the saints have been refreshed by thee, brother.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "Wherefore having great boldness in Christ to command thee what is becoming,"
+          },
+          "text": "Wherefore having great boldness in Christ to command thee what is becoming,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "because of love I rather beseech, being such a one as Paul an aged man, but now also a prisoner of Christ Jesus,"
+          },
+          "text": "because of love I rather beseech, being such a one as Paul an aged man, but now also a prisoner of Christ Jesus,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "I beseech thee in behalf of my son, whom I have begotten in my bonds, Onesimus,"
+          },
+          "text": "I beseech thee in behalf of my son, whom I have begotten in my bonds, Onesimus,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "who for some time was unprofitable to thee, but now useful to thee and to me, whom I have sent back."
+          },
+          "text": "who for some time was unprofitable to thee, but now useful to thee and to me, whom I have sent back.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "But do thou receive him, that is my own bowels,"
+          },
+          "text": "But do thou receive him, that is my own bowels,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "whom I would have retained with myself, that in thy stead he might minister to me in the bonds of the gospel;"
+          },
+          "text": "whom I would have retained with myself, that in thy stead he might minister to me in the bonds of the gospel;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "but without thy consent I wished to do nothing, that thy good deed might not be as of necessity, but according to free will;"
+          },
+          "text": "but without thy consent I wished to do nothing, that thy good deed might not be as of necessity, but according to free will;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {
+            "text": "for perhaps for this purpose he was separated from thee for an hour, that thou mightest receive him for ever,"
+          },
+          "text": "for perhaps for this purpose he was separated from thee for an hour, that thou mightest receive him for ever,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {
+            "text": "no longer as a servant, but above a servant, a brother beloved, especially by me, but how much more by thee, both in the flesh and in the Lord."
+          },
+          "text": "no longer as a servant, but above a servant, a brother beloved, especially by me, but how much more by thee, both in the flesh and in the Lord.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {
+            "text": "If, then, thou regardest me a partner, receive him as myself."
+          },
+          "text": "If, then, thou regardest me a partner, receive him as myself.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {
+            "text": "But if in anything he has wronged thee, or owes thee, charge this to me."
+          },
+          "text": "But if in anything he has wronged thee, or owes thee, charge this to me.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 19,
+          "sinaiticus": {
+            "text": "I Paul have written it with my own hand: I will repay: that I may not say to thee that thou owest even thyself to me."
+          },
+          "text": "I Paul have written it with my own hand: I will repay: that I may not say to thee that thou owest even thyself to me.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {
+            "text": "Yes, brother, let me have joy of thee in the Lord: refresh my bowels in Christ."
+          },
+          "text": "Yes, brother, let me have joy of thee in the Lord: refresh my bowels in Christ.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 21,
+          "sinaiticus": {
+            "text": "Having confidence in thy obedience, I have written to thee,"
+          },
+          "text": "Having confidence in thy obedience, I have written to thee,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 22,
+          "sinaiticus": {
+            "text": "And at the same time also prepare for me a lodging; for I hope that through your prayers I shall be given to you, as a favor."
+          },
+          "text": "And at the same time also prepare for me a lodging; for I hope that through your prayers I shall be given to you, as a favor.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 23,
+          "sinaiticus": {
+            "text": "Epaphras, my fellow-prisoner in Christ Jesus, salutes thee,"
+          },
+          "text": "Epaphras, my fellow-prisoner in Christ Jesus, salutes thee,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 24,
+          "sinaiticus": {
+            "text": "also Mark, Aristarchus, Demas, Luke, my fellow-laborers."
+          },
+          "text": "also Mark, Aristarchus, Demas, Luke, my fellow-laborers.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 25,
+          "sinaiticus": {
+            "text": "The grace of our Lord Jesus Christ be with your spirit.390 Epistle to the Hebrews"
+          },
+          "text": "The grace of our Lord Jesus Christ be with your spirit.390 Epistle to the Hebrews",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    }
+  ]
+}

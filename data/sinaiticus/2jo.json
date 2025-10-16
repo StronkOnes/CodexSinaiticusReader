@@ -1,0 +1,134 @@
+{
+  "id": "2jo",
+  "name": "Epistle of John 2",
+  "order": 25,
+  "section": "New Testament",
+  "folios": [],
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "The elder to the elect lady and her children, whom I love in truth, and not I only, but also all that have known the truth,"
+          },
+          "text": "The elder to the elect lady and her children, whom I love in truth, and not I only, but also all that have known the truth,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "because of this truth that abides in us, and shall be with us for ever."
+          },
+          "text": "because of this truth that abides in us, and shall be with us for ever.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "There shall be with you grace, mercy, peace, from God the Father, and from the Lord Jesus Christ, the Son of the Father, in truth and love."
+          },
+          "text": "There shall be with you grace, mercy, peace, from God the Father, and from the Lord Jesus Christ, the Son of the Father, in truth and love.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "I rejoiced greatly that I have found of thy children walking in the truth as we received commandment from the Father."
+          },
+          "text": "I rejoiced greatly that I have found of thy children walking in the truth as we received commandment from the Father.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "And now I beseech thee, lady, not as writing to thee a new commandment, but that which we had from the beginning, that we love one another."
+          },
+          "text": "And now I beseech thee, lady, not as writing to thee a new commandment, but that which we had from the beginning, that we love one another.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "And this is love, that we walk according to his commandments: the commandment is this: as you heard from the beginning, that you walk in it."
+          },
+          "text": "And this is love, that we walk according to his commandments: the commandment is this: as you heard from the beginning, that you walk in it.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "For many deceivers have gone out into the world, who confess not that Jesus Christ is come in the flesh: this is the deceiver and the antichrist."
+          },
+          "text": "For many deceivers have gone out into the world, who confess not that Jesus Christ is come in the flesh: this is the deceiver and the antichrist.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "Take heed to yourselves, that you lose not the things that you have wrought, but that you receive a full reward."
+          },
+          "text": "Take heed to yourselves, that you lose not the things that you have wrought, but that you receive a full reward.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "Whoever advances and abides not in the teaching of Christ has not God: he that abides in the teaching, he has both the Son and Father."
+          },
+          "text": "Whoever advances and abides not in the teaching of Christ has not God: he that abides in the teaching, he has both the Son and Father.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "If any one comes to you, and brings not this teaching, receive him not into the house, and wish him not well;"
+          },
+          "text": "If any one comes to you, and brings not this teaching, receive him not into the house, and wish him not well;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "for he that wishes well is partaker in his evil deeds."
+          },
+          "text": "for he that wishes well is partaker in his evil deeds.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "Having many things to write to you, I would not by means of paper and ink; but I hope to be with you, and speak mouth to mouth, that our joy may be full. Epistle of John 3rd"
+          },
+          "text": "Having many things to write to you, I would not by means of paper and ink; but I hope to be with you, and speak mouth to mouth, that our joy may be full. Epistle of John 3rd",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    }
+  ]
+}

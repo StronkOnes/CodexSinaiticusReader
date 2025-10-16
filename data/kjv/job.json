@@ -1,0 +1,182 @@
+{
+  "id": "job",
+  "name": "Job",
+  "order": 18,
+  "section": "Old Testament",
+  "folios": [],
+  "chapters": [
+    {
+      "chapter": 32,
+      "verses": [
+        {
+          "verse": 13,
+          "sinaiticus": {},
+          "text": "And the LORD’s anger was kindled against Israel, and he made them wander in the wilderness forty years, until all the generation, that had done evil in the sight of the LORD, was consumed.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/job/32/13"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {},
+          "text": "And, behold, ye are risen up in your fathers’ stead, an increase of sinful men, to augment yet the fierce anger of the LORD toward Israel.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/job/32/14"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {},
+          "text": "For if ye turn away from after him, he will yet again leave them in the wilderness; and ye shall destroy all this people.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/job/32/15"
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {},
+          "text": "And they came near unto him, and said, We will build sheepfolds here for our cattle, and cities for our little ones: 32:17 But we ourselves will go ready armed before the children of Israel, until we have brought them unto their place: and our little ones shall dwell in the fenced cities because of the inhabitants of the land.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/job/32/16"
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {},
+          "text": "We will not return unto our houses, until the children of Israel have inherited every man his inheritance.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/job/32/18"
+            }
+          ]
+        },
+        {
+          "verse": 19,
+          "sinaiticus": {},
+          "text": "For we will not inherit with them on yonder side Jordan, or forward; because our inheritance is fallen to us on this side Jordan eastward.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/job/32/19"
+            }
+          ]
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {},
+          "text": "And Moses said unto them, If ye will do this thing, if ye will go armed before the LORD to war, 32:21 And will go all of you armed over Jordan before the LORD, until he hath driven out his enemies from before him, 32:22 And the land be subdued before the LORD: then afterward ye shall return, and be guiltless before the LORD, and before Israel; and this land shall be your possession before the LORD.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/job/32/20"
+            }
+          ]
+        },
+        {
+          "verse": 23,
+          "sinaiticus": {},
+          "text": "But if ye will not do so, behold, ye have sinned against the LORD: and be sure your sin will find you out.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/job/32/23"
+            }
+          ]
+        },
+        {
+          "verse": 24,
+          "sinaiticus": {},
+          "text": "Build you cities for your little ones, and folds for your sheep; and do that which hath proceeded out of your mouth.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/job/32/24"
+            }
+          ]
+        },
+        {
+          "verse": 25,
+          "sinaiticus": {},
+          "text": "And the children of Gad and the children of Reuben spake unto Moses, saying, Thy servants will do as my lord commandeth.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/job/32/25"
+            }
+          ]
+        },
+        {
+          "verse": 26,
+          "sinaiticus": {},
+          "text": "Our little ones, our wives, our flocks, and all our cattle, shall be there in the cities of Gilead: 32:27 But thy servants will pass over, every man armed for war, before the LORD to battle, as my lord saith.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/job/32/26"
+            }
+          ]
+        },
+        {
+          "verse": 28,
+          "sinaiticus": {},
+          "text": "So concerning them Moses commanded Eleazar the priest, and",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": [
+            {
+              "lang": "en",
+              "translation": "KJV",
+              "url": "/full/kjv/job/32/28"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

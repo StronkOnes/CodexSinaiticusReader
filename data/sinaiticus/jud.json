@@ -1,0 +1,264 @@
+{
+  "id": "jud",
+  "name": "Epistle of Jude",
+  "order": 27,
+  "section": "New Testament",
+  "folios": [],
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "Jude, a servant of Christ Jesus, but brother of James, to the called that are beloved in God the Father, and kept for Jesus Christ."
+          },
+          "text": "Jude, a servant of Christ Jesus, but brother of James, to the called that are beloved in God the Father, and kept for Jesus Christ.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "Mercy to you and peace and love be multiplied."
+          },
+          "text": "Mercy to you and peace and love be multiplied.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "Beloved, giving all diligence to write to you concerning this common salvation, I found it necessary to write to you, exhorting you to contend for the faith once delivered to the saints."
+          },
+          "text": "Beloved, giving all diligence to write to you concerning this common salvation, I found it necessary to write to you, exhorting you to contend for the faith once delivered to the saints.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "For some men have come in by stealth, who have long ago been written of beforehand for this condemnation; ungodly men, turning the grace of our God into lasciviousness, and denying our only Master and Lord, Jesus Christ."
+          },
+          "text": "For some men have come in by stealth, who have long ago been written of beforehand for this condemnation; ungodly men, turning the grace of our God into lasciviousness, and denying our only Master and Lord, Jesus Christ.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "But I wish to put you in remembrance, though you already know all things, that the Lord, after having saved the people from the land of Egypt, the second time destroyed those that believed not:"
+          },
+          "text": "But I wish to put you in remembrance, though you already know all things, that the Lord, after having saved the people from the land of Egypt, the second time destroyed those that believed not:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "angels also that kept not their first estate, but left their own habitation, he has kept in eternal chains under darkness for the judgment of the great day:"
+          },
+          "text": "angels also that kept not their first estate, but left their own habitation, he has kept in eternal chains under darkness for the judgment of the great day:",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "how Sodom and Gomorrah and the cities about them, giving themselves over to lewdness in like manner with these men, and having gone after other flesh, are set forth as an example, suffering the punishment of eternal fire."
+          },
+          "text": "how Sodom and Gomorrah and the cities about them, giving themselves over to lewdness in like manner with these men, and having gone after other flesh, are set forth as an example, suffering the punishment of eternal fire.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "Yet still in like manner these dreamers also defile indeed the flesh, but despise dominion, and speak evil of dignities."
+          },
+          "text": "Yet still in like manner these dreamers also defile indeed the flesh, but despise dominion, and speak evil of dignities.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "But Michael the archangel, when contending with the devil he disputed about the body of Moses, dared not to bring a railing accusation, but said: The Lord rebuke thee."
+          },
+          "text": "But Michael the archangel, when contending with the devil he disputed about the body of Moses, dared not to bring a railing accusation, but said: The Lord rebuke thee.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "But these speak evil of whatever things indeed they know not, but whatever things they understand naturally as the irrational animals, in these they corrupt themselves."
+          },
+          "text": "But these speak evil of whatever things indeed they know not, but whatever things they understand naturally as the irrational animals, in these they corrupt themselves.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "Alas for them, for in the way of Cain they have walked, and in the error of Balaam they have rushed headlong for hire, and in the contradiction of Corah have they perished."
+          },
+          "text": "Alas for them, for in the way of Cain they have walked, and in the error of Balaam they have rushed headlong for hire, and in the contradiction of Corah have they perished.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "These are they that are rocks in your love-feasts, feasting with you without fear, feeding themselves; clouds without water, driven rapidly by winds; late autumnal trees without fruit, twice dead, torn up by the roots;"
+          },
+          "text": "These are they that are rocks in your love-feasts, feasting with you without fear, feeding themselves; clouds without water, driven rapidly by winds; late autumnal trees without fruit, twice dead, torn up by the roots;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 13,
+          "sinaiticus": {
+            "text": "raging waves of the sea foaming up their own shame; wandering stars, for whom the blackness of darkness has been kept forever."
+          },
+          "text": "raging waves of the sea foaming up their own shame; wandering stars, for whom the blackness of darkness has been kept forever.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 14,
+          "sinaiticus": {
+            "text": "But of these also prophesied Enoch, the seventh from Adam, saying: Behold, the Lord came in his holy myriads,"
+          },
+          "text": "But of these also prophesied Enoch, the seventh from Adam, saying: Behold, the Lord came in his holy myriads,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 15,
+          "sinaiticus": {
+            "text": "to execute judgment against all, and to convince all that are ungodly, and of all the hard things which ungodly sinners have spoken against him."
+          },
+          "text": "to execute judgment against all, and to convince all that are ungodly, and of all the hard things which ungodly sinners have spoken against him.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 16,
+          "sinaiticus": {
+            "text": "These are murmurers, complainers, walking according to their own desires, and their mouth speaks great swelling words, admiring persons for profit’s sake."
+          },
+          "text": "These are murmurers, complainers, walking according to their own desires, and their mouth speaks great swelling words, admiring persons for profit’s sake.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 17,
+          "sinaiticus": {
+            "text": "But you, beloved, be mindful of the words that were spoken before by the apostles of our Lord Jesus Christ,"
+          },
+          "text": "But you, beloved, be mindful of the words that were spoken before by the apostles of our Lord Jesus Christ,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 18,
+          "sinaiticus": {
+            "text": "that they said that at the last time there shall be scoffers walking according to their own desires in ungodliness."
+          },
+          "text": "that they said that at the last time there shall be scoffers walking according to their own desires in ungodliness.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 19,
+          "sinaiticus": {
+            "text": "These are they that separate, psychical, not having spirit."
+          },
+          "text": "These are they that separate, psychical, not having spirit.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 20,
+          "sinaiticus": {
+            "text": "But you, beloved, building yourselves up on your most holy faith, praying in the Holy Spirit,"
+          },
+          "text": "But you, beloved, building yourselves up on your most holy faith, praying in the Holy Spirit,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 21,
+          "sinaiticus": {
+            "text": "keep yourselves in the love of God, looking for the mercy of our Lord Jesus Christ to eternal life."
+          },
+          "text": "keep yourselves in the love of God, looking for the mercy of our Lord Jesus Christ to eternal life.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 22,
+          "sinaiticus": {
+            "text": "And some, indeed, reprove when they contend;"
+          },
+          "text": "And some, indeed, reprove when they contend;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 23,
+          "sinaiticus": {
+            "text": "but others save, snatching them out of the fire; and on others have compassion in a spirit of fear, hating even the garment that is spotted by the flesh."
+          },
+          "text": "but others save, snatching them out of the fire; and on others have compassion in a spirit of fear, hating even the garment that is spotted by the flesh.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 24,
+          "sinaiticus": {
+            "text": "But to him that is able to keep you without falling, and to set you in the presence of his glory blameless in exceeding joy;"
+          },
+          "text": "But to him that is able to keep you without falling, and to set you in the presence of his glory blameless in exceeding joy;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 25,
+          "sinaiticus": {
+            "text": "to the only God our Saviour, through Jesus Christ our Lord, be glory, majesty, might and authority before every age, both now and throughout all the ages: amen.436"
+          },
+          "text": "to the only God our Saviour, through Jesus Christ our Lord, be glory, majesty, might and authority before every age, both now and throughout all the ages: amen.436",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    }
+  ]
+}

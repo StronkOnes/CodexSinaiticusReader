@@ -1,0 +1,134 @@
+{
+  "id": "act29",
+  "name": "Acts 29, Sonnini Manuscript",
+  "order": 6,
+  "section": "Early Christian Writings",
+  "folios": [],
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "sinaiticus": {
+            "text": "Paul an apostle, not of men, neither through man, but through Jesus Christ and God the Father, who raised him from the dead,"
+          },
+          "text": "Paul an apostle, not of men, neither through man, but through Jesus Christ and God the Father, who raised him from the dead,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 2,
+          "sinaiticus": {
+            "text": "and all the brethren that are with me, to the churches of Galatia."
+          },
+          "text": "and all the brethren that are with me, to the churches of Galatia.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 3,
+          "sinaiticus": {
+            "text": "Grace to you and peace from God the Father and our Lord Jesus Christ,"
+          },
+          "text": "Grace to you and peace from God the Father and our Lord Jesus Christ,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 4,
+          "sinaiticus": {
+            "text": "who gave himself for our sins, that he might deliver us from this present evil age, according to the will of our God and Father,"
+          },
+          "text": "who gave himself for our sins, that he might deliver us from this present evil age, according to the will of our God and Father,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 5,
+          "sinaiticus": {
+            "text": "to whom be glory from age to age: amen."
+          },
+          "text": "to whom be glory from age to age: amen.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 6,
+          "sinaiticus": {
+            "text": "I wonder that you are so soon turning away from him that called you into the grace of Christ, to a different gospel,"
+          },
+          "text": "I wonder that you are so soon turning away from him that called you into the grace of Christ, to a different gospel,",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 7,
+          "sinaiticus": {
+            "text": "which is not another, except that there are some that trouble you, and wish to pervert the gospel of Christ."
+          },
+          "text": "which is not another, except that there are some that trouble you, and wish to pervert the gospel of Christ.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 8,
+          "sinaiticus": {
+            "text": "But though even we or an angel from heaven preach to you a gospel beside that which we preached to you, let him be accursed."
+          },
+          "text": "But though even we or an angel from heaven preach to you a gospel beside that which we preached to you, let him be accursed.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 9,
+          "sinaiticus": {
+            "text": "As we have said before, even now I say again, if any one preach to you a gospel beside that which you received, let him be accursed."
+          },
+          "text": "As we have said before, even now I say again, if any one preach to you a gospel beside that which you received, let him be accursed.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 10,
+          "sinaiticus": {
+            "text": "For do I now persuade men or God? or seek I to please men? For if I yet pleased men, Christ’s servant I should not be."
+          },
+          "text": "For do I now persuade men or God? or seek I to please men? For if I yet pleased men, Christ’s servant I should not be.",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 11,
+          "sinaiticus": {
+            "text": "But I make known to you, brethren, the gospel that was preached by me, that it is not according to man;"
+          },
+          "text": "But I make known to you, brethren, the gospel that was preached by me, that it is not according to man;",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        },
+        {
+          "verse": 12,
+          "sinaiticus": {
+            "text": "for neither received I it from man, nor was I taught it, but through"
+          },
+          "text": "for neither received I it from man, nor was I taught it, but through",
+          "fragment": false,
+          "notes": null,
+          "fulltext_links": []
+        }
+      ]
+    }
+  ]
+}
