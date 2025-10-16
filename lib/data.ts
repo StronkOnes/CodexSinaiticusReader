@@ -3,7 +3,7 @@
 import fs from 'fs';
 import path from 'path';
 
-const DATA_DIR = path.join(process.cwd(), '..', 'data');
+const DATA_DIR = path.join(process.cwd(), 'data');
 console.log('Resolved DATA_DIR:', DATA_DIR);
 
 export async function getBookData(version: 'sinaiticus', bookId: string) {
